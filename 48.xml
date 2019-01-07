@@ -35,11 +35,11 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <height/>
+                                <height>5,3</height>
                             </handNote>
                         </handDesc>
                     </physDesc>
-                    <history>5,3
+                    <history>
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>

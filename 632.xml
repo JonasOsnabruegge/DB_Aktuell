@@ -54,13 +54,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Rüsselsheim am Main</placeName> 
+                                <placeName type="modern">Trebur</placeName> 
                             </origPlace>
                             <origDate notBefore="0070" notAfter="0250" cert="low"/>
                         </origin>
                         <provenance type="found" when="1928">
                             <placeName ref="ph">
-                               Rüsselsheim am Main, Flur "auf dem Biblis"
+                                Trebur, Flur "auf dem Biblis"
                             </placeName>
                         </provenance>
                         <provenance type="observed">
@@ -99,12 +99,12 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>Fundort nach RSOR und Schillinger-Häfele: Rüsselsheim, die Flur "auf dem Biblis" gehört jedoch zum Gemeindegebiet von Trebur.</p>
             </div>
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD
+                        HD075943
                     </bibl>
                     <bibl>
                         RSOR 64

@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CVan" ref="ph">Civitas Vangionum</placeName>
+                                <placeName type="civitas" key="CVan" ref="ph">Civitas Vangionum?</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
                                 <placeName type="modern">Kirn</placeName> 
                             </origPlace>
@@ -101,7 +101,7 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD
+                        HD076189
                     </bibl>
                     <bibl>
                         CIL XIII 6210

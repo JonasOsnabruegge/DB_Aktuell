@@ -45,10 +45,10 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" ref="CVSN">Civitas Ulpia Sueborum Nicrensium</placeName>
-                                <placeName type="vicus" ref=""/>
+                                <placeName type="vicus" ref="ph"/>
                                 <placeName type="modern">Heidelberg, Baden-Württemberg</placeName>
                             </origPlace>
-                            <origDate notBefore="0101" notAfter="200" cert="medium"/>
+                            <origDate notBefore="0101" notAfter="0200" cert="medium"/>
                         </origin>
                         <provenance type="found" when="1901"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8268">Bergheim, Vangerowstraße</placeName>
                             <geo>49.4089692, 8.67368550</geo>

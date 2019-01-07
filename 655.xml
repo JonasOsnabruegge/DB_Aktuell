@@ -57,7 +57,7 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CVan" ref="ph">Civitas Vangionum</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Mettenheim</placeName> 
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0250" cert="low"/>
@@ -107,7 +107,7 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD
+                        HD075790
                     </bibl>
                     <bibl>
                         CIL XIII 6267
