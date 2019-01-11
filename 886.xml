@@ -83,7 +83,7 @@
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
-                    <lb n="1"/><persName type="attested" ref="persons.xml#p"><persName type="divine" key="---s" role="god"><gap reason="lost" extent="unknown" unit="character"/>s</persName>
+                    <lb n="1"/><persName type="attested" ref="persons.xml#p"><name nymRef="---s" type="cognomen"><gap reason="lost" extent="unknown" unit="character"/>s</name>
                     <lb n="2"/><persName type="attested" ref="persons.xml#p"><name nymRef="---nus" type="cognomen"><gap reason="lost" extent="unknown" unit="character"/>ni</name></persName> <expan><abbr>f</abbr><ex>ilius</ex></expan></persName>
                     <lb n="3"/>miles ex
                     <lb n="4"/><orgName type="cohors" key="cohorsRaetorumetVindelicorum*">cohorte
@@ -107,7 +107,7 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD
+                        HD078454
                     </bibl>
                     <bibl>
                         CIL XIII 6242

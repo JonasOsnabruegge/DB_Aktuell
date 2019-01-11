@@ -99,10 +99,16 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD
+                        HD078456
                     </bibl>
                     <bibl>
                         CIL XIII 6253
+                    </bibl>
+                    <bibl>
+                        <ptr target="Weckerling1887"/>
+                        <biblScope>
+                            65
+                        </biblScope>
                     </bibl>
                 </listBibl>
             </div>

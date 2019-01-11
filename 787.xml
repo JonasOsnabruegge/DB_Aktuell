@@ -99,7 +99,13 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD
+                        HD078426
+                    </bibl>
+                    <bibl>
+                        <ptr target="SchallmayerPreuss1994"/>
+                        <biblScope>
+                            55, Nr. 64
+                        </biblScope>
                     </bibl>
                 </listBibl>
             </div>

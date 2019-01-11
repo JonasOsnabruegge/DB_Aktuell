@@ -104,6 +104,12 @@
                     <bibl>
                         CIL XIII 6255
                     </bibl>
+                    <bibl>
+                        <ptr target="Weckerling1885"/>
+                        <biblScope>
+                            37
+                        </biblScope>
+                    </bibl>
                 </listBibl>
             </div>
         </body>
