@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift für Saturninus Boudilli</title>
+                <title>Grabinschrift für einen princeps Sueborum</title>
                 <editor>Jonas Osnabrügge</editor>
             </titleStmt>
             <publicationStmt>
@@ -14,25 +14,25 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>verschollen</repository>
+                        <repository>Freiburg/Breisgau, Landesamt für Denkmalpflege</repository>
                         <idno></idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <p><term>Unbekannt</term>. Fragment von einem nicht näher identifizierten Monument, für die Sekundäverwendung abgearbeitet. Maßangaben aus alten Maßen (2,5 Fuß hoch, 2 Fuß breit, 4 Zoll tief, CIL) umgerechnet.</p>
-                                    <material></material>
+                                    <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType>, Teil einer Grabumfriedung, oben abgebrochen.</p>
+                                    <material>Sandstein</material>
                                         <dimensions unit="cm">
-                                            <height>(75)</height>
-                                            <width>(60)</width>
-                                            <depth>12</depth>
+                                            <height>(97)</height>
+                                            <width>108</width>
+                                            <depth>31</depth>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p>Die Inschrift befindet sich in einem eingetieften Inschriftfeld. Hederae als Worttrenner in Z. 3</p>
                                    <dimensions>
                                         <height></height>
                                         <width></width>
@@ -42,8 +42,8 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p></p>
-                                <height/>
+                                <p>(+~)</p>
+                                <height>10-6</height>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -51,15 +51,15 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CRiegel" ref="ph">Civitas von Riegel</placeName>
+                                <placeName type="civitas" key="CAA" ref="ph">Civitas Aurelia Aquensis</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Breisach am Rhein</placeName>
-                            <origDate notBefore="0070" notAfter="0130"></origDate>
+                                <placeName type="modern">Offenburg</placeName>
+                            <origDate notBefore="0100" notAfter="0250"></origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" when="1843">
+                            <provenance type="found" when="1994">
                             <placeName ref="ph">
-                                Breisach am Rhein, sekundär verwendet
+                                Offenburg, Bühl
                             </placeName>
                             </provenance>
                         <provenance type="observed">
@@ -83,8 +83,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
-                    <lb n="1"/><persName type="attested" ref="persons.xml#p"><name nymRef="Saturninus" type="cognomen">Saturninus</name>
-                    <lb n="2"/><persName type="attested" ref="persons.xml#p"><name nymRef="Boudillus" type="cognomen"><expan><abbr>Boudill</abbr><ex>i</ex></expan></name></persName></persName> <date type="age" dur="P80Y"><expan><abbr>a</abbr><ex>nnorum</ex></expan> <num value="80"><unclear>L</unclear>XXX</num></date>
+                    <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="1"/><persName type="attested" ref="persons.xml#p"><persName type="attested" ref="persons.xml#p"><name nymRef="---feto?" type="cognomen"><gap reason="lost" extent="unknown" unit="character"/>feton<supplied reason="lost">is</supplied></name></persName><supplied reason="lost" cert="low"> <expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></persName>
+                    <lb n="2"/><supplied reason="lost">princ</supplied>eps <orgName type="people" key="Suebi">Suebor<supplied reason="lost">um</supplied></orgName>
+                    <lb n="3"/><supplied reason="lost"><expan><abbr>h</abbr><ex>ic</ex></expan></supplied> <expan><abbr>s</abbr><ex>itus</ex></expan> est
+                    <lb n="4"/><persName type="attested" ref="persons.xml#p"><name nymRef="---" type="gentilicium"><gap reason="lost" extent="unknown" unit="character"/></name> <name nymRef="Proculus" type="cognomen">Proculus</name></persName> filius
+                    <lb n="5"/><supplied reason="lost">f</supplied>aciendum curavit
                 </ab>
             </div>
             <div type="apparatus">
@@ -99,13 +103,19 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD036907
+                        HD078489
                     </bibl>
                     <bibl>
-                        CIL XIII 5332
+                        <ptr target="Klug-TreppeLauberTrankle2012"/>
+                        <biblScope>
+                            48–49; Abb. 1
+                        </biblScope>
                     </bibl>
                     <bibl>
-                        CIRh 1650
+                        <ptr target="BlockLauberTrankle2016"/>
+                        <biblScope>
+                            497-516; m. Abb.
+                        </biblScope>
                     </bibl>
                 </listBibl>
             </div>

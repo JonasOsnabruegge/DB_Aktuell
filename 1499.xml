@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift für Saturninus Boudilli</title>
+                <title>Weihinschrift für Diana Abnoba des M. Sennius Fronto</title>
                 <editor>Jonas Osnabrügge</editor>
             </titleStmt>
             <publicationStmt>
@@ -14,25 +14,25 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>verschollen</repository>
+                        <repository>Badenweiler, Therme</repository>
                         <idno></idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <p><term>Unbekannt</term>. Fragment von einem nicht näher identifizierten Monument, für die Sekundäverwendung abgearbeitet. Maßangaben aus alten Maßen (2,5 Fuß hoch, 2 Fuß breit, 4 Zoll tief, CIL) umgerechnet.</p>
-                                    <material></material>
+                                    <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis</objectType>, mehrere, zum Teil aneinanderpassende Fragmente.</p>
+                                    <material>Kalkstein</material>
                                         <dimensions unit="cm">
-                                            <height>(75)</height>
-                                            <width>(60)</width>
-                                            <depth>12</depth>
+                                            <height>68,5</height>
+                                            <width>98</width>
+                                            <depth>123</depth>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p>Die Inschrift befindet sich auf dem Schaft. Geordnetes Schriftbild.</p>
                                    <dimensions>
                                         <height></height>
                                         <width></width>
@@ -42,8 +42,8 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p></p>
-                                <height/>
+                                <p>(+)</p>
+                                <height>5-5,5</height>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -53,13 +53,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CRiegel" ref="ph">Civitas von Riegel</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Breisach am Rhein</placeName>
+                                <placeName type="modern">Badenweiler</placeName>
                             <origDate notBefore="0070" notAfter="0130"></origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" when="1843">
+                            <provenance type="found" when="1784">
                             <placeName ref="ph">
-                                Breisach am Rhein, sekundär verwendet
+                                Badenweiler, Therme
                             </placeName>
                             </provenance>
                         <provenance type="observed">
@@ -71,20 +71,24 @@
         <profileDesc>
             <textClass>
                 <keywords scheme="DISS_JO">
-                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/92.html">Grabinschrift</term>
+                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/80">Weihinschrift</term>
                 </keywords>
             </textClass>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url=""/>
+        <graphic url="https://edh-www.adw.uni-heidelberg.de/fotos/F037695.JPG"/>
+        <graphic url="https://edh-www.adw.uni-heidelberg.de/fotos/F023771.JPG"/>
+        <graphic url="https://edh-www.adw.uni-heidelberg.de/fotos/F017866.JPG"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
-                    <lb n="1"/><persName type="attested" ref="persons.xml#p"><name nymRef="Saturninus" type="cognomen">Saturninus</name>
-                    <lb n="2"/><persName type="attested" ref="persons.xml#p"><name nymRef="Boudillus" type="cognomen"><expan><abbr>Boudill</abbr><ex>i</ex></expan></name></persName></persName> <date type="age" dur="P80Y"><expan><abbr>a</abbr><ex>nnorum</ex></expan> <num value="80"><unclear>L</unclear>XXX</num></date>
+                    <lb n="1"/><persName type="divine" key="Diana Abnoba" role="god">Dianae
+                        <lb n="2"/>Abonb<supplied reason="lost">ae</supplied></persName>
+                    <lb n="3"/><persName type="attested" ref="persons.xml#p" role="creator"><name nymRef="Marcus" type="praenomen"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name nymRef="Sennius" type="gentilicium">Senn<supplied reason="lost">i</supplied><hi rend="ligature">us</hi></name>
+                    <lb n="4"/><name nymRef="Fronto" type="cognomen"><supplied reason="lost">Fr</supplied>onto</name></persName> <expan><abbr>s</abbr><ex>olvie</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan>
                 </ab>
             </div>
             <div type="apparatus">
@@ -99,13 +103,19 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD036907
+                        HD001803
                     </bibl>
                     <bibl>
-                        CIL XIII 5332
+                        CIL XIII 5334
                     </bibl>
                     <bibl>
-                        CIRh 1650
+                        CIL XIII 5337
+                    </bibl>
+                    <bibl>
+                        AE 1984, p. 201 s. n. 701
+                    </bibl>
+                    <bibl>
+                        CIRh 1654
                     </bibl>
                 </listBibl>
             </div>

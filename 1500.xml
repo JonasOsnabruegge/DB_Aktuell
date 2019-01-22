@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift für Saturninus Boudilli</title>
+                <title>Inschriftfragment</title>
                 <editor>Jonas Osnabrügge</editor>
             </titleStmt>
             <publicationStmt>
@@ -14,25 +14,25 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>verschollen</repository>
+                        <repository>Aschaffenburg?</repository>
                         <idno></idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <p><term>Unbekannt</term>. Fragment von einem nicht näher identifizierten Monument, für die Sekundäverwendung abgearbeitet. Maßangaben aus alten Maßen (2,5 Fuß hoch, 2 Fuß breit, 4 Zoll tief, CIL) umgerechnet.</p>
-                                    <material></material>
+                                    <p><term>Unbekannt</term>, allseitig abgebrochenes Fragment.</p>
+                                    <material>Sandstein</material>
                                         <dimensions unit="cm">
-                                            <height>(75)</height>
-                                            <width>(60)</width>
-                                            <depth>12</depth>
+                                            <height></height>
+                                            <width></width>
+                                            <depth></depth>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p>Der untere Rand des Inschriftfeldes ist erhalten. Ungeordnetes Schriftbild.</p>
                                    <dimensions>
                                         <height></height>
                                         <width></width>
@@ -42,7 +42,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p></p>
+                                <p>(--)</p>
                                 <height/>
                             </handNote>
                         </handDesc>
@@ -51,15 +51,15 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CRiegel" ref="ph">Civitas von Riegel</placeName>
+                                <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Breisach am Rhein</placeName>
-                            <origDate notBefore="0070" notAfter="0130"></origDate>
+                                <placeName type="modern">Obernburg/Main</placeName>
+                            <origDate notBefore="0100" notAfter="0250"></origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" when="1843">
+                            <provenance type="found" when="1978">
                             <placeName ref="ph">
-                                Breisach am Rhein, sekundär verwendet
+                                Obernburg/Main, Kastell, bei, Kreßstraße
                             </placeName>
                             </provenance>
                         <provenance type="observed">
@@ -71,20 +71,21 @@
         <profileDesc>
             <textClass>
                 <keywords scheme="DISS_JO">
-                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/92.html">Grabinschrift</term>
+                    <term>unbekannt</term>
                 </keywords>
             </textClass>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url=""/>
+        <graphic url="https://edh-www.adw.uni-heidelberg.de/fotos/F030770.JPG"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
-                    <lb n="1"/><persName type="attested" ref="persons.xml#p"><name nymRef="Saturninus" type="cognomen">Saturninus</name>
-                    <lb n="2"/><persName type="attested" ref="persons.xml#p"><name nymRef="Boudillus" type="cognomen"><expan><abbr>Boudill</abbr><ex>i</ex></expan></name></persName></persName> <date type="age" dur="P80Y"><expan><abbr>a</abbr><ex>nnorum</ex></expan> <num value="80"><unclear>L</unclear>XXX</num></date>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/><orig><unclear>l</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" ref="persons.xml#p" role="creator"><name nymRef="Titus?" type="praenomen"><expan><abbr><unclear>T</unclear></abbr><ex cert="low">itus</ex></expan></name> <name nymRef="Crescen---?" type="gentilicium">Cres<unclear>cen</unclear><gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>v ml <hi rend="small">i</hi></orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">
@@ -99,13 +100,13 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD036907
+                        HD078503
                     </bibl>
                     <bibl>
-                        CIL XIII 5332
-                    </bibl>
-                    <bibl>
-                        CIRh 1650
+                        <ptr target="Schwendner1978"/>
+                        <biblScope>
+                            356
+                        </biblScope>
                     </bibl>
                 </listBibl>
             </div>

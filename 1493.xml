@@ -14,25 +14,25 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>unbekannt</repository>
+                        <repository>Badenweiler?</repository>
                         <idno></idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <p>Allseitig abgebrochenes Fragment. <term>Unbekannt</term>.</p>
-                                    <material></material>
+                                    <p>Allseitig abgebrochenes Fragment. <term>Unbekannt</term>, möglicherweise von einer Tafel.</p>
+                                    <material>Sandstein</material>
                                         <dimensions unit="cm">
                                             <height></height>
-                                            <width></width>
+                                            <width>(16)</width>
                                             <depth></depth>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p>Die linke untere Ecke des Inschriftfeldes ist erhalten.</p>
                                    <dimensions>
                                         <height></height>
                                         <width></width>
@@ -57,7 +57,7 @@
                             <origDate notBefore="0070" notAfter="0250"></origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" notAfter="1900">
+                            <provenance type="found" notAfter="1785">
                             <placeName ref="ph">
                                 Badenweiler
                             </placeName>
