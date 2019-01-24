@@ -14,7 +14,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Baden-Baden, Sschloss</repository>
+                        <repository>Rastatt, zentrales Fundarchiv</repository>
                         <idno></idno>
                     </msIdentifier>
                     <physDesc>
@@ -54,12 +54,13 @@
                                 <placeName type="civitas" key="CAA" ref="ph">Civitas Aurelia Aquensis</placeName>
                                 <placeName type="ancient" key="Aquae" ref="https://pleiades.stoa.org/places/108748">Aquae</placeName>
                                 <placeName type="modern">Baden-Baden</placeName>
-                            <origDate notBefore="0100" notAfter="0250"></origDate>
+                            <origDate notBefore="0070" notAfter="0100"></origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" when="1981">
+                            <provenance type="found" when="1980">
                             <placeName ref="ph">
-                                Baden-Baden
+                                <geo>48.7649 8.2368</geo>
+                                Baden-Baden, Hindenburgplatz, römisches Gräberfeld
                             </placeName>
                             </provenance>
                         <provenance type="observed">
@@ -77,7 +78,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url=""/>
+        <graphic url="lupa.at/img/8305.jpg"/>
     </facsimile>
     <text>
         <body>
@@ -85,7 +86,7 @@
                 <ab>
                     <lb n="1"/><persName type="attested" ref="persons.xml#p"><name nymRef="Caius" type="praenomen"><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name nymRef="Elvissius" type="gentilicium">Elvissius</name>
                     <lb n="2"/><name nymRef="Capito" type="cognomen">Capito</name></persName>
-                    <lb n="3"/>cives <orgName type="people" key="Treveri">Trever</orgName>
+                    <lb n="3"/>cives <orgName type="people" key="Treveri"><hi rend="ligature">Tr</hi>ever</orgName>
                     <lb n="4"/><expan><abbr>h</abbr><ex>eres</ex></expan> <expan><abbr>f</abbr><ex>aciendum</ex></expan> <expan><abbr>c</abbr><ex>uravit</ex></expan>
                     <lb n="5"/><expan><abbr>h</abbr><ex>ic</ex></expan> <expan><abbr>s</abbr><ex>itus</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan>
                 </ab>
@@ -102,12 +103,18 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD
+                        HD078571
                     </bibl>
                     <bibl>
                         <ptr target="Kakoschke2002"/>
                         <biblScope>
                             169, Nr. 1.147
+                        </biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr target="Nuber1995"/>
+                        <biblScope>
+                            144–145; Foto
                         </biblScope>
                     </bibl>
                 </listBibl>
