@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bauinschrift des Kastells Neckarburken</title>
+                <title>Weihinschrift für Iuppiter Optimus Maximus des Iuvenius Iucundus</title>
                 <editor>Jonas Osnabrügge</editor>
             </titleStmt>
             <publicationStmt>
@@ -14,25 +14,25 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Osterburken, Römermuseum</repository>
+                        <repository>Obernburg/Main, römermuseum</repository>
                         <idno></idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType>, Inschriftfeld flankiert von ansa in Form eines Peltenhenkels.</p>
-                                    <material>Kalkstein</material>
+                                    <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/103">Iuppitergigantensäule</objectType>, Ensemble aus Viergötterstein (Juno, Minerva, Mercurius, Hercules), mit rechteckigem Zwischensockel, Säulenbasis, Schuppensäule, Kapitell mit vier Büsten und bekrönendem Gigantenreiter.</p>
+                                    <material>Sandstein</material>
                                         <dimensions unit="cm">
-                                            <height>60</height>
-                                            <width>(306)</width>
-                                            <depth>13</depth>
+                                            <height>400</height>
+                                            <width></width>
+                                            <depth></depth>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p>Die Inschrift befindet sich in einem vertieften Inschriftfeld. Zentriertes, gleichmäßiges Schriftbild.</p>
+                                    <p>Z. 1 befindet sich auf der Säulenbasis, Z. 2 und 3 auf dem Zwischensockel in einem einfach eingetieften Inschriftfeld. Z. 2 steht auf Rasur mit merklich abfallender Qualität.</p>
                                    <dimensions>
                                         <height></height>
                                         <width></width>
@@ -42,8 +42,8 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p>Regelmäßige, überwiegend gleichmäßig ausgeführte quadratische Buchstaben mit Serifen (+~).</p>
-                                <height>10</height>
+                                <p>(-~)</p>
+                                <height>6,5-4</height>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -51,15 +51,16 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
+                                <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Neckarburken</placeName> 
-                            <origDate notBefore="0145" notAfter="0161"></origDate>
+                                <placeName type="modern">Obernburg/Main</placeName>
+                            <origDate notBefore="0130" notAfter="0260"></origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" when="1892">
+                            <provenance type="found" when="2000">
                             <placeName ref="ph">
-                               Neckarburken, Numeruskastell, beim Westtor
+                                <geo>49.8399 9.1446</geo>
+                                Obernburg/Main, Benefiziarier-Weihbezirk
                             </placeName>
                             </provenance>
                         <provenance type="observed">
@@ -71,21 +72,23 @@
         <profileDesc>
             <textClass>
                 <keywords scheme="DISS_JO">
-                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/86.html">Bauinschrift</term>
+                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/80">Weihinschrift</term>
                 </keywords>
             </textClass>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://lupa.at/img/15382-2.jpg"/>
+        <graphic url="http://db.edcs.eu/epigr/bilder/$AJahrBay-2015-83_1.jpg"/>
+        <graphic url="http://db.edcs.eu/epigr/bilder/$AJahrBay-2015-83_2.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
-                    <lb n="1"/><persName type="emperor" ref="https://www.wikidata.org/wiki/Q1429"><expan><abbr>Imp</abbr><ex>eratori</ex></expan> <expan><abbr>Caes</abbr><ex>ari</ex></expan> <name nymRef="Titus" type="praenomen"><expan><abbr>Tit</abbr><ex>o</ex></expan></name> <name nymRef="Aelius" type="gentilicium"><expan><abbr>Ael</abbr><ex>io</ex></expan></name> <name nymRef="Hadrianus" type="cognomen"><expan><abbr>Had</abbr><ex>riano</ex></expan></name> <name nymRef="Antoninus" type="cognomen"><expan><abbr>Ant</abbr><ex>onino</ex></expan></name> <expan><abbr><hi rend="ligature">Au</hi>g</abbr><ex>usto</ex></expan>
-                    <lb n="2"/>Pio <expan><abbr>pon</abbr><ex>tifici</ex></expan> <expan><abbr>max</abbr><ex>imo</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> <num value="4">IIII</num>
-                    <lb n="3"/><expan><abbr>p</abbr><ex>atri</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan></persName> <orgName type="numerus" key="numerus Brittonum Elantiensium" role="creator"><expan><abbr>n</abbr><ex>umerus</ex></expan> <expan><abbr>Brit</abbr><ex>tonum</ex></expan> <expan><abbr>Elant</abbr><ex>iensium</ex></expan></orgName>
+                    <lb n="1"/><persName type="divine" key="IOM" role="god"><expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>O</abbr><ex>ptimo</ex></expan> <expan><abbr>M</abbr><ex>aximo</ex></expan></persName>
+                    <milestone unit="section" type="Zwischensockel"/>
+                    <lb n="2"/><subst><add place="overstrike"><persName type="attested" ref="persons.xml#p" role="creator"><name nymRef="Iuvenius" type="gentilicium">Iuvenius</name> <name nymRef="Iucundus" type="cognomen"><expan><abbr>Iucun</abbr><ex>dus</ex></expan></name></persName></add><del rend="erasure"><gap reason="lost" quantity="1" unit="line"/></del></subst>
+                    <lb n="3"/><expan><abbr>cir</abbr><ex>citor</ex></expan> <expan><abbr>restit</abbr><ex>uit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
                 </ab>
             </div>
             <div type="apparatus">
@@ -100,22 +103,10 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD036551
+                        HD
                     </bibl>
                     <bibl>
-                        CIL XIII 6490
-                    </bibl>
-                    <bibl>
-                        AE 1893, 44
-                    </bibl>
-                    <bibl>
-                        RSO 64
-                    </bibl>
-                    <bibl>
-                        <ptr target="Wagner1911"/>
-                        <biblScope>
-                            386 f.
-                        </biblScope>
+                        AE 2015, 1015
                     </bibl>
                 </listBibl>
             </div>

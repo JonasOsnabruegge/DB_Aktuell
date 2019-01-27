@@ -98,16 +98,16 @@
                 <listBibl>
                     <bibl>
                         HD076069
+                    </bibl> 
+                    <bibl>
+                        <ptr target="Sprater1935"/>
+                        <biblScope>
+                            35; Abb. 5
+                        </biblScope>
                     </bibl>
                     <bibl>
-                        <bibl>
-                            <ptr target="Sprater1935"/>
-                            <biblScope>
-                                35; Abb. 5
-                            </biblScope>
-                        </bibl>
-                        <ptr target="Nesselhauf1937"/>
-                        <biblScope>
+                        <ptr target="Nesselhauf1937"/>  
+                        <biblScope> 
                             74, Nr. 80.1b
                         </biblScope>
                     </bibl>

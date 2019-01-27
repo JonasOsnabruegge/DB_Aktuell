@@ -108,10 +108,13 @@
                         AE 1953, 117b
                     </bibl>
                     <bibl>
-                        RSO 65
+                        CSIR D II/13, Nr. 57
                     </bibl>
                     <bibl>
-                        <ptr target="NesselhaufLieb1960"/>
+                        RSOR 65
+                    </bibl>
+                    <bibl>
+                        <ptr target="NesselhaufLieb1959"/>
                         <biblScope>
                             181, Nr. 156
                         </biblScope>

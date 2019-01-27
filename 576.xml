@@ -125,6 +125,12 @@
                         </biblScope>
                     </bibl>
                     <bibl>
+                        <ptr target="Nesselhauf1937"/>
+                        <biblScope>
+                            81, Nr. 101
+                        </biblScope>
+                    </bibl>
+                    <bibl>
                         <ptr target="Kortum1995"/>
                         <biblScope>
                             140

@@ -95,10 +95,16 @@
                         HD024403
                     </bibl>
                     <bibl>
-                        AE 1929, 0103.
+                        AE 1929, 0103
                     </bibl>
                     <bibl>
-                            RSO 171
+                        RSO 171
+                    </bibl>
+                    <bibl>
+                        <ptr target="Finke1927"/>
+                        <biblScope>
+                            203, Nr. 340
+                        </biblScope>
                     </bibl>
                     <bibl>
                         <ptr target="Wahle1928"/>

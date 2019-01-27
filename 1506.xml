@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bauinschrift des Kastells Neckarburken</title>
+                <title>Bauinschrift vom Altstadtkastell Miltenberg</title>
                 <editor>Jonas Osnabrügge</editor>
             </titleStmt>
             <publicationStmt>
@@ -14,25 +14,25 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Osterburken, Römermuseum</repository>
+                        <repository>Miltenberg, Museum der Stadt</repository>
                         <idno></idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType>, Inschriftfeld flankiert von ansa in Form eines Peltenhenkels.</p>
-                                    <material>Kalkstein</material>
+                                    <p>Links, rechts und unten abgebrochenes Fragment von einer <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType></p>
+                                    <material>Sandstein</material>
                                         <dimensions unit="cm">
-                                            <height>60</height>
-                                            <width>(306)</width>
-                                            <depth>13</depth>
+                                            <height>(41)</height>
+                                            <width>(43)</width>
+                                            <depth>18</depth>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p>Die Inschrift befindet sich in einem vertieften Inschriftfeld. Zentriertes, gleichmäßiges Schriftbild.</p>
+                                    <p>Die Inschrift befindet sich in einem profilgerahmten Inschriftfeld.</p>
                                    <dimensions>
                                         <height></height>
                                         <width></width>
@@ -42,8 +42,8 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p>Regelmäßige, überwiegend gleichmäßig ausgeführte quadratische Buchstaben mit Serifen (+~).</p>
-                                <height>10</height>
+                                <p>(++)</p>
+                                <height>7-6</height>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -51,15 +51,15 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Neckarburken</placeName> 
-                            <origDate notBefore="0145" notAfter="0161"></origDate>
+                                <placeName type="civitas" key="CAurG" ref="ph">Civitas Aurelia G...?</placeName>
+                                <placeName type="ancient" key="Seiopa" ref="https://pleiades.stoa.org/places/123117">Seiopa</placeName>
+                                <placeName type="modern">Miltenberg</placeName>
+                            <origDate notBefore="0198" notAfter="0209">Kaiser</origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" when="1892">
+                            <provenance type="found" when="1979">
                             <placeName ref="ph">
-                               Neckarburken, Numeruskastell, beim Westtor
+                                Miltenberg, Altstadtkastell
                             </placeName>
                             </provenance>
                         <provenance type="observed">
@@ -77,15 +77,18 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://lupa.at/img/15382-2.jpg"/>
+        <graphic url="https://edh-www.adw.uni-heidelberg.de/fotos/F023400.JPG"/>
+        <graphic url="http://lupa.at/img/6948.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
-                    <lb n="1"/><persName type="emperor" ref="https://www.wikidata.org/wiki/Q1429"><expan><abbr>Imp</abbr><ex>eratori</ex></expan> <expan><abbr>Caes</abbr><ex>ari</ex></expan> <name nymRef="Titus" type="praenomen"><expan><abbr>Tit</abbr><ex>o</ex></expan></name> <name nymRef="Aelius" type="gentilicium"><expan><abbr>Ael</abbr><ex>io</ex></expan></name> <name nymRef="Hadrianus" type="cognomen"><expan><abbr>Had</abbr><ex>riano</ex></expan></name> <name nymRef="Antoninus" type="cognomen"><expan><abbr>Ant</abbr><ex>onino</ex></expan></name> <expan><abbr><hi rend="ligature">Au</hi>g</abbr><ex>usto</ex></expan>
-                    <lb n="2"/>Pio <expan><abbr>pon</abbr><ex>tifici</ex></expan> <expan><abbr>max</abbr><ex>imo</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> <num value="4">IIII</num>
-                    <lb n="3"/><expan><abbr>p</abbr><ex>atri</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan></persName> <orgName type="numerus" key="numerus Brittonum Elantiensium" role="creator"><expan><abbr>n</abbr><ex>umerus</ex></expan> <expan><abbr>Brit</abbr><ex>tonum</ex></expan> <expan><abbr>Elant</abbr><ex>iensium</ex></expan></orgName>
+                    <lb n="1"/><supplied reason="lost">Imperatores C</supplied>aesares 
+                    <lb n="2"/><persName type="emperor" ref="persons.xml#p"><supplied reason="lost"><name nymRef="Lucius" type="praenomen"><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name nymRef="Septimius" type="gentilicium">Septimius</name> <name nymRef="Severus" type="cognomen">Se</supplied>verus</name> Au<supplied reason="lost"><expan><abbr>g</abbr><ex>ustus</ex></expan></supplied></persName>
+                    <lb n="3"/><supplied reason="lost">et <persName type="emperor" ref="persons.xml#p"><name nymRef="Marcus" type="praenomen"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name nymRef="Aurelius" type="gentilicium">Aurelius</name> <name nymRef="Antoninus" type="cognomen">An</supplied>ton<supplied reason="lost">inus</supplied></name>
+                    <lb n="4"/><supplied reason="lost">Pius <expan><abbr>Aug</abbr><ex>ustus</ex></expan></supplied></persName><gap reason="lost" extent="unknown" unit="character"/><orig>s</orig> faci<gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ep</unclear></orig>
                 </ab>
             </div>
             <div type="apparatus">
@@ -100,22 +103,14 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD036551
+                        HD01198
                     </bibl>
                     <bibl>
-                        CIL XIII 6490
+                        AE 1982, 717
                     </bibl>
+                    <!-- Kaschuba -->
                     <bibl>
-                        AE 1893, 44
-                    </bibl>
-                    <bibl>
-                        RSO 64
-                    </bibl>
-                    <bibl>
-                        <ptr target="Wagner1911"/>
-                        <biblScope>
-                            386 f.
-                        </biblScope>
+                        CSIR D II/13, Nr. 228
                     </bibl>
                 </listBibl>
             </div>

@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift für den Genius der exploratores Triputensium</title>
+                <title>Grabinschrift für C. Veterius Secundus</title>
                 <editor>Jonas Osnabrügge</editor>
             </titleStmt>
             <publicationStmt>
@@ -14,25 +14,25 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Miltenberg, Museum der Stadt</repository>
+                        <repository>Rastatt, Zentrales Fundarchiv</repository>
                         <idno></idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis</objectType>. Oberhalb der Inschrift Genius, auf Höhe der Taille abgebrochen. Links hinter dem Genius liegender Stier.</p>
+                                    <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType> mit Dreiecksgiebel, horizontal gebrochen, im Giebelfeld Akanthusdreipass mit Rosettendekor.</p>
                                     <material>Sandstein</material>
                                         <dimensions unit="cm">
-                                            <height>(36)</height>
-                                            <width>(13)</width>
-                                            <depth>(22)</depth>
+                                            <height></height>
+                                            <width></width>
+                                            <depth></depth>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p>Die Inschrift befindet sich auf der Vorderseite der Plinthe</p>
+                                    <p></p>
                                    <dimensions>
                                         <height></height>
                                         <width></width>
@@ -42,8 +42,8 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p>(--)</p>
-                                <height>1,5-1,8</height>
+                                <p>(-)</p>
+                                <height/>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -51,15 +51,15 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
-                                <placeName type="ancient" key="Seiopa" ref="https://pleiades.stoa.org/places/123117">Seiopa</placeName>
-                                <placeName type="modern">Miltenberg</placeName>
-                            <origDate notBefore="0160" notAfter="0250"></origDate>
+                                <placeName type="civitas" key="CAA" ref="ph">Civitas Aurelia Aquensis</placeName>
+                                <placeName type="ancient" key="Aquae" ref="https://pleiades.stoa.org/places/108748">Aquae</placeName>
+                                <placeName type="modern">Baden-Baden</placeName>
+                            <origDate notBefore="0070" notAfter="0100"></origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" when="1873">
+                            <provenance type="found" when="0000">
                             <placeName ref="ph">
-                               Miltenberg, Kastell Altstadt, bei
+                                
                             </placeName>
                             </provenance>
                         <provenance type="observed">
@@ -71,20 +71,27 @@
         <profileDesc>
             <textClass>
                 <keywords scheme="DISS_JO">
-                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/80">Weihinschrift</term>
+                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/92.html">Grabinschrift</term>
                 </keywords>
             </textClass>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://lupa.at/img/6954.jpg"/>
+        <graphic url=""/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="Genius exploratorum Triputiensium" role="god">Genio <orgName type="exploratores" key="exploratores Triputienses"><expan><abbr>expl</abbr><ex>oratorum</ex></expan> <expan><abbr>Trip</abbr><ex>utiensium</ex></expan></orgName></persName>
-                    <lb n="2"/><persName type="attested" ref="persons.xml#p" role="creator"><name nymRef="Marcus" type="praenomen"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name nymRef="Aelius" type="gentilicium"><expan><abbr>Ael</abbr><ex>ius</ex></expan></name> <name nymRef="Titus" type="cognomen">Titus</name></persName> <expan><abbr>lib</abbr><ex>rarius</ex></expan> <supplied reason="lost" cert="low"><expan><abbr>p</abbr><ex>osuit</ex></expan></supplied>
+                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan>
+                    <lb n="2"/><persName type="attested" ref="persons.xml#p"><name nymRef="Caius" type="praenomen"><expan><abbr>C</abbr><ex>aio</ex></expan></name> <name nymRef="Verterius" type="gentilicium">Verterio</name>
+                    <lb n="3"/><expan><abbr>C</abbr><ex>ai</ex></expan> <expan><abbr>f</abbr><ex>ilio</ex></expan> <placeName type="ancient" nymRef="Lucus Augusti" ref="https://pleiades.stoa.org/places/236525">Luco <expan><abbr>Aug</abbr><ex>usti</ex></expan></placeName>
+                    <lb n="4"/><name nymRef="Secundus" type="cognomen">Secundo</name></persName>
+                    <lb n="5"/>militi <orgName type="legio" key="legio VIII Augusta"><expan><abbr>leg</abbr><ex>ionis</ex></expan> <num value="8">VIII</num> <expan><abbr>Aug</abbr><ex>ustae</ex></expan></orgName>
+                    <lb n="6"/><orgName type="centuria" key="centuria Sex. Octavi Primani"><expan><am><g type="centuria"/></am><ex>centuria</ex></expan> <persName type="attested" ref="persons.xml#p"><name nymRef="Sextus" type="praenomen"><expan><abbr>S</abbr><ex>exti</ex></expan></name> <name nymRef="Octavius" type="gentilicium">Oct<hi rend="ligature">av</hi>i</name> <name nymRef="Primanus" type="cognomen">P<hi rend="ligature">ri</hi>mani</name></persName></orgName>
+                    <lb n="7"/><date type="military-service-span" dur="P2Y">stipendiorum <num value="2">II</num></date>
+                    <lb n="8"/><date type="age" dur="P22Y"><expan><abbr>ann</abbr><ex>orum</ex></expan> <num value="22">XXII</num></date> <expan><abbr>frat</abbr><ex>ri</ex></expan> <expan><abbr>pient</abbr><ex>issimo</ex></expan>
+                    <lb n="9"/><expan><abbr>f</abbr><ex>rater</ex></expan> <expan><abbr>d</abbr><ex>e</ex></expan> <expan><abbr>s</abbr><ex>uo</ex></expan> <expan><abbr>c</abbr><ex>uravit</ex></expan>
                 </ab>
             </div>
             <div type="apparatus">
@@ -99,21 +106,12 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD042001
+                        HD
                     </bibl>
                     <bibl>
-                        CIL XIII 6599
-                    </bibl>
-                    <bibl>
-                        CSIR D II/13, Nr. 213
-                    </bibl>
-                    <bibl>
-                        RSO 15
-                    </bibl>
-                    <bibl>
-                        <ptr target="Esperandieu1931"/>
+                        <ptr target="Reuter2018"/>
                         <biblScope>
-                            126, Nr. 188
+                            154–157
                         </biblScope>
                     </bibl>
                 </listBibl>

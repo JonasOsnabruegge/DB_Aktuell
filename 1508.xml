@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bauinschrift des Kastells Neckarburken</title>
+                <title>Fragment einer Weihinschrift für Iuppiter Optimus Maximus</title>
                 <editor>Jonas Osnabrügge</editor>
             </titleStmt>
             <publicationStmt>
@@ -14,25 +14,25 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Osterburken, Römermuseum</repository>
+                        <repository>verschollen</repository>
                         <idno></idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType>, Inschriftfeld flankiert von ansa in Form eines Peltenhenkels.</p>
-                                    <material>Kalkstein</material>
+                                    <p>Allseitig abgebrochenes Fragment von einem <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>, Reste der Bekrönung erhalten.</p>
+                                    <material>Sandstein</material>
                                         <dimensions unit="cm">
-                                            <height>60</height>
-                                            <width>(306)</width>
-                                            <depth>13</depth>
+                                            <height>(18)</height>
+                                            <width>(8)</width>
+                                            <depth>(18)</depth>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p>Die Inschrift befindet sich in einem vertieften Inschriftfeld. Zentriertes, gleichmäßiges Schriftbild.</p>
+                                    <p>Die Inschrift befindet sich auf dem Gesims.</p>
                                    <dimensions>
                                         <height></height>
                                         <width></width>
@@ -42,8 +42,8 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p>Regelmäßige, überwiegend gleichmäßig ausgeführte quadratische Buchstaben mit Serifen (+~).</p>
-                                <height>10</height>
+                                <p></p>
+                                <height/>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -51,15 +51,16 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
+                                <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Neckarburken</placeName> 
-                            <origDate notBefore="0145" notAfter="0161"></origDate>
+                                <placeName type="modern">Dieburg</placeName>
+                            <origDate notBefore="0150" notAfter="0250"></origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" when="1892">
+                            <provenance type="found" when="1926">
                             <placeName ref="ph">
-                               Neckarburken, Numeruskastell, beim Westtor
+                                <geo>49.90 8.85</geo>
+                                Dieburg
                             </placeName>
                             </provenance>
                         <provenance type="observed">
@@ -71,21 +72,20 @@
         <profileDesc>
             <textClass>
                 <keywords scheme="DISS_JO">
-                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/86.html">Bauinschrift</term>
+                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/80">Weihinschrift</term>
                 </keywords>
             </textClass>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://lupa.at/img/15382-2.jpg"/>
+        <graphic url="http://db.edcs.eu/epigr/bilder/$IDieburg_00010.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
-                    <lb n="1"/><persName type="emperor" ref="https://www.wikidata.org/wiki/Q1429"><expan><abbr>Imp</abbr><ex>eratori</ex></expan> <expan><abbr>Caes</abbr><ex>ari</ex></expan> <name nymRef="Titus" type="praenomen"><expan><abbr>Tit</abbr><ex>o</ex></expan></name> <name nymRef="Aelius" type="gentilicium"><expan><abbr>Ael</abbr><ex>io</ex></expan></name> <name nymRef="Hadrianus" type="cognomen"><expan><abbr>Had</abbr><ex>riano</ex></expan></name> <name nymRef="Antoninus" type="cognomen"><expan><abbr>Ant</abbr><ex>onino</ex></expan></name> <expan><abbr><hi rend="ligature">Au</hi>g</abbr><ex>usto</ex></expan>
-                    <lb n="2"/>Pio <expan><abbr>pon</abbr><ex>tifici</ex></expan> <expan><abbr>max</abbr><ex>imo</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> <num value="4">IIII</num>
-                    <lb n="3"/><expan><abbr>p</abbr><ex>atri</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan></persName> <orgName type="numerus" key="numerus Brittonum Elantiensium" role="creator"><expan><abbr>n</abbr><ex>umerus</ex></expan> <expan><abbr>Brit</abbr><ex>tonum</ex></expan> <expan><abbr>Elant</abbr><ex>iensium</ex></expan></orgName>
+                    <lb n="1"/><persName type="divine" key="IOM" role="god"><supplied reason="lost"><expan><abbr>I</abbr><ex>ovi</ex></expan></supplied> <expan><abbr>O</abbr><ex>ptimo</ex></expan> <supplied reason="lost"><expan><abbr>M</abbr><ex>aximo</ex></expan></supplied></persName>
+                    <milestone unit="section" type="corpus"/><lb n="2"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>
             <div type="apparatus">
@@ -100,22 +100,13 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD036551
+                        HD075930
                     </bibl>
                     <bibl>
-                        CIL XIII 6490
+                        RSO 194
                     </bibl>
                     <bibl>
-                        AE 1893, 44
-                    </bibl>
-                    <bibl>
-                        RSO 64
-                    </bibl>
-                    <bibl>
-                        <ptr target="Wagner1911"/>
-                        <biblScope>
-                            386 f.
-                        </biblScope>
+                        IDieburg 10
                     </bibl>
                 </listBibl>
             </div>

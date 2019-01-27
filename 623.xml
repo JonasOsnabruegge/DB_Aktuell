@@ -105,13 +105,16 @@
                         HD018560
                     </bibl>
                     <bibl>
-                        AE 1953, 117a
+                        AE 1953, 117c
                     </bibl>
                     <bibl>
-                        RSO 66
+                        CSIR D II/13, Nr. 56
                     </bibl>
                     <bibl>
-                        <ptr target="NesselhaufLieb1960"/>
+                        RSOR 66
+                    </bibl>
+                    <bibl>
+                        <ptr target="NesselhaufLieb1959"/>
                         <biblScope>
                             180, Nr. 155
                         </biblScope>

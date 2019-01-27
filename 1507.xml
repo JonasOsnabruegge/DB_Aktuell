@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bauinschrift des Kastells Neckarburken</title>
+                <title>Weihinschrift für Epona des P. Iunius Insidus</title>
                 <editor>Jonas Osnabrügge</editor>
             </titleStmt>
             <publicationStmt>
@@ -14,25 +14,25 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Osterburken, Römermuseum</repository>
+                        <repository></repository>
                         <idno></idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType>, Inschriftfeld flankiert von ansa in Form eines Peltenhenkels.</p>
-                                    <material>Kalkstein</material>
+                                    <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/25">Votivrelief</objectType> mit Darstellung einer thronenden Epona, auf ihrem Schoß ein Gefäß mit Früchten haltend; links von ihr ein über einem kleinen Altar opferneder Opferdiener, zu ihrer Rechten Vorderteil eines Pferdes. Die Köpfe abgeschlagen, qualitätvolle Darstellung.</p>
+                                    <material>Sandstein</material>
                                         <dimensions unit="cm">
-                                            <height>60</height>
-                                            <width>(306)</width>
-                                            <depth>13</depth>
+                                            <height>43</height>
+                                            <width>35,5</width>
+                                            <depth>11,5</depth>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p>Die Inschrift befindet sich in einem vertieften Inschriftfeld. Zentriertes, gleichmäßiges Schriftbild.</p>
+                                    <p>Die Inschrift befindet sich unterhalb des Reliefs.</p>
                                    <dimensions>
                                         <height></height>
                                         <width></width>
@@ -42,8 +42,8 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p>Regelmäßige, überwiegend gleichmäßig ausgeführte quadratische Buchstaben mit Serifen (+~).</p>
-                                <height>10</height>
+                                <p>(+)</p>
+                                <height>2,7-1,85</height>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -51,15 +51,16 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Neckarburken</placeName> 
-                            <origDate notBefore="0145" notAfter="0161"></origDate>
+                                <placeName type="civitas" key="CAurG" ref="ph">Civitas Aurelia G...?</placeName>
+                                <placeName type="ancient" key="Vicus Aurelianus" ref="https://pleiades.stoa.org/places/119026">Vicus Aurelianus</placeName>
+                                <placeName type="modern">Öhringen</placeName> 
+                            <origDate notBefore="0200" notAfter="0250"></origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" when="1892">
+                            <provenance type="found" when="1986-06-12">
                             <placeName ref="ph">
-                               Neckarburken, Numeruskastell, beim Westtor
+                                <geo>49.2017 9.5039</geo>
+                               Öhringen, Weygangstraße/Rendelstraße, Ecke
                             </placeName>
                             </provenance>
                         <provenance type="observed">
@@ -71,21 +72,20 @@
         <profileDesc>
             <textClass>
                 <keywords scheme="DISS_JO">
-                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/86.html">Bauinschrift</term>
+                    <term ref="https://www.eagle-network.eu/voc/typeins/lod/80">Weihinschrift</term>
                 </keywords>
             </textClass>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://lupa.at/img/15382-2.jpg"/>
+        <graphic url=""/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
-                    <lb n="1"/><persName type="emperor" ref="https://www.wikidata.org/wiki/Q1429"><expan><abbr>Imp</abbr><ex>eratori</ex></expan> <expan><abbr>Caes</abbr><ex>ari</ex></expan> <name nymRef="Titus" type="praenomen"><expan><abbr>Tit</abbr><ex>o</ex></expan></name> <name nymRef="Aelius" type="gentilicium"><expan><abbr>Ael</abbr><ex>io</ex></expan></name> <name nymRef="Hadrianus" type="cognomen"><expan><abbr>Had</abbr><ex>riano</ex></expan></name> <name nymRef="Antoninus" type="cognomen"><expan><abbr>Ant</abbr><ex>onino</ex></expan></name> <expan><abbr><hi rend="ligature">Au</hi>g</abbr><ex>usto</ex></expan>
-                    <lb n="2"/>Pio <expan><abbr>pon</abbr><ex>tifici</ex></expan> <expan><abbr>max</abbr><ex>imo</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> <num value="4">IIII</num>
-                    <lb n="3"/><expan><abbr>p</abbr><ex>atri</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan></persName> <orgName type="numerus" key="numerus Brittonum Elantiensium" role="creator"><expan><abbr>n</abbr><ex>umerus</ex></expan> <expan><abbr>Brit</abbr><ex>tonum</ex></expan> <expan><abbr>Elant</abbr><ex>iensium</ex></expan></orgName>
+                    <lb n="1"/>In <expan><abbr>h</abbr><ex>onorem</ex></expan> <expan><abbr>d</abbr><ex>omus</ex></expan> <expan><abbr>d</abbr><ex>ivinae</ex></expan> <expan><abbr>h</abbr><ex>oc</ex></expan> <persName type="divine" key="Epona" role="god">Eponae</persName>
+                    <lb n="2"/>signum <persName type="attested" ref="persons.xml#p" role="creator"><name nymRef="Publius" type="praenomen"><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <name nymRef="Iunius" type="gentilicium">Iunius</name> <name nymRef="Insidus" type="cognomen">Ins<lb n="3" break="no"/>idus</name></persName> <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
                 </ab>
             </div>
             <div type="apparatus">
@@ -100,21 +100,15 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD036551
+                        HD024702
                     </bibl>
                     <bibl>
-                        CIL XIII 6490
+                        AE 1990, 764
                     </bibl>
                     <bibl>
-                        AE 1893, 44
-                    </bibl>
-                    <bibl>
-                        RSO 64
-                    </bibl>
-                    <bibl>
-                        <ptr target="Wagner1911"/>
+                        <ptr target="FellendorfOlshausen1989"/>
                         <biblScope>
-                            386 f.
+                            351–358; Abb. 1 u. 2
                         </biblScope>
                     </bibl>
                 </listBibl>

@@ -107,8 +107,20 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD
+                        HD036778
                     </bibl>
+                    <bibl>
+                        CIL XIII 9118
+                    </bibl>
+                    <bibl>
+                        CIL XVII/2, 647
+                    </bibl>
+                    <bibl>
+                        <ptr target="Wagner1911"/>
+                        <biblScope>
+                            47-48
+                        </biblScope>
+                    </bibl> 
                 </listBibl>
             </div>
         </body>

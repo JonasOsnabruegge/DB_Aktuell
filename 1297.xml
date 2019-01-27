@@ -108,10 +108,13 @@
                         CIL XIII 11766
                     </bibl>
                     <bibl>
+                        AE 1978, 531
+                    </bibl>
+                    <bibl>
                         AE 1981, 693
                     </bibl>
                     <bibl>
-                        AE 1986, 309
+                        AE 1986, 524
                     </bibl>
                     <bibl>
                         AE 2004, 1007
@@ -121,6 +124,12 @@
                     </bibl>
                     <bibl>
                         RSO 17
+                    </bibl>
+                    <bibl>
+                        <ptr target="Schillinger-Häfele1977"/>
+                        <biblScope>
+                            484, Nr. 50
+                        </biblScope>
                     </bibl>
                 </listBibl>
             </div>

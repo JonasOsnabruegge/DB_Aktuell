@@ -105,6 +105,15 @@
                     <bibl>
                         HD036731
                     </bibl>
+                    <bibl>
+                        RSO 54
+                    </bibl>
+                    <bibl>
+                        <ptr target="NesselhaufLieb1959"/>
+                        <biblScope>
+                            176, Nr. 141
+                        </biblScope>
+                    </bibl>
                 </listBibl>
             </div>
         </body>
