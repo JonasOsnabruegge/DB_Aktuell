@@ -44,8 +44,8 @@
                             <handNote>
                                 <p></p>
                                 <height>12-6</height>
-                        </handDesc>
                             </handNote>
+                        </handDesc>   
                     </physDesc>
                     <history>
                         <origin>
@@ -61,6 +61,7 @@
                             <placeName ref="ph">
                                 <geo></geo>
                                 Bad Kreuznach, Kastell, sekundär verwendet
+                            </placeName>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
