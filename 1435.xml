@@ -104,6 +104,12 @@
                     <bibl>
                         HD036595
                     </bibl>
+                    <bibl>
+                        <ptr target="RIBW"/>
+                        <biblScope>
+                            225
+                        </biblScope>
+                    </bibl>
                 </listBibl>
             </div>
         </body>
