@@ -53,7 +53,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CVSN" ref="ph">Civitas Ulpia Sueborum Nicrensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern"></placeName>
+                                <placeName type="modern">Wiesloch</placeName>
                             <origDate notBefore="0170" notAfter="0230"></origDate>
                             </origPlace>
                         </origin>

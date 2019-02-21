@@ -52,7 +52,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CVan?" ref="ph">Civitas Vangionum?</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="modern"/> 
+                                <placeName type="modern">Unbekannt</placeName> 
                             </origPlace>
                             <origDate notBefore="0350" notAfter="0600"/>
                         </origin>

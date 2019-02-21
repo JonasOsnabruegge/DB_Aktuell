@@ -53,7 +53,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="modern"/> 
+                                <placeName type="modern">Riedstadt-Goddelau</placeName> 
                             </origPlace>
                             <origDate notBefore="0500" notAfter="0600" cert="low"/>
                         </origin>

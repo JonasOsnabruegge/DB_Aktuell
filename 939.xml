@@ -52,7 +52,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAA" ref="ph">Civitas Aurelia Aquensis</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern"/> 
+                                <placeName type="modern">Rastatt</placeName> 
                             </origPlace>
                             <origDate notBefore="0166" notAfter="0182"/>
                         </origin>

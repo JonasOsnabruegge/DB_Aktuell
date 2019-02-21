@@ -52,7 +52,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="municipium" key="CSum" ref="oh">Civitas Sumelocennensis</placeName>
                                 <placeName type="ancient" key="ph" ref="https://pleiades.stoa.org/places/118706">Grinario</placeName>
-                                <placeName type="modern"/> 
+                                <placeName type="modern">Köngen</placeName> 
                             <origDate when-custom="0217-11-05" datingMethod="#julian" type="consulship"/>
                             </origPlace>
                         </origin>
