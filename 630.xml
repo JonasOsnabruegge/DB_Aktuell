@@ -56,7 +56,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CVan" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern"/> 
+                                <placeName type="modern">Weiterstadt</placeName> 
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0150" cert="low"/>
                         </origin>

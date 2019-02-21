@@ -44,9 +44,9 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" ref="ph"/>
+                                <placeName type="civitas" ref="ph" key="CVSN">Civitas Ulpia Sueborum Nicrensium</placeName>
                                 <placeName type="vicus" ref="ph"/>
-                                <placeName type="modern"/>
+                                <placeName type="modern">Heidelberg</placeName>
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>

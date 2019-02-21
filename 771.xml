@@ -52,7 +52,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia G(---) S(---)</placeName>
+                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia...?</placeName>
                                 <placeName type="ph" key="ph" ref="https://pleiades.stoa.org/places/108820"/>
                                 <placeName type="modern">Mainhardt</placeName> 
                             </origPlace>

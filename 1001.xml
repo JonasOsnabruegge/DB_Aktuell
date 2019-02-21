@@ -52,7 +52,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="municipium" key="ph" ref="ph">unbekannt</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern"/> 
+                                <placeName type="modern">Unbekannt</placeName> 
                             <origDate notBefore="0070" notAfter="0250"/>
                             </origPlace>
                         </origin>
