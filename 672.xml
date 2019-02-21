@@ -114,9 +114,15 @@
                         AE 1978, 523
                     </bibl>
                     <bibl>
-                        <ptr target="Schillinger-Häfele1977"/>
+                        <ptr target="Schillinger-Haefele1977"/>
                         <biblScope>
                             479, Nr. 41
+                        </biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr target="Nesselhauf1967"/>
+                        <biblScope>
+                            114, Nr. 3
                         </biblScope>
                     </bibl>
                 </listBibl>

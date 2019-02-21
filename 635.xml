@@ -93,7 +93,7 @@
             </div>
             <div type="apparatus">
                 <p>
-                    Schillinger-Häfele: P. Pet[ron]ii Caeser[nii] als mögliche Variante; für Z. 4 vielleicht Gen]io c[ollegi- convenarum?
+                    Schillinger-Haefele: P. Pet[ron]ii Caeser[nii] als mögliche Variante; für Z. 4 vielleicht Gen]io c[ollegi- convenarum?
                 </p>
             </div>
             <div type="translation">
@@ -111,9 +111,15 @@
                         AE 1978, 521
                     </bibl>
                     <bibl>
-                        <ptr target="Schillinger-Häfele1977"/>
+                        <ptr target="Schillinger-Haefele1977"/>
                         <biblScope>
                             477-478, Nr. 38
+                        </biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr target="Nesselhauf1967"/>
+                        <biblScope>
+                            113, Nr. 1
                         </biblScope>
                     </bibl>
                 </listBibl>

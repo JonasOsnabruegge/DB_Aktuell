@@ -112,9 +112,15 @@
                         HD054708
                     </bibl>
                     <bibl>
-                        <ptr target="Schillinger-Häfele1977"/>
+                        <ptr target="Schillinger-Haefele1977"/>
                         <biblScope>
                             478, Nr. 39
+                        </biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr target="Nesselhauf1967"/>
+                        <biblScope>
+                            114, Nr. 2
                         </biblScope>
                     </bibl>
                 </listBibl>

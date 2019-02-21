@@ -99,7 +99,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p>Fundort nach RSOR und Schillinger-Häfele: Rüsselsheim, die Flur "auf dem Biblis" gehört jedoch zum Gemeindegebiet von Trebur.</p>
+                <p>Fundort nach RSOR und Schillinger-Haefele: Rüsselsheim, die Flur "auf dem Biblis" gehört jedoch zum Gemeindegebiet von Trebur.</p>
             </div>
             <div type="bibliography">
                 <listBibl>
@@ -110,7 +110,7 @@
                         RSOR 64
                     </bibl>
                     <bibl>
-                        <ptr target="Schillinger-Häfele1977"/>
+                        <ptr target="Schillinger-Haefele1977"/>
                         <biblScope>
                             475-476, Nr. 34
                         </biblScope>
