@@ -54,15 +54,15 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia...?</placeName>
+                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia G...?</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Mainhardt:</placeName> südlich des Kastells 
+                                <placeName type="modern">Mainhardt</placeName>
                             </origPlace>
                             <origDate when-custom="0181" datingMethod="#julian" type="consulship"/>
                         </origin>
                         <provenance type="found" when="1967">
                             <placeName ref="ph">
-                               Mainhardt, beim Bau des neuen Schulhauses und der Anlage eines Sportplatzes, südlich des Kastells.
+                               Mainhardt, beim Bau des neuen Schulhauses und der Anlage eines Sportplatzes, südlich des Kastells
                             </placeName>
                         </provenance>
                         <provenance type="observed">

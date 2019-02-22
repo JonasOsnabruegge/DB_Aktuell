@@ -52,9 +52,9 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia...?</placeName>
+                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia G...?</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Mainhardt:</placeName> Kastell 
+                                <placeName type="modern">Mainhardt</placeName>
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
@@ -91,7 +91,7 @@
                     <lb n="3"/><persName type="attested" ref="persons.xml#p" role="creator"><name nymRef="Cobrunius" type="gentilicium">Cobruni<lb n="4" break="no"/>us</name> D<name nymRef="Divixtus" type="cognomen">ivix<lb n="4" break="no"/>tus</name></persName> <expan><abbr>opt</abbr><ex>io</ex></expan>
                     <lb n="5"/>ex voto
                     <lb n="6"/><expan><abbr>p</abbr><ex>osuit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
-                    
+
                 </ab>
             </div>
             <div type="apparatus">

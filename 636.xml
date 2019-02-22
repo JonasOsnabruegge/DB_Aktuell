@@ -52,9 +52,9 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia...?</placeName>
+                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia G...?</placeName>
                                 <placeName type="ancient" key="ph" ref="https://pleiades.stoa.org/places/119026">Vicus Aurelianus</placeName>
-                                <placeName type="modern">Öhringen</placeName> 
+                                <placeName type="modern">Öhringen</placeName>
                             </origPlace>
                             <origDate notBefore="0198" notAfter="0209" cert="low"/>
                         </origin>
@@ -86,7 +86,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" quantity="1" unit="line"/>
                     <milestone unit="section" type="corpus"/>
-                    <lb n="2"/><expan><abbr>Imp<am>p</am></abbr><ex>eratorum</ex></expan> <persName type="emperor" ref="persons.xml#p"><name nymRef="Lucius" type="praenomen"><expan><abbr>L</abbr><ex>uci</ex></expan></name> <name nymRef="Septimius*" type="gentilicium"><expan><abbr>Sept</abbr><ex>imi</ex></expan></name> <name nymRef="Severus+" type="cognomen">S<supplied reason="lost">e</supplied><lb n="3" break="no"/>veri</name></persName> et <persName type="emperor" ref="persons.xml#p"><name nymRef="Marcus" type="praenomen"><expan><abbr>M</abbr><ex>arci</ex></expan></name> <name nymRef="Aurelius+*" type="gentilicium"><supplied reason="lost"><expan><abbr>Aur</abbr><ex>eli</ex></expan></supplied></name> 
+                    <lb n="2"/><expan><abbr>Imp<am>p</am></abbr><ex>eratorum</ex></expan> <persName type="emperor" ref="persons.xml#p"><name nymRef="Lucius" type="praenomen"><expan><abbr>L</abbr><ex>uci</ex></expan></name> <name nymRef="Septimius*" type="gentilicium"><expan><abbr>Sept</abbr><ex>imi</ex></expan></name> <name nymRef="Severus+" type="cognomen">S<supplied reason="lost">e</supplied><lb n="3" break="no"/>veri</name></persName> et <persName type="emperor" ref="persons.xml#p"><name nymRef="Marcus" type="praenomen"><expan><abbr>M</abbr><ex>arci</ex></expan></name> <name nymRef="Aurelius+*" type="gentilicium"><supplied reason="lost"><expan><abbr>Aur</abbr><ex>eli</ex></expan></supplied></name>
                     <lb n="4"/><name nymRef="Antoninus+" type="cognomen">Anton<supplied reason="lost">ini</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><expan><abbr>Aug<am>g</am></abbr><ex>ustorum</ex></expan> et <persName type="emperor" ref="persons.xml#p"><name nymRef="Geta++" type="cognomen"><del rend="erasure">Get<lb n="6" break="no"/>ae</del></name></persName> <expan><abbr>Ca<supplied reason="lost">es</supplied></abbr><ex>aris</ex></expan><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><orig>ivm</orig><gap reason="lost" extent="unknown" unit="character"/>

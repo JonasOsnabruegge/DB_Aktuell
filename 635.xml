@@ -52,9 +52,9 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia...?</placeName>
+                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia G...?</placeName>
                                 <placeName type="ancient" key="ph" ref="https://pleiades.stoa.org/places/119026">Vicus Aurelianus</placeName>
-                                <placeName type="modern">Öhringen</placeName> 
+                                <placeName type="modern">Öhringen</placeName>
                             </origPlace>
                             <origDate when-custom="0217-12-01" datingMethod="#julian" type="consulship" cert="high"/>
                         </origin>

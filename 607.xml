@@ -54,9 +54,9 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia...?</placeName>
+                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia G...?</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Mainhardt:</placeName> Vorfeld des Kastells 
+                                <placeName type="modern">Mainhardt</placeName>
                             </origPlace>
                             <origDate notBefore="0160" notAfter="0260" cert="low"/>
                         </origin>
@@ -88,7 +88,7 @@
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
                     <lb n="1"/><expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>O</abbr><ex>ptimo</ex></expan> <expan><abbr>M</abbr><ex>aximo</ex></expan>
-                    <lb n="2"/><expan><abbr>c<unclear>oh</unclear></abbr><ex>ors</ex></expan> <num value="1">I</num> 
+                    <lb n="2"/><expan><abbr>c<unclear>oh</unclear></abbr><ex>ors</ex></expan> <num value="1">I</num>
                     <lb n="3"/><expan><abbr>Astur</abbr><ex>um</ex></expan>
                     <lb n="4"/><expan><abbr>e<unclear>q</unclear></abbr><ex>uitata</ex></expan> <expan><abbr>c<hi rend="small">u</hi>r</abbr><ex>am</ex></expan> <expan><abbr><unclear>a</unclear><supplied reason="lost">g</supplied></abbr><ex>ente</ex></expan>
                     <lb n="5"/><persName type="attested" ref="persons.xml#p"><name nymRef="---c-a---us" type="cognomen"><gap reason="illegible" extent="2-3" unit="character"/><orig><unclear>c</unclear></orig><gap reason="illegible" extent="1-2" unit="character"/><orig><unclear>a</unclear></orig><gap reason="illegible" quantity="1" unit="character"/>
