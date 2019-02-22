@@ -54,9 +54,9 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CRiegel" ref="ph">Civitas um Riegel?</placeName>
+                                <placeName type="civitas" key="CRiegel" ref="ph">Civitas von Riegel?</placeName>
                                 <placeName type="ancient" key="" ref="ph"/>
-                                <placeName type="modern">Speyer</placeName> 
+                                <placeName type="modern">Riegel</placeName> 
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0260" cert="low"/>
                         </origin>

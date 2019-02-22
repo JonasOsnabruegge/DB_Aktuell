@@ -54,7 +54,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Neckarburken: </placeName>Ostkastell, atrium des praetoriums 
+                                <placeName type="modern">Neckarburken</placeName>
                             </origPlace>
                             <origDate notBefore="0138" notAfter="0222"/>
                         </origin>

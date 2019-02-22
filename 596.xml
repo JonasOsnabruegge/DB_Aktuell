@@ -54,7 +54,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CPort?" ref="ph">Civitas Port...?</placeName>
+                                <placeName type="civitas" key="CPort?" ref="ph">Civitas Port...</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Berwangen</placeName> 
                             </origPlace>

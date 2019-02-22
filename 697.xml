@@ -54,7 +54,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="Caputcivitatis" key="ph" ref="ph"/>
-                                <placeName type="modern">Jagsthausen:</placeName> römisches Bad
+                                <placeName type="modern">Jagsthausen</placeName>
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0250"/>
                         </origin>

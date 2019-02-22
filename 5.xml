@@ -46,11 +46,11 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" ref="CVSN">Civitas Ulpia Sueborum Nicrensium</placeName>
                                 <placeName type="vicus" ref="HD-N">HD-Neuenheim</placeName>
-                                <placeName type="modern">Heidelberg, Baden-Württemberg</placeName>
+                                <placeName type="modern">Heidelberg</placeName>
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="medium"/>
                         </origin>
-                        <provenance type="found" when="1927"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8914">Neuenheim, Ecke Uferstraße / Ernst-Walz-Brücke</placeName>
+                        <provenance type="found" when="1927"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8914">Heidelberg, Neuenheim, Ecke Uferstraße / Ernst-Walz-Brücke</placeName>
                             <geo>49.4115769, 8.676977434</geo>
                         </provenance>
                         <provenance type="observed">

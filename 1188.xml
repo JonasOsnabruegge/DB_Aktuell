@@ -52,8 +52,8 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
-                                <placeName type="ancient" key="Seiopa" ref="https://pleiades.stoa.org/places/123117">Seiopa</placeName>
-                                <placeName type="modern">Miltenberg</placeName>
+                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="modern">Obernburg/Main</placeName>
                             <origDate notBefore="0101" notAfter="0250"></origDate>
                             </origPlace>
                         </origin>

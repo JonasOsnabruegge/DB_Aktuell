@@ -54,9 +54,9 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia...?</placeName>
+                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia G...?</placeName>
                                 <placeName type="ancient" key="vicusAurelianus" ref="https://pleiades.stoa.org/places/119026">Vicus Aurelianus</placeName>
-                                <placeName type="modern">Öhringen:</placeName> Ostkastell, Nordrand 
+                                <placeName type="modern">Öhringen</placeName>
                             </origPlace>
                             <origDate notBefore="0193" notAfter="0211" cert="medium">Septimius Severus</origDate>
                         </origin>

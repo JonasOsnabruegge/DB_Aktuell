@@ -51,13 +51,13 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="municipium" key="Arae Flaviae" ref="ph">Arae Flaviae</placeName>
-                                <placeName type="modern">Rottweil:</placeName> Kastell, im Graben
+                                <placeName type="municipium" key="Arae Flaviae" ref="ph">Municipium Arae Flaviae</placeName>
+                                <placeName type="ancient" key="Arae Flaviae" ref="ph">Arae Flaviae</placeName>
+                                <placeName type="modern">Rottweil</placeName>
                             </origPlace>
                             <origDate notBefore="0001" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1922"><placeName ref="ph">Brumath</placeName>
+                        <provenance type="found" when="1922"><placeName ref="ph">Rottweil</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -52,13 +52,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CVSN" ref="ph">Civitas Ulpia Sueborum Nicrensium</placeName>
                                 <placeName type="ancient" key="VicusNediensis" ref="ph">Vicus Nediensis</placeName>
-                                <placeName type="modern">Mannheim: </placeName> spätantiker Burgus Neckarau, sekundär verwendet.
+                                <placeName type="modern">Mannheim</placeName>
                             <origDate notBefore="0100" notAfter="0250"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1882">
                             <placeName ref="ph">
-                               Mannheim-Neckarau, im Rhein am nördlichen Ufer gegenüber von Altrip in mächtigem Mauerwerk eingefügt.
+                               Mannheim-Neckarau, im Rhein am nördlichen Ufer gegenüber von Altrip in mächtigem Mauerwerk eingefügt, spätantiker Burgus
                             </placeName>
                             </provenance>
                         <provenance type="observed">

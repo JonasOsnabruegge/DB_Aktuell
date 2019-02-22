@@ -13,7 +13,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Obernburg am Main, Römermuseum</repository>
+                        <repository>Obernburg/Main, Römermuseum</repository>
                         <idno>R 1937, 2</idno>
                     </msIdentifier>
                     <physDesc>
@@ -56,13 +56,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Obernburg am Main: </placeName>Kastell, bei
+                                <placeName type="modern">Obernburg/Main: </placeName>Kastell, bei
                             </origPlace>
                             <origDate when-custom="0206" datingMethod="#julian" type="consulship"/>
                         </origin>
                         <provenance type="found" when="1937">
                             <placeName ref="ph">
-                               Obernburg am Main, Mainstraße 6, Gelände der Gerberei Wörn, in einen Brunnen; außerhalb des Kastellsb.
+                               Obernburg/Main, Mainstraße 6, Gelände der Gerberei Wörn, in einen Brunnen; außerhalb des Kastellsb.
                             </placeName>
                         </provenance>
                         <provenance type="observed">

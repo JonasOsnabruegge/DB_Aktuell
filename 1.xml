@@ -43,13 +43,13 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CVSN">Ulpia Sueborum Nicrensium</placeName>
+                                <placeName type="civitas" key="CVSN">Civitas Ulpia Sueborum Nicrensium</placeName>
                                 <placeName type="ancient" ref="http://www.trismegistos.org/place/28023">Saliobriga</placeName>
-                                <placeName type="modern">Sinsheim-Steinsfurt</placeName>
+                                <placeName type="modern">Sinsheim</placeName>
                             </origPlace>
                             <origDate notBefore="0151" notAfter="0250" cert="medium">Mitte 2. bis Mitte 3. Jh. n. Chr.</origDate>
                         </origin>
-                        <provenance type="found" when="1935"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8888">Sinsheim-Steinsfurt, gefunden in der Stiftskirche</placeName>
+                        <provenance type="found" when="1935"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8888">Sinsheim, Steinsfurt, gefunden in der Stiftskirche</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -54,13 +54,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CVSN" ref="ph">Civitas Ulpia Sueborum Nicrensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Heidelberg </placeName>villa rustica von Rohrbach, bei.
+                                <placeName type="modern">Heidelberg </placeName>
                             <origDate notBefore="0070" notAfter="0250"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" notAfter="1613">
                             <placeName ref="ph">
-                               Heidelberg-Rohrbach, beim Pflügen auf den sogenannten 'Steinäckern', zunächst als Sitzbank verwendet, seit 1613 im Heidelberger Schloss.
+                               Heidelberg, Rohrbach, beim Pflügen auf den sogenannten 'Steinäckern', villa rustica
                             </placeName>
                             </provenance>
                         <provenance type="observed">

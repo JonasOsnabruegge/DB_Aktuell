@@ -53,13 +53,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CPort" ref="ph">Civitas Port...</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Benningen am Neckar</placeName> 
+                                <placeName type="modern">Benningen/Neckar</placeName> 
                             <origDate notBefore="0150" notAfter="0250"></origDate>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1583">
                             <placeName ref="ph">
-                               Benningen am Neckar, Flur Bürg
+                               Benningen/Neckar, Flur Bürg
                             </placeName>
                             </provenance>
                         <provenance type="observed">

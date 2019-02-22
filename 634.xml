@@ -50,15 +50,15 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia...?</placeName>
+                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia G...?</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Benningen: </placeName>Kastell, bei 
+                                <placeName type="modern">Benningen/Neckar</placeName>
                             </origPlace>
                             <origDate when-custom="0227" datingMethod="#julian" type="consulship" cert="low"/>
                         </origin>
                         <provenance type="found" when="1967">
                             <placeName ref="ph">
-                               Benningen, im Neckar, etwa 1000 m östlich der porta praetoria des Kastells
+                               Benningen/Neckar, im Neckar, etwa 1000 m östlich der porta praetoria des Kastells
                             </placeName>
                         </provenance>
                         <provenance type="observed">

@@ -53,13 +53,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="modern">Jagsthausen:</placeName> Kastell, bei 
+                                <placeName type="modern">Jagsthausen</placeName>
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
                         <provenance type="found" when="1926">
                             <placeName ref="ph">
-                                Jagsthausen, in einer Scheune
+                                Jagsthausen, in einer Scheune, in der Nähe des Kastells
                             </placeName>
                         </provenance>
                         <provenance type="observed">

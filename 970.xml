@@ -56,7 +56,7 @@
                             <origDate notBefore="0150" notAfter="0250"/>
                             </origPlace>
                         </origin>
-                            <provenance type="found" notAfter="">
+                            <provenance type="found" when="1897">
                             <placeName ref="ph">
                                 Sickingen, römisches Bad.
                             </placeName>

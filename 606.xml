@@ -52,9 +52,9 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia...?</placeName>
+                                <placeName type="civitas" key="CAurGS" ref="ph">Civitas Aurelia G...?</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Mainhardt:</placeName> Vorfeld des Kastells 
+                                <placeName type="modern">Mainhardt</placeName>
                             </origPlace>
                             <origDate notBefore="0160" notAfter="0260" cert="low"/>
                         </origin>

@@ -53,11 +53,11 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="modern">Osterburken:</placeName> Kastell?
+                                <placeName type="modern">Osterburken</placeName>
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" notAfter="1926"><placeName ref="ph">Osterburken</placeName>
+                        <provenance type="found" notAfter="1926"><placeName ref="ph">Osterburken, Kastell?</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

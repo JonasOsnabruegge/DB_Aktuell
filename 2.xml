@@ -45,11 +45,11 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" ref="CVSN">Civitas Ulpia Sueborum Nicrensium</placeName>
-                                <placeName type="modern">Heidelberg, Baden-Württemberg</placeName>
+                                <placeName type="modern">Heidelberg</placeName>
                             </origPlace>
                             <origDate when="0225-02-23" cert="high">23. Februar 225</origDate>
                         </origin>
-                        <provenance type="found" notBefore="1888-10-01" notAfter="1888-10-31"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8461">Heiligenberg, Michaelskloster</placeName>
+                        <provenance type="found" notBefore="1888-10-01" notAfter="1888-10-31"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8461">Heidelberg, Heiligenberg, Michaelskloster</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

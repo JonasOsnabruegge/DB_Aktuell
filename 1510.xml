@@ -57,9 +57,9 @@
                             <origDate notBefore="0070" notAfter="0100"></origDate>
                             </origPlace>
                         </origin>
-                            <provenance type="found" when="0000">
+                            <provenance type="found" notAfter="2000">
                             <placeName ref="ph">
-                                
+                                Baden-Baden
                             </placeName>
                             </provenance>
                         <provenance type="observed">

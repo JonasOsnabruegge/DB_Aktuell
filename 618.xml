@@ -13,7 +13,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Obernburg am Main, Römermuseum</repository>
+                        <repository>Obernburg/Main, Römermuseum</repository>
                         <idno>RO 30</idno>
                     </msIdentifier>
                     <physDesc>
@@ -56,13 +56,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Obernburg am Main</placeName>
+                                <placeName type="modern">Obernburg/Main</placeName>
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250"/>
                         </origin>
                         <provenance type="found" when="1952">
                             <placeName ref="ph">
-                               Obernburg am Main, an der Bergstraße; Grundstück Nr. 2247, bei Bauarbeiten.
+                               Obernburg/Main, an der Bergstraße; Grundstück Nr. 2247, bei Bauarbeiten.
                             </placeName>
                         </provenance>
                         <provenance type="observed">

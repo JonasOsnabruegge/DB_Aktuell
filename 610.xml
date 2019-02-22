@@ -52,13 +52,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Osterburken:</placeName> Kastell, bei 
+                                <placeName type="modern">Osterburken</placeName>
                             </origPlace>
                             <origDate notBefore="0160" notAfter="0250" cert="low"/>
                         </origin>
                         <provenance type="found" when="1952">
                             <placeName ref="ph">
-                               Osterburken, Ortsetter 'Hahnklinge'; Hypokaustanlage nördlich der porta praetoria, sekundär verwendet.
+                               Osterburken, Ortsetter 'Hahnklinge', Kastell, Hypokaustanlage nördlich der porta praetoria, sekundär verwendet.
                             </placeName>
                         </provenance>
                         <provenance type="observed">

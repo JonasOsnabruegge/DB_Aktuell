@@ -13,7 +13,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Obernburg am Main; Römermuseum</repository>
+                        <repository>Obernburg/Main; Römermuseum</repository>
                         <idno>R 1954, 13</idno>
                     </msIdentifier>
                     <physDesc>
@@ -54,13 +54,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Obernburg am Main:</placeName> Kastell, porta principalis dextra, bei 
+                                <placeName type="modern">Obernburg/Main:</placeName> Kastell, porta principalis dextra, bei 
                             </origPlace>
                             <origDate when-custom="0189-07-15" datingMethod="#julian" type="consulship"/>
                         </origin>
                         <provenance type="found" when="1954">
                             <placeName ref="ph">
-                               Obernburg am Main, südlich der Stadt; 110 m von der porta principalis dextra an einer römischen Straße
+                               Obernburg/Main, südlich der Stadt; 110 m von der porta principalis dextra an einer römischen Straße
                             </placeName>
                         </provenance>
                         <provenance type="observed">

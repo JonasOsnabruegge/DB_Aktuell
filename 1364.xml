@@ -58,9 +58,9 @@
                             </origPlace>
                         </origin>
                             <provenance type="found" notAfter="1925">
+                            <placeName ref="ph">
                                 <geo>49.9789 9.0669</geo>
                                 Stockstadt/Main, Mithräum II, spelaeum
-                            <placeName ref="ph">
                             </placeName>
                             </provenance>
                         <provenance type="observed">

@@ -53,13 +53,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAur" ref="ph">Civitas Aurelia G...?</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Stuttgart-Bad Cannstatt</placeName>
+                                <placeName type="modern">Stuttgart, Bad Cannstatt</placeName>
                             <origDate notBefore="0071" notAfter="0250"></origDate>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1911-06">
                             <placeName ref="ph">
-                                Stuttgart-Bad Cannstatt, bei der Uffkirche, alamannisches Grab, sekundär verwendet
+                                Stuttgart, Bad Cannstatt, bei der Uffkirche, alamannisches Grab, sekundär verwendet
                             </placeName>
                             </provenance>
                         <provenance type="observed">
