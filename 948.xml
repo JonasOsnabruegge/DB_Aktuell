@@ -54,13 +54,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAA" ref="ph">Civitas Aurelia Aquensis</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Mühlberg</placeName> 
+                                <placeName type="modern">Karlsruhe</placeName> 
                             </origPlace>
                             <origDate notBefore="0130" notAfter="0250"/>
                         </origin>
                             <provenance type="found" when="1850-04-09">
                             <placeName ref="ph">
-                                Mühlburg, in der Alb, nahe der ehemaligen Militärschwimmschule.
+                                Karlsruhe, Mühlburg, in der Alb, nahe der ehemaligen Militärschwimmschule.
                             </placeName>
                             </provenance>
                         <provenance type="observed">

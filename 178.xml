@@ -54,7 +54,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CPort" ref="ph">Civitas Port...</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="modern">Stuttgart-Bad Cannstatt</placeName> 
+                                <placeName type="modern">Stuttgart, Bad Cannstatt</placeName> 
                             </origPlace>
                             <origDate when-custom="18-07-0219" datingMethod="#julian" cert="high"/>
                         </origin>

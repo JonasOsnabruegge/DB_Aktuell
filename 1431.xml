@@ -51,7 +51,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CPort" ref="ph">Civitas Port...?</placeName>
+                                <placeName type="civitas" key="CPort" ref="ph">Civitas Port...</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
                                 <placeName type="modern">Benningen/Neckar</placeName>
                             <origDate notBefore="0200" notAfter="0230"></origDate>

@@ -13,7 +13,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Obernburg am Main, Römermuseum</repository>
+                        <repository>Obernburg/Main, Römermuseum</repository>
                         <idno>1954, 33</idno>
                     </msIdentifier>
                     <physDesc>
@@ -56,13 +56,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Obernburg am Main: </placeName> Gräberstraße
+                                <placeName type="modern">Obernburg/Main: </placeName> Gräberstraße
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0250"/>
                         </origin>
                         <provenance type="found" when="1937">
                             <placeName ref="ph">
-                               Obernburg am Main, beim Krankenhaus, römische Gräberstraße
+                               Obernburg/Main, beim Krankenhaus, römische Gräberstraße
                             </placeName>
                         </provenance>
                         <provenance type="observed">

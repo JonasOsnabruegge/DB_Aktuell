@@ -54,11 +54,11 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="Caputcivitatis" key="ph" ref="ph"/>
-                                <placeName type="modern">Dieburg:</placeName> Mithraeum
+                                <placeName type="modern">Dieburg</placeName>
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1926"><placeName ref="ph">Dieburg, Ecke Friedrich-Ebert-Straße / Forsthausstraße</placeName>
+                        <provenance type="found" when="1926"><placeName ref="ph">Dieburg, Ecke Friedrich-Ebert-Straße/Forsthausstraße, Mithraeum</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

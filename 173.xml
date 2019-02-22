@@ -53,11 +53,11 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAA" ref="ph">Civitas Aurelia Aquensis</placeName>
                                 <placeName type="Caputcivitatis" key="ph" ref="ph">Aquae</placeName>
-                                <placeName type="modern">Baden-Baden:</placeName> römische Thermen, Nordwestseite
+                                <placeName type="modern">Baden-Baden</placeName> 
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1848"><placeName ref="ph">Baden-Baden</placeName>
+                        <provenance type="found" when="1848"><placeName ref="ph">Baden-Baden, römische Thermen, Nordwestseite</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

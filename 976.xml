@@ -52,15 +52,15 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="municipium" key="munAraeFlaviae" ref="oh">Municipium Arae Flaviae</placeName>
-                                <placeName type="ancient" key="ph" ref="https://pleiades.stoa.org/places/118985">Sumelocenna</placeName>
-                                <placeName type="modern">Rottenburg am Neckar</placeName> 
+                                <placeName type="civitas" key="CSum" ref="ph">Civitas Sumelocennensis</placeName>
+                                <placeName type="ancient" key="Sumelocenna" ref="https://pleiades.stoa.org/places/118985">Sumelocenna</placeName>
+                                <placeName type="modern">Rottenburg/Neckar</placeName> 
                             <origDate notBefore="0070" notAfter="0130"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1843">
                             <placeName ref="ph">
-                                Rottenburg am Neckar, beim Kreisgefängnis, hinter dem alten Schloss.
+                                Rottenburg/Neckar, beim Kreisgefängnis, hinter dem alten Schloss.
                             </placeName>
                             </provenance>
                         <provenance type="observed">

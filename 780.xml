@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="ph" key="CVSN" ref="ph">Civitas Ulpia Sueborum Nicrensium</placeName>
+                                <placeName type="civitas" key="CVSN" ref="ph">Civitas Ulpia Sueborum Nicrensium</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
                                 <placeName type="modern">Leimen</placeName> 
                             </origPlace>
@@ -58,8 +58,8 @@
                         </origin>
                         <provenance type="found" when="1884">
                             <placeName ref="ph">
+                                Leimen, Lingenthaler Hof
                             </placeName>
-                            Leimen, Lingenthaler Hof
                             </provenance>
                         <provenance type="observed">
                         </provenance>

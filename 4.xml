@@ -49,7 +49,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0200" cert="medium"/>
                         </origin>
-                        <provenance type="found" when="1912"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8087">Pfarrgasse 6</placeName>
+                        <provenance type="found" when="1912"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8087">Gaiberg, Pfarrgasse 6</placeName>
                             <geo>49.3666315, 8.7498158</geo>
                         </provenance>
                         <provenance type="observed">

@@ -53,11 +53,11 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="modern">Osterburken:</placeName> Kastell, praetorium 
+                                <placeName type="modern">Osterburken</placeName> 
                             </origPlace>
                             <origDate notBefore="0213" notAfter="0215" cert="high">Caracalla</origDate>
                         </origin>
-                        <provenance type="found" when="1923"><placeName ref="ph">Osterburken, Grundstück des Schäfers K. Hofmann, im Bauschutt</placeName>
+                        <provenance type="found" when="1923"><placeName ref="ph">Osterburken, Grundstück des Schäfers K. Hofmann, im Bauschutt, Kastell, praetorium</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

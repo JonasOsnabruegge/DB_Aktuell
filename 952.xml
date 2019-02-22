@@ -52,13 +52,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CPort" ref="ph">Civitas Port...</placeName>
                                 <placeName type="ancient" key="Portus" ref="https://pleiades.stoa.org/places/118912">Portus</placeName>
-                                <placeName type="modern">Pforzheim: </placeName>villa Rustica 'Fohlenstall-Schlößchen' 
+                                <placeName type="modern">Pforzheim</placeName> 
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0250"/>
                         </origin>
                             <provenance type="found" when="1832">
                             <placeName ref="ph">
-                                Pforzheim, Hagenschieß, Abteilung Schloßwald, Fundstelle 1827/1.
+                                Pforzheim, Hagenschieß, Abteilung Schloßwald, villa Rustica 'Fohlenstall-Schlößchen', Fundstelle 1827/1.
                             </placeName>
                             </provenance>
                         <provenance type="observed">

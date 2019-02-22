@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="ph" key="CAA" ref="ph">Civitas Aurelia Aquensis</placeName>
+                                <placeName type="civitas" key="CAA" ref="ph">Civitas Aurelia Aquensis</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
                                 <placeName type="modern">Iffezheim</placeName> 
                             </origPlace>
@@ -58,8 +58,8 @@
                         </origin>
                         <provenance type="found" when="1818">
                             <placeName ref="ph">
+                                  Iffezheim, Kirche
                             </placeName>
-                                Iffezheim, Kirche.
                             </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -52,15 +52,15 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CSum" ref="ph">Civitas Sumeloennensis</placeName>
+                                <placeName type="civitas" key="CSum" ref="ph">Civitas Sumelocennensis</placeName>
                                 <placeName type="ancient" key="Sumelocenna" ref="http://cil.bbaw.de/test06/bilder/datenbank/PH0000647.jpg">Sumelocenna</placeName>
-                                <placeName type="modern">Rottenburg am Neckar</placeName> 
+                                <placeName type="modern">Rottenburg/Neckar</placeName> 
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0250" cert="low"/>
                         </origin>
                         <provenance type="found" when="1931">
                             <placeName ref="ph">
-                               Rottenburg am Neckar, Weggentalstraße 1, vor dem Haus
+                               Rottenburg/Neckar, Weggentalstraße 1, vor dem Haus
                             </placeName>
                         </provenance>
                         <provenance type="observed">

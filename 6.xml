@@ -45,11 +45,11 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" ref="CVSN">Civitas Ulpia Sueborum Nicrensium</placeName>
                                 <placeName type="vicus" ref="ph"/>
-                                <placeName type="modern">Heidelberg, Baden-Württemberg</placeName>
+                                <placeName type="modern">Heidelberg</placeName>
                             </origPlace>
                             <origDate notBefore="0171" notAfter="0250" cert="medium"/>
                         </origin>
-                        <provenance type="found" when="1920"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8462">Heiligenberg, Westabhang, äußerer Ringwall bei Durchgang A (verschleppt?)</placeName>
+                        <provenance type="found" when="1920"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8462">Heidelberg, Heiligenberg, Westabhang, äußerer Ringwall bei Durchgang A (verschleppt?)</placeName>
                             <geo>49.4241585, 8.70242153</geo>
                         </provenance>
                         <provenance type="observed">

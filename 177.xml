@@ -56,11 +56,11 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAA" ref="ph">Civitas Aurelia Aquensis</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="modern">Karlsruhe-Grünwinkel:</placeName> Gebäudereste nahe der Übergangsstelle der Römerstraße über die Alb
+                                <placeName type="modern">Karlsruhe</placeName>
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1927"><placeName ref="ph">Karlsruhe-Grünwinkel, rechtes Albufer </placeName>
+                        <provenance type="found" when="1927"><placeName ref="ph">Karlsruhe-Grünwinkel, rechtes Albufer, römische Gebäudereste</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

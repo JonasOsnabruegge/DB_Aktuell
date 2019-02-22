@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="ph" key="CAA" ref="Civitas Aurelia Aquensis"/>
+                                <placeName type="civitas" key="CAA" ref="Civitas Aurelia Aquensis"/>
                                 <placeName type="ph" key="ph" ref="ph">Aquae</placeName>
                                 <placeName type="modern">Baden-Baden</placeName> 
                             </origPlace>

@@ -53,13 +53,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CPort" ref="ph">Civitas Port...</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Stuttgart-Bad Cannstatt</placeName> 
+                                <placeName type="modern">Stuttgart, Bad Cannstatt</placeName> 
                             <origDate notBefore="0150" notAfter="0250"></origDate>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1881">
                             <placeName ref="ph">
-                               Stuttgart-Bad Cannstatt, Steigfriedhof und Kastell (Fragment b)
+                               Stuttgart, Bad Cannstatt, Steigfriedhof und Kastell (Fragment b)
                             </placeName>
                             </provenance>
                         <provenance type="observed">

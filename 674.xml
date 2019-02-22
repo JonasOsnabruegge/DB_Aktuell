@@ -56,7 +56,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="Caputcivitatis" key="ph" ref="ph"/>
-                                <placeName type="modern">Osterburken:</placeName>
+                                <placeName type="modern">Osterburken</placeName>
                             </origPlace>
                             <origDate when-custom="0212-07-15" datingMethod="#julian" type="consulship"/>
                         </origin>

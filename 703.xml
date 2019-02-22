@@ -56,13 +56,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAvd" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="modern">Obernburg am Main</placeName>
+                                <placeName type="modern">Obernburg/Main</placeName>
                             </origPlace>
                             <origDate when-custom="0181" datingMethod="#julian" type="consulship"/>
                         </origin>
                         <provenance type="found" when="1892">
                             <placeName ref="ph">
-                                Obernburg am Main, Eisenach, Pfarrkirche, außen vermauert.
+                                Obernburg/Main, Eisenach, Pfarrkirche, außen vermauert.
                             </placeName>
                         </provenance>
                         <provenance type="observed">

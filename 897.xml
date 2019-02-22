@@ -52,7 +52,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CVan" ref="ph">Civitas Vangionum</placeName>
                                 <placeName type="vicus" key="Altiaium" ref="https://pleiades.stoa.org/places/108736">Altiaium</placeName>
-                                <placeName type="modern">ph</placeName> 
+                                <placeName type="modern">Alzey</placeName> 
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0300"/>
                         </origin>

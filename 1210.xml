@@ -53,7 +53,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Obernburg/Main</placeName>
+                                <placeName type="modern">Stockstadt/Main</placeName>
                             <origDate when="0183" datingMethod="#julian">Konsuln</origDate>
                             </origPlace>
                         </origin>

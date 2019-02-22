@@ -54,7 +54,7 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="Caputcivitatis" key="ph" ref="ph"/>
-                                <placeName type="modern">Dieburg:</placeName> 
+                                <placeName type="modern">Dieburg</placeName> 
                             </origPlace>
                             <origDate notBefore="0160" notAfter="0220" cert="low"/>
                         </origin>

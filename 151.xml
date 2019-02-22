@@ -54,11 +54,11 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="Caputcivitatis" key="ph" ref="ph"/>
-                                <placeName type="modern">Dieburg:</placeName> beim Mithraeum, Brunnen
+                                <placeName type="modern">Dieburg</placeName>
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0230" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1926"><placeName ref="ph">Dieburg</placeName>
+                        <provenance type="found" when="1926"><placeName ref="ph">Dieburg, Mithraeum, bei, Brunnen</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -88,7 +88,7 @@
             </div>
             <div type="apparatus">
                 <p>
-                    In Z. 1/2 wohl noch Reste des Namens des Dedikanten. IDieburg: Z. 1: [D(eo) I(nvicto) M(ithrae (?) ---]; Finke: MAPIO; CSIR: Her]ma(p? t?)io.
+                    In Z. 1/2 wohl noch Reste des Namens des Dedikanten. IDieburg Z. 1: [D(eo) I(nvicto) M(ithrae (?) ---]; Finke: MAPIO; CSIR: Her]ma(p? t?)io.
                 </p>
             </div>
             <div type="translation">

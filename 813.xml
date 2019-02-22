@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="ph" key="CNem" ref="ph">Civitas Nemetum</placeName>
+                                <placeName type="civitas" key="CNem" ref="ph">Civitas Nemetum</placeName>
                                 <placeName type="ancient" key="ph" ref="https://pleiades.stoa.org/places/109362">Tabernae</placeName>
                                 <placeName type="modern">Rheinzabern</placeName> 
                             </origPlace>

@@ -13,7 +13,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Obernburg am Main, Römermuseum</repository>
+                        <repository>Obernburg/Main, Römermuseum</repository>
                         <idno>R 1928,8</idno>
                     </msIdentifier>
                     <physDesc>
@@ -56,13 +56,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
-                                <placeName type="modern">Obernburg am Neckar</placeName> 
+                                <placeName type="modern">Obernburg/Neckar</placeName> 
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0150" cert="low">Faust: 2. Hälfte 2. Jh. n. Chr.</origDate>
                         </origin>
                         <provenance type="found" when="1928">
                             <placeName ref="ph">
-                                Obernburg am Main, Römerstraße, römische Gräberstraße, beim Neubau der Reichsbahnverwaltung
+                                Obernburg/Main, Römerstraße, römische Gräberstraße, beim Neubau der Reichsbahnverwaltung
                             </placeName>
                         </provenance>
                         <provenance type="observed">

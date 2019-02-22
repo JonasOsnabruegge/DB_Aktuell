@@ -53,11 +53,11 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="modern">Osterburken:</placeName> Kastell, nahe der porta principalis sinistra 
+                                <placeName type="modern">Osterburken</placeName>
                             </origPlace>
                             <origDate when-custom="0229" datingMethod="#julian" cert="high">Konsuln</origDate>
                         </origin>
-                        <provenance type="found" when="1923"><placeName ref="ph">Osterburken, Anwesendes Ludwig Walzenbach</placeName>
+                        <provenance type="found" when="1923"><placeName ref="ph">Osterburken, Anwesen des Ludwig Walzenbach, Kastell, bei der porta principalis sinistra</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

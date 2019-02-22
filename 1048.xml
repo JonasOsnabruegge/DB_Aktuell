@@ -53,13 +53,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAurG" ref="ph">Civitas Aurelia G...?</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Neuenstadt am Kocher</placeName> 
+                                <placeName type="modern">Neuenstadt/Kocher</placeName> 
                             <origDate notBefore="0211" notAfter="0217">Caracalla</origDate>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1606">
                             <placeName ref="ph">
-                               Neuenstadt am Kocher, Bürg, Acker des Daniel Mörleth
+                               Neuenstadt/Kocher, Bürg, Acker des Daniel Mörleth
                             </placeName>
                             </provenance>
                         <provenance type="observed">

@@ -51,9 +51,9 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CPort" ref="ph">Civitas Port...?</placeName>
+                                <placeName type="civitas" key="CPort" ref="ph">Civitas Port...</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"></placeName>
-                                <placeName type="modern">Stuttgart-Bad Cannstatt</placeName>
+                                <placeName type="modern">Stuttgart, Bad Cannstatt</placeName>
                             <origDate notBefore="0100" notAfter="0250"></origDate>
                             </origPlace>
                         </origin>
