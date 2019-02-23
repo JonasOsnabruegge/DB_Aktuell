@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bauinschrift vom Altstadtkastell Miltenberg</title>
+                <title>Bauinschrift vom Kastell Altstadt Miltenberg</title>
                 <editor>Jonas Osnabrügge</editor>
             </titleStmt>
             <publicationStmt>
@@ -59,7 +59,7 @@
                         </origin>
                             <provenance type="found" when="1979">
                             <placeName ref="ph">
-                                Miltenberg, Altstadtkastell
+                                Miltenberg, Kastell Altstadt
                             </placeName>
                             </provenance>
                         <provenance type="observed">

@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fragment der Weihinschrift eines Benefiziariers</title>
+                <title>Fragment der Weihinschrift eines Beneficiariers</title>
                 <editor>Jonas Osnabrügge</editor>
             </titleStmt>
             <publicationStmt>
@@ -58,7 +58,7 @@
                                 <placeName type="ancient" key="AltaRipa" ref="https://pleiades.stoa.org/places/108735">Alta Ripa</placeName>
                                 <placeName type="modern">Altrip</placeName> 
                             </origPlace>
-                            <origDate notBefore="0201-01-13" notAfter="0201-07-15" cert="medium">Konsuldatierung, übliches Dedikationsdatum von Benefiziarierweihninschriften aus Obergermanien</origDate>
+                            <origDate notBefore="0201-01-13" notAfter="0201-07-15" cert="medium">Konsuldatierung, übliches Dedikationsdatum von Beneficiarierweihninschriften aus Obergermanien</origDate>
                         </origin>
                         <provenance type="found" when="1926">
                             <placeName ref="ph">

@@ -13,7 +13,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Jagsthausen-Olnhausen, Kirche, im Innenraum, vermauert</repository>
+                        <repository>Jagsthausen, Olnhausen, Kirche, im Innenraum, vermauert</repository>
                         <idno/>
                     </msIdentifier>
                     <physDesc>
@@ -56,13 +56,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="Caputcivitatis" key="ph" ref="ph"/>
-                                <placeName type="modern">Jagsthausen-Olnhausen</placeName>
+                                <placeName type="modern">Jagsthausen, Olnhausen</placeName>
                             </origPlace>
                             <origDate when-custom="0186" datingMethod="#julian" type="consulship"/>
                         </origin>
                         <provenance type="found" notAfter="1767">
                             <placeName ref="ph">
-                               Jagsthausen-Olnhausen, Kirche, im südlichen Chorbogen vermauert.
+                               Jagsthausen, Olnhausen, Kirche, im südlichen Chorbogen vermauert.
                             </placeName>
                         </provenance>
                         <provenance type="observed">

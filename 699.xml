@@ -52,13 +52,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="Caputcivitatis" key="ph" ref="ph"/>
-                                <placeName type="modern">Jagsthausen-Olnhausen</placeName>
+                                <placeName type="modern">Jagsthausen, Olnhausen</placeName>
                             </origPlace>
                             <origDate when-custom="0179" datingMethod="#julian" type="consulship"/>
                         </origin>
                         <provenance type="found" notAfter="1768">
                             <placeName ref="ph">
-                               Jagsthausen-Olnhausen, Kirche, in der Südmauer der Kirche vermauert.
+                               Jagsthausen, Olnhausen, Kirche, in der Südmauer der Kirche vermauert.
                             </placeName>
                         </provenance>
                         <provenance type="observed">

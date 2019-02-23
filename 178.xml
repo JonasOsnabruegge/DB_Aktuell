@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate when-custom="18-07-0219" datingMethod="#julian" cert="high"/>
                         </origin>
-                        <provenance type="found" when="1926-03-17"><placeName ref="ph">Stutgart-Bad Cannstatt, Cannstatter Steig, zwischen Hallschlagweg und Römerstraße</placeName>
+                        <provenance type="found" when="1926-03-17"><placeName ref="ph">Stuttgart, Bad Cannstatt, Cannstatter Steig, zwischen Hallschlagweg und Römerstraße</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

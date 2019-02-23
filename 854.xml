@@ -52,13 +52,13 @@
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CVan" ref="ph">Civitas Vangionum</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
-                                <placeName type="modern">Kirchheim/Eck</placeName> 
+                                <placeName type="modern">Kirchheim/Weinstraße</placeName> 
                             </origPlace>
                             <origDate notBefore="0200" notAfter="0250"/>
                         </origin>
                             <provenance type="found" when="1764">
                             <placeName ref="ph">
-                                Kichheim an der Eck
+                                Kichheim/Weinstraße
                             </placeName>
                             </provenance>
                         <provenance type="observed">

@@ -50,7 +50,7 @@
                             </origPlace>
                             <origDate notBefore="0070" notAfter="0130" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1952"><placeName ref="ph">Heidelberg, Neuenheim, Römisches Gräberfeld    </placeName>
+                        <provenance type="found" when="1952"><placeName ref="ph">Heidelberg, Neuenheim, Berliner Straße, Römisches</placeName>
                         </provenance>
                         <provenance type="observed">
                         </provenance>
