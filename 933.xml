@@ -61,7 +61,7 @@
                             <provenance type="found" notBefore="1888" notAfter="1889">
                             <placeName ref="ph">
                                 Baden-Baden, im alten Dampfbad.
-                            </placeName>
+                            </placeName><geo>48.75 8.25</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

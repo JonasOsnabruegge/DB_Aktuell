@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0200" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1925"><placeName ref="ph">Speyer, unmittelbar vor dem Dom, bei Kanalarbeiten</placeName>
+                        <provenance type="found" when="1925"><placeName ref="ph">Speyer, unmittelbar vor dem Dom, bei Kanalarbeiten</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

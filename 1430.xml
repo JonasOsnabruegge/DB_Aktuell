@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -15,34 +14,34 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Karlsruhe, Badisches Landesmuseum</repository>
-                        <idno></idno>
+                        <idno/>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/89">Meilen-/Leugensäule</objectType>.</p>
-                                    <material></material>
+                                    <material/>
                                         <dimensions unit="cm">
-                                            <height></height>
-                                            <width></width>
-                                            <depth></depth>
+                                            <height/>
+                                            <width/>
+                                            <depth/>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p/>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p></p>
+                                <p/>
                                 <height/>
                             </handNote>
                         </handDesc>
@@ -52,15 +51,15 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CVSN" ref="ph">Civitas Ulpia Sueborum Nicrensium</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Heidelberg</placeName>
-                            <origDate notBefore="0236" notAfter="0238"></origDate>
+                            <origDate notBefore="0236" notAfter="0238"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1878-10-22">
                             <placeName ref="ph">
                                 Heidelberg, Bergheim, Thibautstraße, römischer Keller an der Römerstraße
-                            </placeName>
+                            </placeName><geo>49.409861 8.686841</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -95,7 +94,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

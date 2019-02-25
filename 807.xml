@@ -59,7 +59,7 @@
                             <provenance type="found" when="1822">
                             <placeName ref="ph">
                                 Neustadt an der Weinstraße.
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

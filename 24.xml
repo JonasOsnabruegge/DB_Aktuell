@@ -49,7 +49,7 @@
                             </origPlace>
                             <origDate notBefore="0070" notAfter="0150" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1901"><placeName ref="ph">Heidelberg, Bergheim, Vangerowstraße zwischen Kirch- und Mittermaierstraße</placeName>
+                        <provenance type="found" when="1901"><placeName ref="ph">Heidelberg, Bergheim, Vangerowstraße zwischen Kirch- und Mittermaierstraße</placeName><geo>49.4088 8.677</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

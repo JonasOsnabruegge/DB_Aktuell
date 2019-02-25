@@ -59,7 +59,7 @@
                             <provenance type="found" when="1844">
                             <placeName ref="ph">
                                 Offenburg, in der Kinzig.  
-                            </placeName>
+                            </placeName><geo>48.4696 7.9341</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

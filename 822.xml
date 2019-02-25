@@ -59,7 +59,7 @@
                             <provenance type="found" notBefore="1825" notAfter="1869">
                             <placeName ref="ph">
                                 Rheinzabern, Erlenbach, beim Übergang der Römerstraße über den Bach.
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

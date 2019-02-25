@@ -61,7 +61,7 @@
                         <provenance type="found" when="1982">
                             <placeName ref="ph">
                                 Osterburken, Beneficiarier-Weihbezirk, im Holztempel der Dea Candida; Befund IV/9 u. IV/29, Nr. 70, 238.
-                            </placeName>
+                            </placeName><geo>49.43 9.42548</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

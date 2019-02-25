@@ -63,7 +63,7 @@
                         <provenance type="found" when="1860">
                             <placeName ref="ph">
                                 Weissenburg/Wissembourg, Altenstadt, Geitershof
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

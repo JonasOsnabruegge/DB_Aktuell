@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="1824" cert="medium">
                             <placeName ref="ph">
                                 Hagenau/Haguenau, Schwenheim, Flur Salzmatt, Wald
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -63,7 +63,7 @@
                         <provenance type="found" when="1989">
                             <placeName ref="ph">
                                Worms, Domplatz 3, auf der Südseite des Domes in einer Mauer.
-                            </placeName>
+                            </placeName><geo>49.6297 8.3595</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

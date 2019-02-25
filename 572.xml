@@ -63,7 +63,7 @@
                         <provenance type="found" notBefore="1932-07-01" notAfter="1932-12-31">
                             <placeName ref="ph">
                                Stuttgart, Bad Cannstatt, Waiblinger Straße 103, sekundär verwendet als Teil eines alemannischen Plattengrabs
-                            </placeName>
+                            </placeName><geo>48.8057 9.2296</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1880">
                             <placeName ref="ph">
                                 Sankt Julian.
-                            </placeName>
+                            </placeName><geo>49.608 7.51</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

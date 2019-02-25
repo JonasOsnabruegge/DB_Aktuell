@@ -63,7 +63,7 @@
                         <provenance type="found" when="1875">
                             <placeName ref="ph">
                                 Reinhardsmünster/Reinhardsmunster, Champagnermühle/Moulin de Champagne, römischer Steinbruch, in der Felswand am ende eines kurzen (3,60m) unterirdischen Ganges, in situ
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

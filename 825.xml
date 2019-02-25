@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1905">
                             <placeName ref="ph">
                                 Rockenhausen, am Pfingstborn, Feld des Heinrich Wagner.
-                            </placeName>
+                            </placeName><geo>49.6305 7.8101</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

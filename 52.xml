@@ -58,7 +58,7 @@
                         <provenance type="found" when="1968">
                             <placeName ref="ph">
                                 Ladenburg, Eponastraße 8
-                            </placeName>
+                            </placeName><geo>49.4694 8.6124</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

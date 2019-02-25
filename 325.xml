@@ -61,7 +61,7 @@
                         <provenance type="found" when="1955">
                             <placeName ref="ph">
                                 Bad Niederbronn/Niederbronn-les-Bains, Place Marchi, Thermen
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

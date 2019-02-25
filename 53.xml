@@ -59,7 +59,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0200" cert="medium"/>
                         </origin>
-                        <provenance type="found" when="1967"><placeName ref="ph">Ladenburg, Nadlerstraße 4, Nordwand des mittelalterlichen Sickingenhofs, sekundär verwendet</placeName>
+                        <provenance type="found" when="1967"><placeName ref="ph">Ladenburg, Nadlerstraße 4, Nordwand des mittelalterlichen Sickingenhofs, sekundär verwendet</placeName><geo>49.4721 8.612</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

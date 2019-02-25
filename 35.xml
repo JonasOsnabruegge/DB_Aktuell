@@ -50,7 +50,7 @@
                             </origPlace>
                             <origDate notBefore="0200" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="-1812"><placeName ref="ph">Lobbach, Lobenfeld, Flur Au</placeName>
+                        <provenance type="found" when="-1812"><placeName ref="ph">Lobbach, Lobenfeld, Flur Au</placeName><geo>49.3615 8.8752</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

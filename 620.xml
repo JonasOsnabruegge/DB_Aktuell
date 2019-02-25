@@ -63,7 +63,7 @@
                         <provenance type="found" when="1937">
                             <placeName ref="ph">
                                Obernburg/Main, beim Krankenhaus, römische Gräberstraße
-                            </placeName>
+                            </placeName><geo>49.8452 9.1497</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                         <provenance type="found" notBefore="1952" notAfter="1954">
                             <placeName ref="ph">
                                Böttingen, Flur Schloßäcker, villa rustica, als Verfüllung in einem römischen Brunnen.
-                            </placeName>
+                            </placeName><geo>48.09 7.784</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

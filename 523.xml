@@ -63,7 +63,7 @@
                         <provenance type="found" notAfter="1972">
                             <placeName ref="ph">
                                 Speyer, Dom, außen an der Nordseite des Nordostturmes, sekundär verwendet
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

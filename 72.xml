@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0130" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1867"><placeName ref="ph">Ladenburg, Gewann Burgäcker, Grundstück des Fr. Köhler, im Bereich des antiken Theaters</placeName>
+                        <provenance type="found" when="1867"><placeName ref="ph">Ladenburg, Gewann Burgäcker, Grundstück des Fr. Köhler, im Bereich des antiken Theaters</placeName><geo>49.4675 8.615</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

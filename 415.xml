@@ -63,7 +63,7 @@
                         <provenance type="found" notAfter="1906">
                             <placeName ref="ph">
                                 Selz/Seltz, beim Haus Ball
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

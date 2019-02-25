@@ -60,7 +60,7 @@
                         <provenance type="found" when="1951">
                             <placeName ref="ph">
                                Stockstadt/Main, vicus stromabwärts des Kastells.
-                            </placeName>
+                            </placeName><geo>49.9774 9.0674</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

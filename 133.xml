@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0201" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1920"><placeName ref="ph">Lauterecken, Haus des A. Busch (Schuhmachermeister), vermauert</placeName>
+                        <provenance type="found" when="1920"><placeName ref="ph">Lauterecken, Haus des A. Busch (Schuhmachermeister), vermauert</placeName><geo>49.65 7.59</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

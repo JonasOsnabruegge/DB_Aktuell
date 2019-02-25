@@ -61,7 +61,7 @@
                             <provenance type="found" notAfter="1800">
                             <placeName ref="ph">
                                Neckargemünd, Kleingemünd, an einem Brunnen sekundär verwendet.
-                            </placeName>
+                            </placeName><geo>49.3984 8.8029</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

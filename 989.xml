@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1552">
                             <placeName ref="ph">
                                Tübingen.
-                            </placeName>
+                            </placeName><geo>48.523 9.0534</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

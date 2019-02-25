@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1914">
                             <placeName ref="ph">
                                 Stockstadt/Main
-                            </placeName>
+                            </placeName><geo>49.9701 9.07170</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

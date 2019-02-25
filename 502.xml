@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="1972">
                             <placeName ref="ph">
                                 Speyer, Dom, Fundament des Mittelschiffes, sekundär verwendet
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

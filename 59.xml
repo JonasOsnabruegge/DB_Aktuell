@@ -52,9 +52,9 @@
                                 <placeName type="CaputCivitatis" key="Lopodunum" ref="ph">Lopodunum</placeName>
                                 <placeName type="modern">Ladenburg</placeName>
                             </origPlace>
-                            <origDate notBefore="0150" notAfter="0230" cert="medium"></origDate>
+                            <origDate notBefore="0150" notAfter="0230" cert="medium"/>
                         </origin>
-                        <provenance type="found" when="1985"><placeName ref="ph">Ladenburg</placeName>
+                        <provenance type="found" when="1985"><placeName ref="ph">Ladenburg</placeName><geo>49.475 8.6</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

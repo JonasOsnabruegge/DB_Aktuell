@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0080" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1900">Straßburg/Strasbourg, spätantike Stadtmauer, Fundament, sekundär verwendet<placeName ref="ph"/>
+                        <provenance type="found" when="1900">Straßburg/Strasbourg, spätantike Stadtmauer, Fundament, sekundär verwendet<placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

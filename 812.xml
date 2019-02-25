@@ -56,7 +56,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1899-03"><placeName ref="ph">Altrip, Rhein, spätantiker Burgus, sekundär verwendet.</placeName>
+                        <provenance type="found" when="1899-03"><placeName ref="ph">Altrip, Rhein, spätantiker Burgus, sekundär verwendet.</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

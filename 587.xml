@@ -63,7 +63,7 @@
                         <provenance type="found" when="1937">
                             <placeName ref="ph">
                                 Worms, westlich der Mainzer Landstraße, bei einer Regulierung des Pfrimmbachs
-                            </placeName>
+                            </placeName><geo>49.6522 8.3588</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

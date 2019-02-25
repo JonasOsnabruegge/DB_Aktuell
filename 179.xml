@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate when-custom="29-12-0230" datingMethod="#julian" cert="high">Konsuln</origDate>
                         </origin>
-                        <provenance type="found" when="1926-03-17"><placeName ref="ph">Stutgart-Bad Cannstatt, Cannstatter Steig, zwischen Hallschlagweg und Römerstraße, unter n3.xml(ref!) </placeName>
+                        <provenance type="found" when="1926-03-17"><placeName ref="ph">Stutgart-Bad Cannstatt, Cannstatter Steig, zwischen Hallschlagweg und Römerstraße, unter n3.xml(ref!) </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

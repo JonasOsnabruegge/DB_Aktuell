@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1655"><placeName ref="ph">Dieburg, Wallfahrtskirche S. Peter u. Paul</placeName>
+                        <provenance type="found" when="1655"><placeName ref="ph">Dieburg, Wallfahrtskirche S. Peter u. Paul</placeName><geo>49.898 8.840</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

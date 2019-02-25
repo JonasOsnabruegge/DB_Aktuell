@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1926"><placeName ref="ph">Dieburg, Ecke Friedrich-Ebert-Straße/Forsthausstraße, Mithraeum, Vorraum</placeName>
+                        <provenance type="found" when="1926"><placeName ref="ph">Dieburg, Ecke Friedrich-Ebert-Straße/Forsthausstraße, Mithraeum, Vorraum</placeName><geo>49.901 8.847</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0160" notAfter="0260" cert="low">Stationierung</origDate>
                         </origin>
-                        <provenance type="found" notAfter="1926"><placeName ref="ph">Osterburken</placeName>
+                        <provenance type="found" notAfter="1926"><placeName ref="ph">Osterburken</placeName><geo>46.43 9.424</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

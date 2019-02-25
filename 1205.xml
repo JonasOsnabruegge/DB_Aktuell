@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -32,17 +31,17 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p/>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p></p>
+                                <p/>
                                 <height/>
                             </handNote>
                         </handDesc>
@@ -52,15 +51,15 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Aschaffenburg</placeName>
-                            <origDate notBefore="0175" notAfter="0185"></origDate>
+                            <origDate notBefore="0175" notAfter="0185"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1777">
                             <placeName ref="ph">
                                Aschaffenburg, mittlerer Stadtturm, beim Abbruch
-                            </placeName>
+                            </placeName><geo>49.98 9.14</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -90,7 +89,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

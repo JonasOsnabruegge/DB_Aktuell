@@ -59,7 +59,7 @@
                             <provenance type="found" when="1811">
                             <placeName ref="ph">
                                 Pforzheim, Eutingen, in der Pfarrkirche vermauert.
-                            </placeName>
+                            </placeName><geo>48.9109 8.7463</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

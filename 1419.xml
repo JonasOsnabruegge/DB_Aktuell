@@ -21,11 +21,11 @@
                             <supportDesc>
                                 <support>
                                     <p><term>Unbekannt</term>. Allseitig abgebrochenes Fragment</p>
-                                    <material></material>
+                                    <material/>
                                         <dimensions unit="cm">
-                                            <height></height>
-                                            <width></width>
-                                            <depth></depth>
+                                            <height/>
+                                            <width/>
+                                            <depth/>
                                         </dimensions>
                                     </support>
                             </supportDesc>
@@ -42,7 +42,7 @@
                         <handDesc>
                             <handNote>
                                 <p/>
-                                <height></height>
+                                <height/>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1914">
                             <placeName ref="ph">
                                 Stockstadt/Main
-                            </placeName>
+                            </placeName><geo>49.9701 9.07176</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -15,7 +14,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>verschollen</repository>
-                        <idno></idno>
+                        <idno/>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
@@ -24,25 +23,25 @@
                                     <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/130">Sitzstufe</objectType>. Maße errechnet nach den alten Maßangaben.</p>
                                     <material>Sandstein</material>
                                         <dimensions unit="cm">
-                                            <height></height>
+                                            <height/>
                                             <width>(123)</width>
-                                            <depth></depth>
+                                            <depth/>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p/>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p></p>
+                                <p/>
                                 <height>12-6</height>
                             </handNote>
                         </handDesc>   
@@ -54,12 +53,12 @@
                                 <placeName type="civitas" key="CVan" ref="ph">Civitas Vangionum</placeName>
                                 <placeName type="ancient" key="ph" ref="https://pleiades.stoa.org/places/109427">Cruciniacum</placeName>
                                 <placeName type="modern">Bad Kreuznach</placeName>
-                            <origDate notBefore="0001" notAfter="0300"></origDate>
+                            <origDate notBefore="0001" notAfter="0300"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1864">
                             <placeName ref="ph">
-                                <geo></geo>
+                                <geo>49.8483 7.867</geo>
                                 Bad Kreuznach, Kastell, sekundär verwendet
                             </placeName>
                             </provenance>
@@ -88,7 +87,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

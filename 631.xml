@@ -61,7 +61,7 @@
                         <provenance type="found" when="1968-11">
                             <placeName ref="ph">
                                Groß-Gerau, Flur "Auf Esch"
-                            </placeName>
+                            </placeName><geo>49.906 8.477</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

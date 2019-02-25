@@ -59,7 +59,7 @@
                             <provenance type="found" when="1853">
                             <placeName ref="ph">
                                 Rheinzabern
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

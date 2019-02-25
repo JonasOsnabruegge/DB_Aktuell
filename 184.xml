@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1899">Straßburg/Strasbourg, Münstergasse 2, spätantike Mauer, sekundär verwendet.<placeName ref="ph"/>
+                        <provenance type="found" when="1899">Straßburg/Strasbourg, Münstergasse 2, spätantike Mauer, sekundär verwendet.<placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

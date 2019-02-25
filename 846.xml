@@ -59,7 +59,7 @@
                             <provenance type="found" when="1827">
                             <placeName ref="ph">
                                 Pfeffingen, beim Abbruch der alten Kirche.
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

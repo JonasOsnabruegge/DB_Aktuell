@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" notBefore="1996" notAfter="1997">Straßburg/Strasbourg, rue des Hellebardes 17, Keller, sekundär verwendet<placeName ref="ph"/>
+                        <provenance type="found" notBefore="1996" notAfter="1997">Straßburg/Strasbourg, rue des Hellebardes 17, Keller, sekundär verwendet<placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

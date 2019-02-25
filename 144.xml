@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1924"><placeName ref="ph">Stuttgart, Bad Cannstatt, Brückenstraße 8a</placeName>
+                        <provenance type="found" when="1924"><placeName ref="ph">Stuttgart, Bad Cannstatt, Brückenstraße 8a</placeName><geo>48.8069 9.2115</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

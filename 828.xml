@@ -59,7 +59,7 @@
                             <provenance type="found" notBefore="1850" notAfter="1862">
                             <placeName ref="ph">
                                 Eckartsweiler/Eckartswiller.
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

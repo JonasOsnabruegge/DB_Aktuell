@@ -63,7 +63,7 @@
                             <provenance type="found" when="1880-05">
                             <placeName ref="ph">
                                 Daxlanden, 'Faulbruch'.
-                            </placeName>
+                            </placeName><geo>48.997 8.312</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

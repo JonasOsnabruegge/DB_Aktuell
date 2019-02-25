@@ -63,7 +63,7 @@
                         <provenance type="found" when="1933-07">
                             <placeName ref="ph">
                                Dietenhausen an der Pfinz, nördlicher Ortseingang, Grundstück 508/10.
-                            </placeName>
+                            </placeName><geo>48.918 8.561</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

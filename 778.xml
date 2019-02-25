@@ -59,7 +59,7 @@
                         <provenance type="found" when="1818">
                             <placeName ref="ph">
                                   Iffezheim, Kirche
-                            </placeName>
+                            </placeName><geo>48.822 8.141</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

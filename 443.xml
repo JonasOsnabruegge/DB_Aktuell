@@ -59,7 +59,7 @@
                         <provenance type="found" when="1885">
                             <placeName ref="ph">
                                 Oberstaufenbach, Burgruine Heidenburg, sekundär verwendet
-                            </placeName>
+                            </placeName><geo>49.51807 7.5164</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

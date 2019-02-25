@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0138" notAfter="0192" cert="low">Antoninisch?</origDate>
                         </origin>
-                        <provenance type="found" when="1890"><placeName ref="ph">Baden Baden, Stefanienstraße 4</placeName>
+                        <provenance type="found" when="1890"><placeName ref="ph">Baden Baden, Stefanienstraße 4</placeName><geo>48.761 8.242</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

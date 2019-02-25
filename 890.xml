@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1887">
                             <placeName ref="ph">
                                Worms, Hochheim, bei fränkischem Grab.
-                            </placeName>
+                            </placeName><geo>49.6397 8.3329</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -114,4 +114,4 @@
             </div>
         </body>
     </text>
-</TEI> 
+</TEI>

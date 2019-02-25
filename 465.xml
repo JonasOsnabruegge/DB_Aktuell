@@ -59,7 +59,7 @@
                         <provenance type="found" when="1879">
                             <placeName ref="ph">
                                 Sankt Julian, protestantische Kirche, vermauert
-                            </placeName>
+                            </placeName><geo>49.60785 7.51054</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

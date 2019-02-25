@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1922"><placeName ref="ph">Zabern/Saverne, beim Neubau der Banque du France</placeName>
+                        <provenance type="found" when="1922"><placeName ref="ph">Zabern/Saverne, beim Neubau der Banque du France</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

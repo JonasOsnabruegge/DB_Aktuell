@@ -59,7 +59,7 @@
                         <provenance type="found" when="1753-05-19">
                             <placeName ref="ph">
                                 Meisenheim, Becherbach, auf dem Gipfel des Rossbergs
-                            </placeName>
+                            </placeName><geo>49.6509 7.7009</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

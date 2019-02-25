@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1742">
                             <placeName ref="ph">
                                 Pforzheim, Altstadt, bei der Altstädter Kirche in einer Gartenmauer eingemauert.
-                            </placeName>
+                            </placeName><geo>48.8909 8.71317</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

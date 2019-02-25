@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1894">
                             <placeName ref="ph">
                                 Wolfstein, unterhalb der Burgruine Neuwolfstein (dort sekundär verwendet?), auf einem Weinberg
-                            </placeName>
+                            </placeName><geo>49.58566 7.6045</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

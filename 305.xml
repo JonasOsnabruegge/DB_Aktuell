@@ -61,7 +61,7 @@
                         <provenance type="found" when="1835">
                             <placeName ref="ph">
                                 Ingweiler/Ingwiller, beim Bau der Schule.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

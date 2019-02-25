@@ -63,7 +63,7 @@
                         <provenance type="found" when="1968">
                             <placeName ref="ph">
                                Weiterstadt, protestantische Kirche, im Gewände des Nordfensters der gotischen Sakristei vermauert.
-                            </placeName>
+                            </placeName><geo>49.9061 8.5823</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

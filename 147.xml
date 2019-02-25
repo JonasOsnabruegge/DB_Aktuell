@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1912"><placeName ref="ph">Osterburken, Kastell, praetorium</placeName>
+                        <provenance type="found" when="1912"><placeName ref="ph">Osterburken, Kastell, praetorium</placeName><geo>49.4268 9.4244</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

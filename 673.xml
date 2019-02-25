@@ -59,7 +59,7 @@
                         <provenance type="found" when="1959">
                             <placeName ref="ph">
                                Öhringen-West, im Bürgkastell, Kastellgraben 1b.
-                            </placeName>
+                            </placeName><geo>49.2059 9.4975</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

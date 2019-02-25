@@ -59,7 +59,7 @@
                         <provenance type="found" when="1984">
                             <placeName ref="ph">
                                 Bosenbach, Wolfkirche, Nordostecke des Kirchturms, vermauert
-                            </placeName>
+                            </placeName><geo>49.542 7.516</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

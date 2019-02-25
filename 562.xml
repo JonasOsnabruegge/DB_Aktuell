@@ -61,7 +61,7 @@
                         <provenance type="found" when="1933">
                             <placeName ref="ph">
                                Udenheim, Bergkirche, vermauert.
-                            </placeName>
+                            </placeName><geo>49.8613 8.1735</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

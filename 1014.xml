@@ -60,7 +60,7 @@
                             <provenance type="found" notAfter="1877">
                             <placeName ref="ph">
                                 Lorsch, in den Ruinen des Klosters.
-                            </placeName>
+                            </placeName><geo>49.654 8.57</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

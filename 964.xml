@@ -59,7 +59,7 @@
                             <provenance type="found" when="1812">
                             <placeName ref="ph">
                                 St. Leon-Rot, im Fundament der Kirche.                         
-                            </placeName>
+                            </placeName><geo>49.2663 8.6021</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

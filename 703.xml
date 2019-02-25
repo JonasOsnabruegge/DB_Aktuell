@@ -63,7 +63,7 @@
                         <provenance type="found" when="1892">
                             <placeName ref="ph">
                                 Obernburg/Main, Eisenach, Pfarrkirche, außen vermauert.
-                            </placeName>
+                            </placeName><geo>49.8319 9.11408</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

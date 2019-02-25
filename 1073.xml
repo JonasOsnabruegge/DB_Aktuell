@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -15,7 +14,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Osterburken, Römermuseum</repository>
-                        <idno></idno>
+                        <idno/>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
@@ -32,10 +31,10 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p/>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
@@ -52,15 +51,15 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Billigheim</placeName> 
-                            <origDate notBefore="0100" notAfter="0200"></origDate>
+                            <origDate notBefore="0100" notAfter="0200"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1883">
                             <placeName ref="ph">
                                Billigheim, Waldmühlbach, beim Abriss der alten Kirche
-                            </placeName>
+                            </placeName><geo>49.362 9.282</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -84,12 +83,12 @@
             <div type="edition" xml:space="preserve" xml:lang="lat">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>
-                    <lb n="2"/><persName type="attested" ref="persons.xml#p"><orig>a<unclear>i</unclear></orig><gap reason="illegible" quantity="6" unit="character"/><orig><unclear>ii</unclear>orii<unclear>se</unclear></orig><name nymRef="---olensis?" type="cognomen"><gap reason="illegible" quantity="2" unit="character"></gap><lb n="3" break="no"/>o<unclear>le</unclear>nsis</name></persName> <expan><abbr>obi</abbr><ex>i</ex><abbr>t</abbr></expan> morte
+                    <lb n="2"/><persName type="attested" ref="persons.xml#p"><orig>a<unclear>i</unclear></orig><gap reason="illegible" quantity="6" unit="character"/><orig><unclear>ii</unclear>orii<unclear>se</unclear></orig><name nymRef="---olensis?" type="cognomen"><gap reason="illegible" quantity="2" unit="character"/><lb n="3" break="no"/>o<unclear>le</unclear>nsis</name></persName> <expan><abbr>obi</abbr><ex>i</ex><abbr>t</abbr></expan> morte
                     <lb n="4"/>sua <placeName type="ancient" ref="https://pleiades.stoa.org/places/991402">Cappadocia</placeName> <date type="age" dur="P35Y">an<lb n="5" break="no"/>norum <num value="35">XXXXV</num></date> <hi rend="ligature">et</hi> <persName type="attested" ref="persons.xml#p"><name nymRef="Nerto---" type="gentilicium">Nerto<lb n="6" break="no"/><gap reason="lost" extent="unknown" unit="line"/></name></persName>
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

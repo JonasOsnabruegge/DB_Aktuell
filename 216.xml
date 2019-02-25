@@ -60,7 +60,7 @@
                         <provenance type="found" when="1900">
                             <placeName ref="ph">
                                 Straßburg/Strasbourg, Thomasschule/Ecole Saint-Thomas, Flußufer entlang der Ill, bei römischen Mauerresten.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

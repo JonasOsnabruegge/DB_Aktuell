@@ -55,7 +55,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0230" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1908"><placeName ref="ph">Ladenburg, Kiesgrube am Erbsenweg, Nordrand, nördlich des vicus in der Nähe der nördlichen neckarsuebischen Siedlung</placeName>
+                        <provenance type="found" when="1908"><placeName ref="ph">Ladenburg, Kiesgrube am Erbsenweg, Nordrand, nördlich des vicus in der Nähe der nördlichen neckarsuebischen Siedlung</placeName><geo>49.483 8.609</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

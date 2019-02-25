@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1779">
                             <placeName ref="ph">
                                 Becherbach, in der Kirch
-                            </placeName>
+                            </placeName><geo>49.654 7.681</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

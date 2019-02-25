@@ -50,7 +50,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0200" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1822"><placeName ref="ph">Heidelberg, Kurfürstenanlage (ehemaliges Seelengewann), als Spolie in einem Merowingerzeitlichen Plattengrab</placeName>
+                        <provenance type="found" when="1822"><placeName ref="ph">Heidelberg, Kurfürstenanlage (ehemaliges Seelengewann), als Spolie in einem Merowingerzeitlichen Plattengrab</placeName><geo>49.405 8.684</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

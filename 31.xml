@@ -49,7 +49,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1899"><placeName ref="ph">Heidelberg, Rohrbach, westlich des Dorfkerns an der Straße nach Leimen</placeName>
+                        <provenance type="found" when="1899"><placeName ref="ph">Heidelberg, Rohrbach, westlich des Dorfkerns an der Straße nach Leimen</placeName><geo>49.379 8.687</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

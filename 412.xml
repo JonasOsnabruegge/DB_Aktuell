@@ -61,7 +61,7 @@
                         <provenance type="found" when="1899">
                             <placeName ref="ph">
                                 Schweighausen/Schweighouse-sur-Moder, protestantische Kirche, beim Abriss
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

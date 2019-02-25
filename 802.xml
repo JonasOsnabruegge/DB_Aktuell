@@ -59,7 +59,7 @@
                             <provenance type="found" notBefore="1911">
                             <placeName ref="ph">
                                 Freinsheim.
-                            </placeName>
+                            </placeName><geo>49.506 8.211</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

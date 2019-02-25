@@ -61,7 +61,7 @@
                         <provenance type="found" when="1958">
                             <placeName ref="ph">
                                Ubstadt-Weiher, Stettfeld, Haaggasse, in einem römischen Brunnen.
-                            </placeName>
+                            </placeName><geo>49.181 8.6458</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

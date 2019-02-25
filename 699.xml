@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1768">
                             <placeName ref="ph">
                                Jagsthausen, Olnhausen, Kirche, in der Südmauer der Kirche vermauert.
-                            </placeName>
+                            </placeName><geo>49.314 9.444</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

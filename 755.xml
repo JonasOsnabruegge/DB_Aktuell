@@ -63,7 +63,7 @@
                         <provenance type="found" when="1910">
                             <placeName ref="ph">
                                 Stuttgart, Bad Cannstatt, auf der Cannstätter Steig, gegenüber dem Eingang des Friedhofs.
-                            </placeName>
+                            </placeName><geo>48.8114 9.21</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

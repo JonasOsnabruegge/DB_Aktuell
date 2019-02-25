@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1822">
                             <placeName ref="ph">
                                 Rottweil, schon länger bekannt und im Hof der 'Oberamtei' lagernd.
-                            </placeName>
+                            </placeName><geo>48.168 8.627</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

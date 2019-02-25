@@ -63,7 +63,7 @@
                         <provenance type="found" when="1952">
                             <placeName ref="ph">
                                 Worms, Schloßplatz, an der nordöstlichen Ecke.
-                            </placeName>
+                            </placeName><geo>49.6303 8.3603</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -63,7 +63,7 @@
                         <provenance type="found" notAfter="1937">
                             <placeName ref="ph">
                                Odernheim am Glan
-                            </placeName>
+                            </placeName><geo>49.76602 7.705</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

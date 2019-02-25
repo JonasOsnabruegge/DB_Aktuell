@@ -65,7 +65,7 @@
                         <provenance type="found" when="1879">
                             <placeName ref="ph">
                                 Oberstaufenbach, bei der Burgruine Heidenburg (sekundär verwendet?) links der Straße nach Altenglan
-                            </placeName>
+                            </placeName><geo>49.51807 7.5164</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

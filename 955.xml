@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1533">
                             <placeName ref="ph">
                                 Pforzheim.
-                            </placeName>
+                            </placeName><geo>48.8833 8.7</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

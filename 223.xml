@@ -61,7 +61,7 @@
                         <provenance type="found" when="1878">
                             <placeName ref="ph">
                                 Straßburg/Strasbourg, Rue du Faubourg National 60
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

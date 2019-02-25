@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0001" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1885"><placeName ref="ph">Esthal, "beim Roden" (Zangemeister)</placeName>
+                        <provenance type="found" when="1885"><placeName ref="ph">Esthal, "beim Roden" (Zangemeister)</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

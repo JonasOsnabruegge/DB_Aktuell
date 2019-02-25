@@ -61,7 +61,7 @@
                         <provenance type="found" when="1898">
                             <placeName ref="ph">
                                 Kreimbach-Kaulbach, Heidenburg, im Fundament eines Turmes vermauert.
-                            </placeName>
+                            </placeName><geo>49.559 7.631</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

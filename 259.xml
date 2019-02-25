@@ -61,7 +61,7 @@
                         <provenance type="found" when="1878">
                             <placeName ref="ph">
                                 Straßburg/Strasbourg, Königshofen/Koenigshoffen, Route des Romains 19, bei römischen Gebäuderesten
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

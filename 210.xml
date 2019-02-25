@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0201" notAfter="0202" cert="high">Konsuln</origDate>
                         </origin>
-                        <provenance type="found" when="1849">Straßburg/Strasbourg, Rue des Frères 11, Ecke Impase de la Bière<placeName ref="ph"/> <!-- CAG A50 -->
+                        <provenance type="found" when="1849">Straßburg/Strasbourg, Rue des Frères 11, Ecke Impase de la Bière<placeName ref="ph"/><geo/> <!-- CAG A50 -->
                         </provenance>
                         <provenance type="observed">
                         </provenance>

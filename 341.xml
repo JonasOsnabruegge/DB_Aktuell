@@ -61,7 +61,7 @@
                         <provenance type="found" when="1845">
                             <placeName ref="ph">
                                 Pfaffenhofen/Pfaffenhoffen - Ringeldorf, zwischen, Kalkoeffen
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

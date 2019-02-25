@@ -49,7 +49,7 @@
                             </origPlace>
                             <origDate notBefore="0050" notAfter="0100" cert="medium"/>
                         </origin>
-                        <provenance type="found" when="1902"><placeName ref="ph">Heidelberg, Neuenheimer Feld, Berliner Straße</placeName>
+                        <provenance type="found" when="1902"><placeName ref="ph">Heidelberg, Neuenheimer Feld, Berliner Straße</placeName><geo>49.419 8.676</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -50,7 +50,7 @@
                             <origDate notBefore="0100" notAfter="0230" cert="low"/>
                         </origin>
                         <provenance type="found" when="1965">
-                            <placeName ref="ph">Heidelberg, Wieblingen, im Flussbett des Neckar</placeName>
+                            <placeName ref="ph">Heidelberg, Wieblingen, im Flussbett des Neckar</placeName><geo>49.428 8.652</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

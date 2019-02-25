@@ -61,7 +61,7 @@
                             <provenance type="found" when="1890">
                             <placeName ref="ph">
                                 Baden-Baden, Caracallathermen, ehemaliges Augustabad.
-                            </placeName>
+                            </placeName><geo>48.763 8.242</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

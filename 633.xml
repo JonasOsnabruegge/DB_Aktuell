@@ -59,7 +59,7 @@
                         <provenance type="found" when="1969">
                             <placeName ref="ph">
                                Dietzenbach, in der protestantischen Kirche an der Südwestecke des Kirchenschiffs vermauert.
-                            </placeName>
+                            </placeName><geo>50.008 8.776</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                             <provenance type="found" when="1727">
                             <placeName ref="ph">
                                 Hochstetten-Dhaun, bei Schloss Dhaun, Berg hinter dem Wirtshaus.
-                            </placeName>
+                            </placeName><geo>49.816 7.499</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

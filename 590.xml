@@ -63,7 +63,7 @@
                         <provenance type="found" when="1939-07">
                             <placeName ref="ph">
                                Mörsch, Kiesgrube St. Johann, als Verfüllung in einem römischen Brunnen.
-                            </placeName>
+                            </placeName><geo>48.9685 8.307</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

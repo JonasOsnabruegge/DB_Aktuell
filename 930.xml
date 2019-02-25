@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1626">
                             <placeName ref="ph">
                                 Baden-Baden, Ooser Vorstadt.
-                            </placeName>
+                            </placeName><geo>48.76 8.23</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

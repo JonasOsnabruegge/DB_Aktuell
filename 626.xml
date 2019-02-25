@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1959">
                             <placeName ref="ph">
                                Seligenstadt, Einhardsbasilika, im Mittelschiff an einem Pfeiler, sekundär verwendet
-                            </placeName>
+                            </placeName><geo>50.04295 8.9784</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

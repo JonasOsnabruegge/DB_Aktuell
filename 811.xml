@@ -61,7 +61,7 @@
                             <provenance type="found" notAfter="1855">
                             <placeName ref="ph">
                                 Altdorf.
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

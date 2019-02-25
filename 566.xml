@@ -61,7 +61,7 @@
                         <provenance type="found" notBefore="1935-07-01" notAfter="1934-12-31">
                             <placeName ref="ph">
                                Altlußheim, am Hochufer. 
-                            </placeName>
+                            </placeName><geo>49.294 8.49</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

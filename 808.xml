@@ -59,7 +59,7 @@
                             <provenance type="found" when="1843">
                             <placeName ref="ph">
                                 Ramsen, bei, im Eisbachtal.
-                            </placeName>
+                            </placeName><geo>49.5386 8.0281</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

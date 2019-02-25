@@ -61,7 +61,7 @@
                         <provenance type="found" notBefore="1906" notAfter="1907">
                             <placeName ref="ph">
                                Worms, Dom, 3. Joch des nördlichen Seitenschiffs in der frühmittelalterlichen Mauer.
-                            </placeName>
+                            </placeName><geo>49.6271 8.3587</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

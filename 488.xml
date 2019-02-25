@@ -56,7 +56,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" notBefore="1827" notAfter="1828"><placeName ref="ph">Rockenhausen</placeName>
+                        <provenance type="found" notBefore="1827" notAfter="1828"><placeName ref="ph">Rockenhausen</placeName><geo>49.6305 7.8101</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

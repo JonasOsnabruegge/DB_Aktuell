@@ -50,7 +50,7 @@
                             </origPlace>
                             <origDate notBefore="0070" notAfter="0150" cert="low"/>
                         </origin>
-                        <provenance type="found" when="-1911"><placeName ref="ph">Heidelberg, Neuenheim</placeName>
+                        <provenance type="found" when="-1911"><placeName ref="ph">Heidelberg, Neuenheim</placeName><geo>49.415 8.684</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

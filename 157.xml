@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0001" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1926"><placeName ref="ph">Straßburg/Strasbourg, rue de la Mésange 13</placeName>
+                        <provenance type="found" when="1926"><placeName ref="ph">Straßburg/Strasbourg, rue de la Mésange 13</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

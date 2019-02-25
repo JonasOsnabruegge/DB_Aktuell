@@ -61,7 +61,7 @@
                         <provenance type="found" when="1880">
                             <placeName ref="ph">
                                 Straßburg/Strasbourg, Rue de Koenigshoffen, nördlich, Lokomotivschuppen, Fundament
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -49,7 +49,7 @@
                             </origPlace>
                             <origDate notBefore="0220" notAfter="0250" cert="medium"/>
                         </origin>
-                        <provenance type="found"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8658">Ladenburg, Mühlgasse 21</placeName>
+                        <provenance type="found"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8658">Ladenburg, Mühlgasse 21</placeName><geo>49.472732, 8.607499</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

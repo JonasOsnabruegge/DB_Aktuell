@@ -56,7 +56,7 @@
                             </origPlace>
                             <origDate notBefore="0130" notAfter="0200" cert="medium"/>
                         </origin>
-                        <provenance type="found" when="1867"><placeName ref="ph">Ladenburg, nahe der südöstlichen Ecke der Stadtmauer beim antiken Theater, ehemaliges Gewann Burgäcker</placeName>
+                        <provenance type="found" when="1867"><placeName ref="ph">Ladenburg, nahe der südöstlichen Ecke der Stadtmauer beim antiken Theater, ehemaliges Gewann Burgäcker</placeName><geo>49.4675 8.615</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

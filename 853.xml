@@ -57,7 +57,7 @@
                             <origDate notBefore="0200" notAfter="0250" cert="medium"/>
                         </origin>
                         <provenance type="found" when="1761">
-                            <placeName ref="ph">Eisenberg, in der Hochstadt, bei antiken Gebäuderesten auf dem Feld des Heinrich Geil.</placeName>
+                            <placeName ref="ph">Eisenberg, in der Hochstadt, bei antiken Gebäuderesten auf dem Feld des Heinrich Geil.</placeName><geo>49.554 8.078</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

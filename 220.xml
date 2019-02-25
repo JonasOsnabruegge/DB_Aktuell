@@ -60,7 +60,7 @@
                         <provenance type="found" when="1568-07">
                             <placeName ref="ph">
                                 Straßburg/Strasbourg, Rue de Koenigshoffen, nördlich, Lokschuppen
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

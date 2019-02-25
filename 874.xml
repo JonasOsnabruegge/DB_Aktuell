@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1602">
                             <placeName ref="ph">
                                 Breitenbach
-                            </placeName>
+                            </placeName><geo>49.43 7.27</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

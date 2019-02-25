@@ -61,7 +61,7 @@
                         <provenance type="found" when="1975">
                             <placeName ref="ph">
                                 Ernolsheim/Ernolsheim-lès-Saverne, Heidenstadt
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

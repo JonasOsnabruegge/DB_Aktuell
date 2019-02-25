@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0001" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1861"><placeName ref="ph"/>
+                        <provenance type="found" when="1861"><placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

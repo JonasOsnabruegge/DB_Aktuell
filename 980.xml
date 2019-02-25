@@ -59,7 +59,7 @@
                             <provenance type="found" when="1850-12-23">
                             <placeName ref="ph">
                                 Rottenburg/Neckar, Graibel, an der Straße nach Weggenthal.
-                            </placeName>
+                            </placeName><geo>48.48217 8.9336</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0300" cert="medium">deo</origDate>
                         </origin>
-                        <provenance type="found" when="1970"><placeName ref="ph">Neustadt/Weinstraße</placeName>
+                        <provenance type="found" when="1970"><placeName ref="ph">Neustadt/Weinstraße</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

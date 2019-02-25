@@ -59,7 +59,7 @@
                             <provenance type="found" when="1508">
                             <placeName ref="ph">
                                 Rottenburg/Neckar, hinter dem alten Schloss.
-                            </placeName>
+                            </placeName><geo>48.4765 8.931</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

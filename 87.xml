@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1999"><placeName ref="ph">Ladenburg, Heidelberger Straße 6</placeName>
+                        <provenance type="found" when="1999"><placeName ref="ph">Ladenburg, Heidelberger Straße 6</placeName><geo>49.4706 8.6101</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

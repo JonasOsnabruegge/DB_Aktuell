@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0001" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1861"><placeName ref="ph">Hockenheim, Rheinuferwiesen, gegenüber von Speyer, sog. 'Speyerer Grün'</placeName>
+                        <provenance type="found" when="1861"><placeName ref="ph">Hockenheim, Rheinuferwiesen, gegenüber von Speyer, sog. 'Speyerer Grün'</placeName><geo>49.319 8.519</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

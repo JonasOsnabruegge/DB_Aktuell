@@ -63,7 +63,7 @@
                         <provenance type="found" when="1892">
                             <placeName ref="ph">
                                 Speyer, Ludqigstraße Ecke Karmeliterstraße, südliches Gräberfeld der Zivilsiedlung.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

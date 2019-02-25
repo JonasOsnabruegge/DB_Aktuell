@@ -61,7 +61,7 @@
                         <provenance type="found" when="1999">
                             <placeName ref="ph">
                                 Mainhardt, Kirche, sekundär verwendet.
-                            </placeName>
+                            </placeName><geo>49.0785 9.5572</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

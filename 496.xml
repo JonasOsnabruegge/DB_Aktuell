@@ -61,7 +61,7 @@
                         <provenance type="found" when="1821">
                             <placeName ref="ph">
                                 Ruppertsberg, Siedlungsstelle 'Hoheburg'
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

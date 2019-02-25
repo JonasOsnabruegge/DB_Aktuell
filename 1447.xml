@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -26,16 +25,16 @@
                                         <dimensions unit="cm">
                                             <height>194</height>
                                             <width>42</width>
-                                            <depth></depth>
+                                            <depth/>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p/>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
@@ -52,15 +51,15 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAA" ref="ph">Civitas Aurelia Aquensis</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Remchingen</placeName>
-                            <origDate notBefore="0222" notAfter="0235"></origDate>
+                            <origDate notBefore="0222" notAfter="0235"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1747">
                             <placeName ref="ph">
                                 Remchingen, Nöttingen
-                            </placeName>
+                            </placeName><geo>48.9288 8.5675</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -96,7 +95,7 @@
             </div>
             <link target="#l1 #l2"/>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

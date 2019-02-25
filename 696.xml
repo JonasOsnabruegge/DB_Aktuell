@@ -61,7 +61,7 @@
                         <provenance type="found" when="1712">
                             <placeName ref="ph">
                                Heilbronn-Böckingen, zwischen Böckingen und Neckargertach.
-                            </placeName>
+                            </placeName><geo>49.151 9.93</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

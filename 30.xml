@@ -50,7 +50,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found"><placeName ref="ph">Heidelberg, Rohrbach</placeName>
+                        <provenance type="found"><placeName ref="ph">Heidelberg, Rohrbach</placeName><geo>49.381 8.688</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

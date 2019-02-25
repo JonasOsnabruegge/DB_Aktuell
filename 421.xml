@@ -59,7 +59,7 @@
                         <provenance type="found" when="1912">
                             <placeName ref="ph">
                                 Selz/Seltz, Bahnhofsstraße/Rue de la Gare? ("ad sinistram viae, quae a statione viae ferratae in oppidum ducit e regione primae domus (n. 330)", CIL XIII p. 162.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -61,7 +61,7 @@
                         <provenance type="found" when="1936">
                             <placeName ref="ph">
                                 Molsheim, Château Dachstein, östlich der Mühle
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

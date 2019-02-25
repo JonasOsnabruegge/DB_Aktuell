@@ -63,7 +63,7 @@
                         <provenance type="found" when="1952">
                             <placeName ref="ph">
                                 Worms, Wollstraße 4
-                            </placeName>
+                            </placeName><geo>49.6286 8.361</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

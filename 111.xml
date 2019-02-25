@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate when-custom="0232-08-13" datingMethod="#julian" cert="high">Konsuldatierung</origDate>
                         </origin>
-                        <provenance type="found" when="1861"><placeName ref="ph">Walldürn, Numeruskastell, vor dem Badegebäude, in situ?</placeName>
+                        <provenance type="found" when="1861"><placeName ref="ph">Walldürn, Numeruskastell, vor dem Badegebäude, in situ?</placeName><geo>49.5792 9.385</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

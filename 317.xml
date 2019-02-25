@@ -61,7 +61,7 @@
                         <provenance type="found" when="1885">
                             <placeName ref="ph">
                                 Lembach
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -61,7 +61,7 @@
                         <provenance type="found" when="1965">
                             <placeName ref="ph">
                                 Rutsweiler an der Lauter, Zweikirche, Fundament, bei Renovierungsarbeiten
-                            </placeName>
+                            </placeName><geo>49.5764 7.6183</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

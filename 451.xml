@@ -61,7 +61,7 @@
                         <provenance type="found" when="1609">
                             <placeName ref="ph">
                                 Speyer, ehemaliges Wormser Tor, Turm, vermauert.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

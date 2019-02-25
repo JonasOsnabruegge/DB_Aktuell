@@ -59,7 +59,7 @@
                         <provenance type="found" notBefore="1700" notAfter="1800">
                             <placeName ref="ph">
                                 Weissenburg/Wissembourg, Altenstadt, Ruinen des château Saint-Rémy
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

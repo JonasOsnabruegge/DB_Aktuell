@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0500" notAfter="0600" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1918"><placeName ref="ph">Riedstadt, Goddelau, 1 km westlich der Stadt 200 m nördlich der Straße nach Erfelden, östlich des Galgengewannes</placeName>
+                        <provenance type="found" when="1918"><placeName ref="ph">Riedstadt, Goddelau, 1 km westlich der Stadt 200 m nördlich der Straße nach Erfelden, östlich des Galgengewannes</placeName><geo>49.8366 8.4829</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="1734">
                             <placeName ref="ph">
                                Worms, Bergkloster.
-                            </placeName>
+                            </placeName><geo>49.6308 8.3569</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

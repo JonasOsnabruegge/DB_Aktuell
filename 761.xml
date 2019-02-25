@@ -59,7 +59,7 @@
                         <provenance type="found" when="1764">
                             <placeName ref="ph">
                                 Worms-Weinsheim, an der Straße zwischen Weinsheim und Horchheim
-                            </placeName>
+                            </placeName><geo>49.606 8.32355</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

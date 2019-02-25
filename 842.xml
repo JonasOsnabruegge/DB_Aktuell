@@ -59,7 +59,7 @@
                             <provenance type="found" when="1764-05-06">
                             <placeName ref="ph">
                                 Godramstein, bei der alten Pfarrkirche.
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

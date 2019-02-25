@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1616">
                             <placeName ref="ph">
                                Worms, im Bereich des Doms?
-                            </placeName>
+                            </placeName><geo>49.6271 8.3587</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

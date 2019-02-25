@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0050" notAfter="0200" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1903">Straßburg/Strasbourg, Place du Château, bei Kanalarbeiten<placeName ref="ph"/>
+                        <provenance type="found" when="1903">Straßburg/Strasbourg, Place du Château, bei Kanalarbeiten<placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

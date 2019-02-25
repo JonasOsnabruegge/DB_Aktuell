@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" notAfter="1926"><placeName ref="ph">Osterburken, Kastell?</placeName>
+                        <provenance type="found" notAfter="1926"><placeName ref="ph">Osterburken, Kastell?</placeName><geo>49.4268 9.4244</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

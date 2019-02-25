@@ -59,7 +59,7 @@
                             <provenance type="found" when="1880-04">
                             <placeName ref="ph">
                                Mannheim-Neckarau, Flur 'Kasterfeld' auf dem Johanniskirchhof, beim Bau eines Gemeindeweges in den Fundamenten eines römischen Gebäudes.
-                            </placeName>
+                            </placeName><geo>49.4438 8.5178</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

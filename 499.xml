@@ -63,7 +63,7 @@
                         <provenance type="found" notBefore="1957" notAfter="1958">
                             <placeName ref="ph">
                                 Speyer, Dom, im südlichen Seitenschiff an der Innenseite des Ostjoches vermauert.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

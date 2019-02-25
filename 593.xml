@@ -63,7 +63,7 @@
                         <provenance type="found" when="1936">
                             <placeName ref="ph">
                                Eutingen, am Igelbach, beim Bau der Autobahn Karlsruhe-Stuttgart, südlich der Bundesstraße 10
-                            </placeName>
+                            </placeName><geo>48.912 8.764</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

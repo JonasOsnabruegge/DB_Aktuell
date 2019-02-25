@@ -61,7 +61,7 @@
                         <provenance type="found" when="1961">
                             <placeName ref="ph">
                                Öhringen, beim Bau einer Tankstelle.
-                            </placeName>
+                            </placeName><geo>49.1996 9.516</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

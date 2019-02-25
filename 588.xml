@@ -61,7 +61,7 @@
                         <provenance type="found" when="1944-10">
                             <placeName ref="ph">
                                 Alzey, Eppelsheimer Weg, bei der Anlage von Splittergräben.
-                            </placeName>
+                            </placeName><geo>49.7364 8.12194</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

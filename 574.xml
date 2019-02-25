@@ -61,7 +61,7 @@
                         <provenance type="found" when="1930-10">
                             <placeName ref="ph">
                                Stuttgart, Bad Cannstatt, Seelbergtraße 7 an der Nordseite der Straße, römisches Gräberfeld.
-                            </placeName>
+                            </placeName><geo>48.8090 9.2181</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

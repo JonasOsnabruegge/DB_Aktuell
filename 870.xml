@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1564">
                             <placeName ref="ph">
                                 Ohmbach, am Heidenkopf.
-                            </placeName>
+                            </placeName><geo>49.449 7.350</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

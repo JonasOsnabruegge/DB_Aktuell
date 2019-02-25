@@ -63,7 +63,7 @@
                         <provenance type="found" when="1957">
                             <placeName ref="ph">
                                Ettlingen, Firmengelände der Ettlingen-Maxauer Papier- und Zellstoffwerke.
-                            </placeName>
+                            </placeName><geo>48.939 8.412</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

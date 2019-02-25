@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1800">
                             <placeName ref="ph">
                                 Rottenburg/Neckar, Zwiebelgasse.
-                            </placeName>
+                            </placeName><geo>48.4673 8.93394</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

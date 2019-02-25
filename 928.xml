@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1547">
                             <placeName ref="ph">
                                 Baden-Baden
-                            </placeName>
+                            </placeName><geo>48.75 8.25</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

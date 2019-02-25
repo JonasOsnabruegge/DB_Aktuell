@@ -65,7 +65,7 @@
                         <provenance type="found" when="1835">
                             <placeName ref="ph">
                                 Altrip, Gärten der Witwe Hook - verschleppt aus dem spätantiken Burgus?
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

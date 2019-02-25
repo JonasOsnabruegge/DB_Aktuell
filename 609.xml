@@ -63,7 +63,7 @@
                         <provenance type="found" when="1953">
                             <placeName ref="ph">
                                Jagsthausen, westlich des Ortes, beim Bau einer Wasserleitung
-                            </placeName>
+                            </placeName><geo>49.31 9.47</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

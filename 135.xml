@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0001" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1922"><placeName ref="ph">Öschelbronn, Garten des Hauses Nr. 192 (Landwirt Joh. Roller)</placeName>
+                        <provenance type="found" when="1922"><placeName ref="ph">Öschelbronn, Garten des Hauses Nr. 192 (Landwirt Joh. Roller)</placeName><geo>48.9069 8.8155</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

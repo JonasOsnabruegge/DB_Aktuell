@@ -61,7 +61,7 @@
                             <provenance type="found" notAfter="1733">
                             <placeName ref="ph">
                                Heidelberg, Heiligenberg, in den Ruinen der Kirche des Stephansklosters. Zunächst nach Handschuhsheim gebracht.
-                            </placeName>
+                            </placeName><geo>49.4198 8.705</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

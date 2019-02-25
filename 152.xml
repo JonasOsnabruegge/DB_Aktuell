@@ -61,7 +61,7 @@
                         <provenance type="found" when="1998">
                             <placeName ref="ph">
                                 Dieburg, Kettelerstraße 4, in einem römischen Brunnen.
-                            </placeName>
+                            </placeName><geo>49.5969 8.8432</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -63,7 +63,7 @@
                         <provenance type="found" when="1888-04-28">
                             <placeName ref="ph">
                                Worms, Klosterstraße, beim Städtischen Wasserwerk (in Richtung Mariamünster)
-                            </placeName>
+                            </placeName><geo>49.6242 8.3614</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

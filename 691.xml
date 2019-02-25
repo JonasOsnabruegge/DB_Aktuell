@@ -63,7 +63,7 @@
                         <provenance type="found" when="1835">
                             <placeName ref="ph">
                                 Altrip, in den Hookschen Gärten, Fundamente des spätantiken Burgus, sekundär verwendet.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
                         <provenance type="found" when="1922">
-                            <placeName ref="ph">Zabern/Saverne, spätantike Stadtmauer, sekundär verwendet, beim Neubau der Banque de France</placeName>
+                            <placeName ref="ph">Zabern/Saverne, spätantike Stadtmauer, sekundär verwendet, beim Neubau der Banque de France</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -60,7 +60,7 @@
                         <provenance type="found" when="1926">
                             <placeName ref="ph">
                                 Jagsthausen, in einer Scheune, in der Nähe des Kastells
-                            </placeName>
+                            </placeName><geo>49.311 9.469</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0130" notAfter="0170" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1967"><placeName ref="ph">Ladenburg, Ausoniusstraße, römisches Theater</placeName>
+                        <provenance type="found" when="1967"><placeName ref="ph">Ladenburg, Ausoniusstraße, römisches Theater</placeName><geo>49.4678 8.6152</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

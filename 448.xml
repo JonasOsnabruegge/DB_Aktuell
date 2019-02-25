@@ -63,7 +63,7 @@
                         <provenance type="found" when="1900">
                             <placeName ref="ph">
                                 Walsheim, Weinberg nördlich der Stadt, sekundär verwendet.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

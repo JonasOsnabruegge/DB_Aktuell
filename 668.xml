@@ -61,7 +61,7 @@
                         <provenance type="found" when="1883">
                             <placeName ref="ph">
                                Worms, an der Schillerstraße, in Sekundärverwendung als Teil eines fränkischen Plattengrabes.
-                            </placeName>
+                            </placeName><geo>49.6361 8.3613</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -61,7 +61,7 @@
                         <provenance type="found" when="1892">
                             <placeName ref="ph">
                                 Neckarburken, Numeruskastell, im atrium des praetoriums.
-                            </placeName>
+                            </placeName><geo>49.3779 9.1739</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

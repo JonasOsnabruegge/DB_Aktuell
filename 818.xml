@@ -59,7 +59,7 @@
                             <provenance type="found" when="1509">
                             <placeName ref="ph">
                                 Rheinzabern, Kirche St. Michael, später im Haus des Truchsess aufbewahrt.
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

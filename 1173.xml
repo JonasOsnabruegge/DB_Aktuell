@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -15,7 +14,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Miltenberg, Museum der Stadt</repository>
-                        <idno></idno>
+                        <idno/>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
@@ -34,8 +33,8 @@
                                 <layout>
                                     <p>Die Inschrift befindet sich auf dem Schaft.</p>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
@@ -60,7 +59,7 @@
                             <provenance type="found" when="1845-09">
                             <placeName ref="ph">
                                Miltenberg, Greinberg, Mercurius-Heiligtum
-                            </placeName>
+                            </placeName><geo>49.7016 9.23702</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -88,11 +87,11 @@
                     <lb n="3"/><persName type="attested" ref="persons.xml#p" role="creaotr"><name nymRef="Mansuetinius" type="gentilicium">Mansuetinius</name> <name nymRef="Se---" type="cognomen">Se<gap reason="lost" extent="unknown" unit="character"/></name></persName>
                     <lb n="4"/><expan><am><g type="centurio"/></am><ex>centurio</ex></expan> <orgName type="cohors" key="cohors I Sequanorum et Rauricorum"><expan><abbr>coh</abbr><ex>ortis</ex></expan> <num value="1"><hi rend="supraline">I</hi></num> <expan><abbr>Seq</abbr><ex>uanorum</ex></expan> et <expan><abbr>R<supplied reason="lost">auric</supplied></abbr><ex>orum</ex></expan></orgName>
                     <lb n="5"/><expan><abbr>sigil</abbr><ex>lum</ex></expan> <persName type="divine" key="Mercurius" role="god"><expan><abbr>Mercur</abbr><ex>ii</ex></expan></persName> <supplied reason="lost">posuit</supplied>
-                    <lb n="6"/><date when="0191" datingMethod="#julian" type="consul"><persName type="consul" ref="PIR² O 109"><name nymRef="Apronianus" type="cognomen"><expan><abbr>Apronian</abbr><ex>o</ex></expan><supplied reason="lost"></supplied></name></persName> et <persName type="consul" ref="PIR V 31"><name nymRef="Bradua" type="cognomen">Bra<supplied reason="lost">dua</supplied></name></persName> <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan></date>
+                    <lb n="6"/><date when="0191" datingMethod="#julian" type="consul"><persName type="consul" ref="PIR² O 109"><name nymRef="Apronianus" type="cognomen"><expan><abbr>Apronian</abbr><ex>o</ex></expan><supplied reason="lost"/></name></persName> et <persName type="consul" ref="PIR V 31"><name nymRef="Bradua" type="cognomen">Bra<supplied reason="lost">dua</supplied></name></persName> <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan></date>
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

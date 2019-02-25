@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0161" notAfter="0188" cert="low">Dominis Nostris</origDate>
                         </origin>
-                        <provenance type="found" when="1919"><placeName ref="ph">Jagsthausen, in einer Grube westlich des Kastells</placeName>
+                        <provenance type="found" when="1919"><placeName ref="ph">Jagsthausen, in einer Grube westlich des Kastells</placeName><geo>49.311 9.469</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

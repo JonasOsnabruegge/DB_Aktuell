@@ -61,7 +61,7 @@
                             <provenance type="found" notAfter="1758">
                             <placeName ref="ph">
                                 Pforzheim, Hagenschieß, Wüstung Hardheim ('Hardtheimer Schlößchen').
-                            </placeName>
+                            </placeName><geo>48.8994 8.8049</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -61,7 +61,7 @@
                         <provenance type="found" when="1963">
                             <placeName ref="ph">
                                Alzey, Kastell, in der Nordwange des westlichen Kastelltores.
-                            </placeName>
+                            </placeName><geo>49.7462 8.11685</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

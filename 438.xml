@@ -59,7 +59,7 @@
                         <provenance type="found" when="1611">
                             <placeName ref="ph">
                                 Speyer, ehemaliges Wormser Tor bei St. Guido, Turm, vermauert.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

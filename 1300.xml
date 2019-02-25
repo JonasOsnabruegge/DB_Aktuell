@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -15,34 +14,34 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Karlsrue, Badisches Landesmuseum</repository>
-                        <idno></idno>
+                        <idno/>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <p><term>Unbekannt</term>, rechts abgebrochen.</p>
-                                    <material></material>
+                                    <material/>
                                         <dimensions unit="cm">
-                                            <height></height>
-                                            <width></width>
-                                            <depth></depth>
+                                            <height/>
+                                            <width/>
+                                            <depth/>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p/>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p></p>
+                                <p/>
                                 <height/>
                             </handNote>
                         </handDesc>
@@ -52,15 +51,15 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Osterburken</placeName>
-                            <origDate notBefore="0160" notAfter="0250"></origDate>
+                            <origDate notBefore="0160" notAfter="0250"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1901">
                             <placeName ref="ph">
                                 Osterburken, Kohortenkastell
-                            </placeName>
+                            </placeName><geo>49.42751 9.42375</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -85,11 +84,11 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/><orgName type="cohors" key="cohors III Aquitanorum equitata"><supplied reason="lost"><expan><abbr>coh</abbr><ex>ors</ex></expan></supplied>
                     <lb n="2"/><num value="3">II<supplied reason="lost">I </supplied></num><supplied reason="lost"><expan><abbr>Aquit</abbr><ex>anorum</ex></expan></supplied>
-                    <lb n="3"/>eq<supplied reason="lost">uitata </supplied></orgName><supplied reason="lost">re</supplied><lb n="4" break="no"/>st<supplied reason="lost">it</supplied>u<supplied reason="lost">it</supplied><supplied reason="omitted"></supplied> 
+                    <lb n="3"/>eq<supplied reason="lost">uitata </supplied></orgName><supplied reason="lost">re</supplied><lb n="4" break="no"/>st<supplied reason="lost">it</supplied>u<supplied reason="lost">it</supplied><supplied reason="omitted"/> 
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0001" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1828"><placeName ref="ph">Dudenhofen, Ortseingang in Richtung Speyer</placeName>
+                        <provenance type="found" when="1828"><placeName ref="ph">Dudenhofen, Ortseingang in Richtung Speyer</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

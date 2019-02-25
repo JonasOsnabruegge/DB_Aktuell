@@ -63,7 +63,7 @@
                         <provenance type="found" when="1937">
                             <placeName ref="ph">
                                Obernburg/Main, Mainstraße 6, Gelände der Gerberei Wörn, in einen Brunnen; außerhalb des Kastellsb.
-                            </placeName>
+                            </placeName><geo>49.84177 9.1484</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

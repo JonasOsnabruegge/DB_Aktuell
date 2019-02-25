@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0300" cert="low">Ditsch nach Kontext</origDate>
                         </origin>
-                        <provenance type="found" notBefore="1790" notAfter="1800"><placeName ref="ph">Rockenhausen, etwa 1 km in Richtung Dörrenbach</placeName>
+                        <provenance type="found" notBefore="1790" notAfter="1800"><placeName ref="ph">Rockenhausen, etwa 1 km in Richtung Dörrenbach</placeName><geo>49.6287 7.80448</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

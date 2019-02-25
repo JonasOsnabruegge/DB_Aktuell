@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate when-custom="0229" cert="high">Konsuln</origDate>
                         </origin>
-                        <provenance type="found" notAfter="1927"><placeName ref="ph">Osterburken</placeName>
+                        <provenance type="found" notAfter="1927"><placeName ref="ph">Osterburken</placeName><geo>46.43 9.424</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

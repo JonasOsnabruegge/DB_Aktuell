@@ -59,7 +59,7 @@
                         <provenance type="found" when="1859">
                             <placeName ref="ph">
                                 Rheinzabern, Stufenstein, vor dem Haus des Valentin Flick (Nr. 156).
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

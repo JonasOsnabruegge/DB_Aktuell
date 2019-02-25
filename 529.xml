@@ -63,7 +63,7 @@
                         <provenance type="found" when="1926">
                             <placeName ref="ph">
                                 Altrip, Waldsee, sekundär verwendet als Teil eines fränkischen Plattengrabes.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

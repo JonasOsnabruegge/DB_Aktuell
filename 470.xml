@@ -63,7 +63,7 @@
                         <provenance type="found" when="1898-01">
                             <placeName ref="ph">
                                 Altrip, Rhein, Überreste des spätantiken Burgus.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

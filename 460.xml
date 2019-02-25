@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1800">
                             <placeName ref="ph">
                                 Kusel, in den Ruinen der alten Simultankirche - dort befindet sich die heutige Stadtkirche
-                            </placeName>
+                            </placeName><geo>49.537 7.400</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

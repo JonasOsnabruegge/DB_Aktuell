@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0225" notAfter="0250" cert="medium">Werkstattdatierung nach Behn.</origDate>
                         </origin>
-                        <provenance type="found" when="1922"><placeName ref="ph">Dieburg, Hof des Johann Bickel am südlichen Ortsausgang.</placeName>
+                        <provenance type="found" when="1922"><placeName ref="ph">Dieburg, Hof des Johann Bickel am südlichen Ortsausgang.</placeName><geo>49.89 8.84</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

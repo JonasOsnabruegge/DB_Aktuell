@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1972">
                             <placeName ref="ph">
                                 Speyer, Dom, Treppenhaus des Nordwestturms, vermauert.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

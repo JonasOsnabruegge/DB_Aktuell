@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0198" notAfter="0211" cert="medium">Kaisertitulatur, Regierungsbeginn?</origDate>
                         </origin>
-                        <provenance type="found" when="1994"><placeName ref="ph">Ladenburg, Metzgergasse 10</placeName>
+                        <provenance type="found" when="1994"><placeName ref="ph">Ladenburg, Metzgergasse 10</placeName><geo>49.4717 8.61</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -60,7 +60,7 @@
                             </origPlace>
                             <origDate notBefore="0130" notAfter="0200" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1971"><placeName ref="ph">Ladenburg, Bischofshof, Park</placeName>
+                        <provenance type="found" when="1971"><placeName ref="ph">Ladenburg, Bischofshof, Park</placeName><geo>49.471 8.6082</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

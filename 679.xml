@@ -61,7 +61,7 @@
                         <provenance type="found" when="1963">
                             <placeName ref="ph">
                                 Eckartsweiler/Eckartswiller, Fallberg, Gipfel, Am Gemeinen Brunnen, bei römischen Gebäuderesten
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

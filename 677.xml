@@ -61,7 +61,7 @@
                         <provenance type="found" when="1866-09">
                             <placeName ref="ph">
                                 Brumath
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -63,7 +63,7 @@
                         <provenance type="found" when="1885">
                             <placeName ref="ph">
                                Worms, südlich vom Mariamünster, "wo der neue Damm des Mariamünsterbaches dicht an die Frankenthale rStraße herantritt" (Weckerling nach CSIR).
-                            </placeName>
+                            </placeName><geo>49.613 8.3527</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

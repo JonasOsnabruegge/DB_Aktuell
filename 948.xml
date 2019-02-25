@@ -61,7 +61,7 @@
                             <provenance type="found" when="1850-04-09">
                             <placeName ref="ph">
                                 Karlsruhe, Mühlburg, in der Alb, nahe der ehemaligen Militärschwimmschule.
-                            </placeName>
+                            </placeName><geo>49.008 8.360</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

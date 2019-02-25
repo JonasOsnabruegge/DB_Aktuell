@@ -61,7 +61,7 @@
                         <provenance type="found" when="1912">
                             <placeName ref="ph">
                                 Zabern/Saverne, Rue de Gottenhouse/Route de Paris, Ecke - Nekropole
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -61,7 +61,7 @@
                         <provenance type="found" when="1765">
                             <placeName ref="ph">
                                 Wolfstein, Mühle
-                            </placeName>
+                            </placeName><geo>49.58396 7.608</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

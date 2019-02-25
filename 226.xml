@@ -61,7 +61,7 @@
                         <provenance type="found" when="1866">
                             <placeName ref="ph">
                                 Straßburg/Strasbourg, Römerstraße 125/Rue des Romains 91, beim Bau aines Kellers
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

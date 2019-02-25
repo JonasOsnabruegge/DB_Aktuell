@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0001" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1922"><placeName ref="ph">Maikammer, St. Martin, am Fuß des Kalmit</placeName>
+                        <provenance type="found" when="1922"><placeName ref="ph">Maikammer, St. Martin, am Fuß des Kalmit</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

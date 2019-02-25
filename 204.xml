@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0001" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" notAfter="1900">Straßburg/Strasbourg, Neukirchplatz, Haus Siegfried, bei, spätantike Stadtmauer, sekundär verwendet<placeName ref="ph"/>
+                        <provenance type="found" notAfter="1900">Straßburg/Strasbourg, Neukirchplatz, Haus Siegfried, bei, spätantike Stadtmauer, sekundär verwendet<placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

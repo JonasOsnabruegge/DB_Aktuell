@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1589">
                             <placeName ref="ph">
                                 Bad Bergzabern, in der Nähe des Schlosses.
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

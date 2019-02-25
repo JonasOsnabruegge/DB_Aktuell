@@ -59,7 +59,7 @@
                         <provenance type="found" when="1938">
                             <placeName ref="ph">
                                 Stockstadt/Main, Mercurius-Heiligtum.
-                            </placeName>
+                            </placeName><geo>49.9701 9.07183</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

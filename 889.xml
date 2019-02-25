@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1887">
                             <placeName ref="ph">
                                Worms, Schillerstraße, zusammen mit frühchristlichen Grabinschriften.
-                            </placeName>
+                            </placeName><geo>49.6361 8.3613</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

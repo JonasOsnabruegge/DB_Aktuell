@@ -59,7 +59,7 @@
                         <provenance type="found" when="1912">
                             <placeName ref="ph">
                                 Selz/Seltz, Hauptstraße/Rue Principale 117, Scheune des M. Brauner
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1533">
                             <placeName ref="ph">
                                 Speyer, St. German, Turm, vermauert
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

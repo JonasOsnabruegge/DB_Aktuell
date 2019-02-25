@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1925"><placeName ref="ph">Speyer, Domgarten, vor der Afra-Kapelle</placeName>
+                        <provenance type="found" when="1925"><placeName ref="ph">Speyer, Domgarten, vor der Afra-Kapelle</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

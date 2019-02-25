@@ -63,7 +63,7 @@
                         <provenance type="found" when="1937">
                             <placeName ref="ph">
                                Pforzheim, Kanzlerstraße/Gesellstraße, hinter dem städtischen Krankenhaus bei Tiefbauarbeiten.
-                            </placeName>
+                            </placeName><geo>48.8910 8.7169</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

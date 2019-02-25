@@ -63,7 +63,7 @@
                         <provenance type="found" when="1824">
                             <placeName ref="ph">
                                 Germersheim, auf dem Gebiet des alten Schlosses beim Neubau der Schule.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

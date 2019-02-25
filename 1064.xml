@@ -59,7 +59,7 @@
                             <provenance type="found" when="1897">
                             <placeName ref="ph">
                                Bad Wimpfen, Wimpfen im Tal, vicus, Mauer
-                            </placeName>
+                            </placeName><geo>49.2312 9.1803</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

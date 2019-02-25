@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1745">
                             <placeName ref="ph">
                                 Zabern/Saverne, Kirche, sekundär verwendet
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

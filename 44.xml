@@ -49,7 +49,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0150" cert="low"/>
                         </origin>
-                        <provenance type="found" when="2007"><placeName ref="ph">Heidelberg, Neuenheim, Uferstraße 32</placeName>
+                        <provenance type="found" when="2007"><placeName ref="ph">Heidelberg, Neuenheim, Uferstraße 32</placeName><geo>49.414 8.687</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

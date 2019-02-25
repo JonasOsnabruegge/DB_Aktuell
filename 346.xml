@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="1869">
                             <placeName ref="ph">
                                 Reichshofen/Reichshoffen, Rue des Vosges 39
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0160" notAfter="0260" cert="low">Truppengeschichte</origDate>
                         </origin>
-                        <provenance type="found" when="1920"><placeName ref="ph">Jagsthausen</placeName>
+                        <provenance type="found" when="1920"><placeName ref="ph">Jagsthausen</placeName><geo>49.31 9.47</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

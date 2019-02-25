@@ -61,7 +61,7 @@
                         <provenance type="found" when="1971">
                             <placeName ref="ph">
                                 Brumath, Rue J. Kablé, bei Kanalbauarbeiten
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

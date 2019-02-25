@@ -56,7 +56,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0230" cert="medium">Form des Altaraufsatzes nach Wiegels</origDate>
                         </origin>
-                        <provenance type="found" when="1845"><placeName ref="ph">Zwischen Ladenburg und Neckarhausen, Flussbett des Neckar, Kiesbett, beim Bau der Eisenbahnbrücke</placeName>
+                        <provenance type="found" when="1845"><placeName ref="ph">Zwischen Ladenburg und Neckarhausen, Flussbett des Neckar, Kiesbett, beim Bau der Eisenbahnbrücke</placeName><geo>49.714 8.6003</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -61,7 +61,7 @@
                         <provenance type="found" when="1898">
                             <placeName ref="ph">
                                 Kirchheim an der Weinstraße, Leininger Weg, Flur Laufer, sekundär verwendet.
-                            </placeName>
+                            </placeName><geo>49.542 8.175</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

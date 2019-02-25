@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0130" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1873"><placeName ref="ph">Ladenburg, Gewann Lustgärten, östlicher Teil</placeName>
+                        <provenance type="found" when="1873"><placeName ref="ph">Ladenburg, Gewann Lustgärten, östlicher Teil</placeName><geo>49.4691 8.6111</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

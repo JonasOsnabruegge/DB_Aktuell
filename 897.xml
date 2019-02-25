@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1873">
                             <placeName ref="ph">
                                 Alzey, bei, auf einem Feld.
-                            </placeName>
+                            </placeName><geo>49.75 8.117</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

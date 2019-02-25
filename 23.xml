@@ -50,7 +50,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0200" cert="low"/>
                         </origin>
-                        <provenance type="found" when="-1866"><placeName ref="ph">Heidelberg, Bergheim, ehemalige Bergheimer Mühle</placeName>
+                        <provenance type="found" when="-1866"><placeName ref="ph">Heidelberg, Bergheim, ehemalige Bergheimer Mühle</placeName><geo>49.408 8.684</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                         <provenance type="found" notBefore="1595">
                             <placeName ref="ph">
                                 Stuttgart, Bad Cannstatt
-                            </placeName>
+                            </placeName><geo>48.81208 9.21</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

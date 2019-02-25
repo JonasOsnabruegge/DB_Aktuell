@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="1830">
                             <placeName ref="ph">
                                 Bischofsheim/Bischoffsheim, alte Kirche, sekundär verwendet
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

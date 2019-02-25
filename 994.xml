@@ -59,7 +59,7 @@
                             <provenance type="found" when="1880">
                             <placeName ref="ph">
                                Leinfelden-Echterdingen, zwischen Stetten und Echterdingen auf dem Acker des Friedrich Ruck.
-                            </placeName>
+                            </placeName><geo>48.679 9.169</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

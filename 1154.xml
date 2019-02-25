@@ -59,7 +59,7 @@
                             <provenance type="found" when="1718">
                             <placeName ref="ph">
                                Osterburken, Numeruskastell?
-                            </placeName>
+                            </placeName><geo>49.4267 9.42482</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

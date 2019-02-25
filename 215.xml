@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0150" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1968">Straßburg/Strasbourg, Rue du Puits 1. Im Fundkontext korinthisches Kapitell.<placeName ref="ph"/>
+                        <provenance type="found" when="1968">Straßburg/Strasbourg, Rue du Puits 1. Im Fundkontext korinthisches Kapitell.<placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

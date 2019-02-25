@@ -59,7 +59,7 @@
                         <provenance type="found" when="1952">
                             <placeName ref="ph">
                                 Freiburg im Breisgau, Alstadt, Querwand eines Hauses, sekundär verwendet.
-                            </placeName>
+                            </placeName><geo>47.994 7.854</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

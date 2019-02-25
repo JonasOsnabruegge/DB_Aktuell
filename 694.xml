@@ -59,7 +59,7 @@
                         <provenance type="found" when="1517">
                             <placeName ref="ph">
                                Erpolzheim, am linken Ufer der Isenach.
-                            </placeName>
+                            </placeName><geo>49.489 8.222</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

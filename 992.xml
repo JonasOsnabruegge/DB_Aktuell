@@ -59,7 +59,7 @@
                             <provenance type="found" when="1789-09-28">
                             <placeName ref="ph">
                                Metzingen, bei, an einem Wehr der Erms am Rand der Metzinger Gemarkung gegen Neuhaus.
-                            </placeName>
+                            </placeName><geo>48.5324 9.2943</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

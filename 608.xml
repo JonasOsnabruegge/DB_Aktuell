@@ -63,7 +63,7 @@
                         <provenance type="found" when="1955">
                             <placeName ref="ph">
                                Öhringen, Eythstraße, Nordrand des Ostkastells
-                            </placeName>
+                            </placeName><geo>49.20002 9.51325</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

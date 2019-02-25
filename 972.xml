@@ -59,7 +59,7 @@
                             <provenance type="found" when="1825-07">
                             <placeName ref="ph">
                                 Oberndorf, Röthenberg, auf dem sog. "Schänzle".
-                            </placeName>
+                            </placeName><geo>48.2984 8.3966</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

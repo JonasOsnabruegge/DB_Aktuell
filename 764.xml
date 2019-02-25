@@ -59,7 +59,7 @@
                         <provenance type="found" when="1818">
                             <placeName ref="ph">
                                 Neuhausen bei Worms, ehemaliges Cyriakusstift
-                            </placeName>
+                            </placeName><geo>49.6432 8.3527</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

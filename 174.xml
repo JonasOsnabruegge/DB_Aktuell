@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1890"><placeName ref="ph">Baden-Baden, Frauenbad</placeName>
+                        <provenance type="found" when="1890"><placeName ref="ph">Baden-Baden, Frauenbad</placeName><geo>48.75 8.25</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

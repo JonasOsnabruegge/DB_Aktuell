@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="0000"><placeName ref="ph">Altrip, spätantikeer Burgus, sekundär verwendet - aus Ladenburg verschleppt?</placeName>
+                        <provenance type="found" when="0000"><placeName ref="ph">Altrip, spätantikeer Burgus, sekundär verwendet - aus Ladenburg verschleppt?</placeName><geo>49.433 8.502</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

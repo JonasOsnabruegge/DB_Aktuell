@@ -59,7 +59,7 @@
                             <provenance type="found" when="1869">
                             <placeName ref="ph">
                                Neuenhaus, Staatswald Neuhäuser Wand, am Nordabhang des Bozenberges zwischen Schaich und Aich.
-                            </placeName>
+                            </placeName><geo>48.6274 9.1713</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

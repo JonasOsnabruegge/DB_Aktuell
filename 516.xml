@@ -63,7 +63,7 @@
                         <provenance type="found" when="1931">
                             <placeName ref="ph">
                                 Speyer, Dom, Fundament des Chors, sekundär verwendet.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                         <provenance type="found" when="1666">
                             <placeName ref="ph">
                                Worms, links vor dem Martinstor.
-                            </placeName>
+                            </placeName><geo>49.6343 8.3647</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

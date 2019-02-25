@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0230" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1926"><placeName ref="ph">Dieburg, Mithraeum, bei, Brunnen</placeName>
+                        <provenance type="found" when="1926"><placeName ref="ph">Dieburg, Mithraeum, bei, Brunnen</placeName><geo>49.901 8.847</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

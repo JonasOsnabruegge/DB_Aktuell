@@ -61,7 +61,7 @@
                         <provenance type="found" when="1861-10">
                             <placeName ref="ph">
                                 Speyer, Seilerbahn, Haus des Maurermeisters Herbst senior
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

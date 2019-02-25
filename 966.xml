@@ -59,7 +59,7 @@
                             <provenance type="found" when="1847">
                             <placeName ref="ph">
                                 Rottweil, Altstadt
-                            </placeName>
+                            </placeName><geo>48.15801 8.64452</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

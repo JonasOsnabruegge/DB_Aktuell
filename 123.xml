@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0200" notAfter="0233" cert="low">DM, Typologie nach Faust</origDate>
                         </origin>
-                        <provenance type="found" when="1922"><placeName ref="ph">Zabern/Saverne, beim Neubau der Banque du France</placeName>
+                        <provenance type="found" when="1922"><placeName ref="ph">Zabern/Saverne, beim Neubau der Banque du France</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

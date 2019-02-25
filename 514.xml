@@ -59,7 +59,7 @@
                         <provenance type="found" notBefore="1946" notAfter="1947">
                             <placeName ref="ph">
                                 Speyer, St. German, in Sekundärverwendung als Deckplatte eines Grabes.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

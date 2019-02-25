@@ -59,7 +59,7 @@
                         <provenance type="found" when="1901-04">
                             <placeName ref="ph">
                                 Speyer, südlich des Doms, beim Abbruch des Mirbachhauses zum Bau des neuen Kreisarchives in den Fundamente der Stephanskirche.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

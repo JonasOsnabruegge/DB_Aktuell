@@ -59,7 +59,7 @@
                             <origDate notBefore="0001" notAfter="0300" cert="low"/>
                         </origin>
                         <provenance type="found" when="1926"><placeName ref="ph">Gimmeldingen, Kirche S. Nikolaus, bei, Hang zwischen Oberweg und Loblocherstraße
-                        </placeName>
+                        </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

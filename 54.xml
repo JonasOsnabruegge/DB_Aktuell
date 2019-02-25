@@ -55,7 +55,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0230" cert="medium">Fundkontext</origDate>
                         </origin>
-                        <provenance type="found" when="1966"><placeName ref="ph">Ladenburg, Kastellweg, Höhe Hausnr. 15</placeName>
+                        <provenance type="found" when="1966"><placeName ref="ph">Ladenburg, Kastellweg, Höhe Hausnr. 15</placeName><geo>49.4684 8.6135</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

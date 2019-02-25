@@ -63,7 +63,7 @@
                         <provenance type="found" when="1823">
                             <placeName ref="ph">
                                 Zwischen Bann und Landstuhl, auf dem Gebiet der Gemeinde Bann
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

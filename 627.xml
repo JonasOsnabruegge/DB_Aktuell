@@ -61,7 +61,7 @@
                         <provenance type="found" when="1960">
                             <placeName ref="ph">
                                Kindsbach, Großerberg, spätantike Höhenfestung.
-                            </placeName>
+                            </placeName><geo>49.419 7.661</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

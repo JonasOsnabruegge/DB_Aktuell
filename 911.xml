@@ -59,7 +59,7 @@
                             <provenance type="found" when="1867">
                             <placeName ref="ph">
                                 Oppenheim, Wörrsteiner Straße, vor dem Tor zum Kelterhaus Franz Senfter.
-                            </placeName>
+                            </placeName><geo>49.8675 8.3478</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

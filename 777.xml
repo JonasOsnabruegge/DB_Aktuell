@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1812">
                             <placeName ref="ph">
                                 Baden-Baden, Sandweier, Kirchturm, vermauert.
-                            </placeName>
+                            </placeName><geo>48.808 8.194</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

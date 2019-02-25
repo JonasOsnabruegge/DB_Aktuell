@@ -50,7 +50,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1984"><placeName ref="ph">Ladenburg, Realschulstraße 7, Nordseite im Bereich des Gemeindehauses, als Verfüllung in einem römischen Brunnen.</placeName>
+                        <provenance type="found" when="1984"><placeName ref="ph">Ladenburg, Realschulstraße 7, Nordseite im Bereich des Gemeindehauses, als Verfüllung in einem römischen Brunnen.</placeName><geo>49.4703 8.6116</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

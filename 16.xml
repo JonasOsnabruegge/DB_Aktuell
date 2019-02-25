@@ -51,7 +51,7 @@
                             <origDate notBefore="0100" notAfter="0200" cert="low"/>
                         </origin>
                         <provenance type="found" when="1838"><placeName ref="ph">Heidelberg, Neuenheimer Landstraße, Mithräum I</placeName>
-                            <geo/>
+                            <geo>49.4138 8.6941</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

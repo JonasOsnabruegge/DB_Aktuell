@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="">
                             <placeName ref="ph">
                                 Niedereschach, Fischbach, Gewann Bubenholz.
-                            </placeName>
+                            </placeName><geo>48.1556 8.5002</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

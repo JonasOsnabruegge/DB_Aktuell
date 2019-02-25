@@ -63,7 +63,7 @@
                         <provenance type="found" when="1928">
                             <placeName ref="ph">
                                 Obernburg/Main, Römerstraße, römische Gräberstraße, beim Neubau der Reichsbahnverwaltung
-                            </placeName>
+                            </placeName><geo>49.8452 9.1497</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

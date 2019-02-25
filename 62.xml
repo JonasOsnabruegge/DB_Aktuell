@@ -56,7 +56,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0250" cert="low">Deo/Dea</origDate>
                         </origin>
-                        <provenance type="found" when="1906"><placeName ref="ph">Ladenburg, Nordseite der mittelalterlichen Stadtmauer, beim Abriss, sekundär verwendet</placeName>
+                        <provenance type="found" when="1906"><placeName ref="ph">Ladenburg, Nordseite der mittelalterlichen Stadtmauer, beim Abriss, sekundär verwendet</placeName><geo>49.474 8.609</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

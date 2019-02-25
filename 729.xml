@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1813">
                             <placeName ref="ph">
                                 Osterburken, in der Nähe der Kirche im Keller eines Gebäudes.
-                            </placeName>
+                            </placeName><geo>49.4309 9.4273</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

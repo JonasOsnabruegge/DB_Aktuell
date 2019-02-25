@@ -60,7 +60,7 @@
                         <provenance type="found" when="1900">
                             <placeName ref="ph">
                                 Ingweiler/Ingwiller?
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

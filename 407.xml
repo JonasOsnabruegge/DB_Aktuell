@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="1869">
                             <placeName ref="ph">
                                 Zabern/Saverne, Greifenstein, Schlosserhöhe
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

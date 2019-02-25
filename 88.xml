@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0300" cert="low">Fundkontext: "Gefäßreste des 3. Jahrhunderts" (Sprater)</origDate>
                         </origin>
-                        <provenance type="found" when="1938"><placeName ref="ph">Esthal, Erfenstein, Breitensteiner Forsthaus, Sandgrube</placeName>
+                        <provenance type="found" when="1938"><placeName ref="ph">Esthal, Erfenstein, Breitensteiner Forsthaus, Sandgrube</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

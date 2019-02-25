@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="1866">
                             <placeName ref="ph">
                                 Bad Niederbronn/Niederbronn-les-Bains, Parc du Casino, Quelle, bei
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

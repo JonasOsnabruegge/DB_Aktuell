@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0320" notAfter="0500" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1926"><placeName ref="ph">Speyer, Domgaren, Nordseite des Doms, bei Kanalarbeiten.</placeName>
+                        <provenance type="found" when="1926"><placeName ref="ph">Speyer, Domgaren, Nordseite des Doms, bei Kanalarbeiten.</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

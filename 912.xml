@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1744">
                             <placeName ref="ph">
                                 Nierstein, Straße zwischen Nierstein und Oppenheim.
-                            </placeName>
+                            </placeName><geo>49.868 8.347</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

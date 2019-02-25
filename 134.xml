@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0300" cert="low">Mithras</origDate>
                         </origin>
-                        <provenance type="found" when="1920"><placeName ref="ph">Alzey, in der Nordwestecke des Kastells</placeName>
+                        <provenance type="found" when="1920"><placeName ref="ph">Alzey, in der Nordwestecke des Kastells</placeName><geo>49.7462 8.11685</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

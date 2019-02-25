@@ -61,7 +61,7 @@
                         <provenance type="found" when="1583">
                             <placeName ref="ph">
                                 Bad Niederbronn/Niederbronn-les-Bains, Wasenbourg, Anhöhe, Mercurius-Heiligtum, bei, in 2,4 m Höhe direkt in den Fels 9 m vom Eingang der Wasenburg gehauen
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

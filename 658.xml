@@ -61,7 +61,7 @@
                         <provenance type="found" when="1899">
                             <placeName ref="ph">
                                Worms, Hochstraße, bei der ins Eisbachtal führenden Römerstraße.
-                            </placeName>
+                            </placeName><geo>49.6269 8.3565</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

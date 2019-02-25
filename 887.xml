@@ -59,7 +59,7 @@
                         <provenance type="found" when="1834">
                             <placeName ref="ph">
                                Worms, Domplatz.
-                            </placeName>
+                            </placeName><geo>49.6297 8.3595</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

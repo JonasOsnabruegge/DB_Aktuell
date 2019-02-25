@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1972">
                             <placeName ref="ph">
                                 Speyer, Dom, im Ostarm der Krypta an der Nordwand, sekundär verwendet.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

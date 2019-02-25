@@ -59,7 +59,7 @@
                             <provenance type="found" notBefore="1842" notAfter="1843">
                             <placeName ref="ph">
                                 Wilferdingen, Gewann 'Welschental' beim Pflügen.
-                            </placeName>
+                            </placeName><geo>48.9507 8.5776</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

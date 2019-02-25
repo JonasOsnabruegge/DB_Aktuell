@@ -61,7 +61,7 @@
                         <provenance type="found" when="1862">
                             <placeName ref="ph">
                                 Betschdorf, Spechtensee
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

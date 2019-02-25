@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -15,14 +14,14 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Ladenburg, Lobdengau-Museum</repository>
-                        <idno></idno>
+                        <idno/>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <p><term>Unbekannt</term>. Allseitig abgebrochenes Fragment</p>
-                                    <material></material>
+                                    <material/>
                                         <dimensions unit="cm">
                                             <height>(16)</height>
                                             <width>(40)</width>
@@ -32,17 +31,17 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p/>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p></p>
+                                <p/>
                                 <height>8</height>
                             </handNote>
                         </handDesc>
@@ -54,13 +53,13 @@
                                 <placeName type="civitas" key="CVSN" ref="ph">Civitas Ulpia Sueborum Nicrensium</placeName>
                                 <placeName type="ancient" key="Lopodunum" ref="http://pleiades.stoa.org/places/118813">Lopodunum</placeName>
                                 <placeName type="modern">Ladenburg</placeName>
-                            <origDate notBefore="0130" notAfter="0250"></origDate>
+                            <origDate notBefore="0130" notAfter="0250"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" notAfter="2000">
                             <placeName ref="ph">
                                 Ladenburg, Lustgarten
-                            </placeName>
+                            </placeName><geo>49.4691 8.61</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -89,7 +88,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

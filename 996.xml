@@ -59,7 +59,7 @@
                             <provenance type="found" when="1783">
                             <placeName ref="ph">
                                Köngen
-                            </placeName>
+                            </placeName><geo>48.683 9.366</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

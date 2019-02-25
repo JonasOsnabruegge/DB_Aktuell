@@ -59,7 +59,7 @@
                             </origPlace>
                             <origDate when="0250" cert="medium">Kaisertitulatur</origDate>
                         </origin>
-                        <provenance type="found" when="1883"><placeName ref="ph">Ladenburg, Heidelberger Straße 15</placeName>
+                        <provenance type="found" when="1883"><placeName ref="ph">Ladenburg, Heidelberger Straße 15</placeName><geo>49.470 8.611</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

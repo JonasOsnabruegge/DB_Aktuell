@@ -59,7 +59,7 @@
                         <provenance type="found" when="1938">
                             <placeName ref="ph">
                                 Seligenstadt, in den Fundamenten des romanischen Ausbaus am nördlichen Querhausflügen der Basilika St. Marcellinus und Petrus.
-                            </placeName>
+                            </placeName><geo>50.04304 8.97876</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

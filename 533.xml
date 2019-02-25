@@ -59,7 +59,7 @@
                         <provenance type="found" notBefore="1934-02" notAfter="1935-03">
                             <placeName ref="ph">
                                 Bad Dürkheim, 'Brunholdisstuhl', römischer Steinbruch, Felswand
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

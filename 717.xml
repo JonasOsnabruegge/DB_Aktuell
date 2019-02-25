@@ -63,7 +63,7 @@
                         <provenance type="found" when="1982">
                             <placeName ref="ph">
                                 Osterburken, Beneficiarier-Weihbezirk, Befund XII/4 u. XII/5, Nr. 104 u. 105.
-                            </placeName>
+                            </placeName><geo>49.4300 9.4255</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

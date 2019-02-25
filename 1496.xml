@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -15,14 +14,14 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>verschollen</repository>
-                        <idno></idno>
+                        <idno/>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <p><term>Unbekannt</term>. Fragment von einem nicht näher identifizierten Monument, für die Sekundäverwendung abgearbeitet. Maßangaben aus alten Maßen (2,5 Fuß hoch, 2 Fuß breit, 4 Zoll tief, CIL) umgerechnet.</p>
-                                    <material></material>
+                                    <material/>
                                         <dimensions unit="cm">
                                             <height>(75)</height>
                                             <width>(60)</width>
@@ -32,17 +31,17 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p/>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p></p>
+                                <p/>
                                 <height/>
                             </handNote>
                         </handDesc>
@@ -52,15 +51,15 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CRiegel" ref="ph">Civitas von Riegel</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Breisach am Rhein</placeName>
-                            <origDate notBefore="0070" notAfter="0130"></origDate>
+                            <origDate notBefore="0070" notAfter="0130"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1843">
                             <placeName ref="ph">
                                 Breisach am Rhein, sekundär verwendet
-                            </placeName>
+                            </placeName><geo>48.03 7.58</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -88,7 +87,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

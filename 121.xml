@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0070" notAfter="0130" cert="low">Dis Manib(us) ausgeschrieben</origDate>
                         </origin>
-                        <provenance type="found" when="1922"><placeName ref="ph">Zabern/Saverne, beim Neubau der Banque du France</placeName>
+                        <provenance type="found" when="1922"><placeName ref="ph">Zabern/Saverne, beim Neubau der Banque du France</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

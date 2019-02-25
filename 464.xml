@@ -59,7 +59,7 @@
                         <provenance type="found" when="1823">
                             <placeName ref="ph">
                                 Zwischen Bann und Landstuhl, "auf halbem Wege links der Strasse auf dem höchsten Punkte des Waldes" zit. nach CIL XIII, p. 181.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

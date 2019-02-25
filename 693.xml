@@ -56,7 +56,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0122" cert="low">Nach CBI aufgrund des Formulars gegen Ende des Zeitraumes.</origDate>
                         </origin>
-                        <provenance type="found" when="1986"><placeName ref="ph">Bad Wimpfen im Tal, im Schutt der Mauer eines römischen Steingebäudes am westlichen Rand des Grabunsgebietes.</placeName>
+                        <provenance type="found" when="1986"><placeName ref="ph">Bad Wimpfen im Tal, im Schutt der Mauer eines römischen Steingebäudes am westlichen Rand des Grabunsgebietes.</placeName><geo>49.2312 9.1803</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

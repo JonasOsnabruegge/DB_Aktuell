@@ -63,7 +63,7 @@
                         <provenance type="found" when="1932">
                             <placeName ref="ph">
                                 Riegel, bei der Michaelskapelle, Mithraeum
-                            </placeName>
+                            </placeName><geo>48.15 7.7465</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

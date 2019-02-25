@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -15,34 +14,34 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>verschollen</repository>
-                        <idno></idno>
+                        <idno/>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <p><objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis</objectType>.</p>
-                                    <material></material>
+                                    <material/>
                                         <dimensions unit="cm">
-                                            <height></height>
-                                            <width></width>
-                                            <depth></depth>
+                                            <height/>
+                                            <width/>
+                                            <depth/>
                                         </dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <p></p>
+                                    <p/>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p></p>
+                                <p/>
                                 <height/>
                             </handNote>
                         </handDesc>
@@ -54,13 +53,13 @@
                                 <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="ancient" key="Seiopa" ref="https://pleiades.stoa.org/places/123117">Seiopa</placeName>
                                 <placeName type="modern">Amorbach, bei</placeName>
-                            <origDate notBefore="0160" notAfter="0250"></origDate>
+                            <origDate notBefore="0160" notAfter="0250"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" notAfter="1550">
                             <placeName ref="ph">
                                Amorbach, bei, im Odenwald
-                            </placeName>
+                            </placeName><geo>49.65 9.22</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -88,11 +87,11 @@
                     <lb n="3"/><expan><abbr>Triputien</abbr><ex>sium</ex></expan></orgName>
                     <lb n="4"/>sub cura
                     <lb n="5"/><persName type="attested" ref="persons.xml#p"><name nymRef="Marcus" type="praenomen"><expan><abbr>M</abbr><ex>arci</ex></expan></name> <name nymRef="Ulpius" type="gentilicium">Ulpi</name> <name nymRef="Malchus" type="cognomen">Malc<lb n="6" break="no"/>hi</name></persName> <expan><am><g type="centurio"/></am><ex>centurio</ex></expan> <orgName type="legio" key="legio XXII Primigenia p f"><expan><abbr>leg</abbr><ex>ionis</ex></expan> <num value="22">XXII</num>
-                    <lb n="7"/><expan><abbr>Pr</abbr><ex>imigeniae</ex></expan> <expan><abbr></abbr><ex>iae</ex></expan> <expan><abbr>f</abbr><ex>idelis</ex></expan></orgName>
+                    <lb n="7"/><expan><abbr>Pr</abbr><ex>imigeniae</ex></expan> <expan><abbr/><ex>iae</ex></expan> <expan><abbr>f</abbr><ex>idelis</ex></expan></orgName>
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

@@ -60,7 +60,7 @@
                         <provenance type="found">
                             <placeName ref="ph">
                                 Bad Niederbronn/Niederbronn-les-Bains, Rue du Génénral Leclerc 14-20, Keller
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

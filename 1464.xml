@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -15,7 +14,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Mainz, Landesamt für Denkmalpflege</repository>
-                        <idno></idno>
+                        <idno/>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
@@ -34,8 +33,8 @@
                                 <layout>
                                     <p>Vorgezeichnete Hilfslinien.</p>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
@@ -54,13 +53,13 @@
                                 <placeName type="civitas" key="CVan" ref="ph">Civitas Vangionum</placeName>
                                 <placeName type="ancient" key="ph" ref="https://pleiades.stoa.org/places/108820">Borbetomagus</placeName>
                                 <placeName type="modern">Worms</placeName>
-                            <origDate notBefore="0451" notAfter="0550"></origDate>
+                            <origDate notBefore="0451" notAfter="0550"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="2002">
                             <placeName ref="ph">
                                 Worms, Remeyerhofstraße, Nordnekropole
-                            </placeName>
+                            </placeName><geo>49.6357 8.3664</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -89,7 +88,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

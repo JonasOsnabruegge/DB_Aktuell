@@ -61,7 +61,7 @@
                         <provenance type="found" when="1953">
                             <placeName ref="ph">
                                Welzheim, zwischen West- und Ostkastell
-                            </placeName>
+                            </placeName><geo>48.8721 9.637</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

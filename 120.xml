@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0200" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1916"><placeName ref="ph">Zabern/Saverne, Pfarrgarten</placeName>
+                        <provenance type="found" when="1916"><placeName ref="ph">Zabern/Saverne, Pfarrgarten</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

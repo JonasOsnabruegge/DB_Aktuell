@@ -61,7 +61,7 @@
                             <provenance type="found" when="1803-04-29">
                             <placeName ref="ph">
                                 Nierstein, Schwefelquelle (heutiges 'Sirona-Bad') bei der römischen Quellfassung.
-                            </placeName>
+                            </placeName><geo>49.8639 8.3527</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

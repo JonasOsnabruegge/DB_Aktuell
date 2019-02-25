@@ -61,7 +61,7 @@
                         <provenance type="found" when="1935">
                             <placeName ref="ph">
                                Selzen - Hahnheim, zwischen, bei dem ehemaligen Bahnhof Selzen-Hahnheim
-                            </placeName>
+                            </placeName><geo>49.8633 8.2485</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

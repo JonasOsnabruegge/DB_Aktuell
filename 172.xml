@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0350" notAfter="0500" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1927"><placeName ref="ph">Alzey, genauer Fundort unbekannt</placeName>
+                        <provenance type="found" when="1927"><placeName ref="ph">Alzey, genauer Fundort unbekannt</placeName><geo>49.7459 8.116</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

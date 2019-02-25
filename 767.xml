@@ -59,7 +59,7 @@
                         <provenance type="found" when="1848">
                             <placeName ref="ph">
                                 Baden-Baden, Erbprinzenstraße, vor dem ehemaligen Hotel 'Viktoria', bei Rohrbauarbeiten.
-                            </placeName>
+                            </placeName><geo>48.762 8.240</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

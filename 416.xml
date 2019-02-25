@@ -63,7 +63,7 @@
                         <provenance type="found" when="1913">
                             <placeName ref="ph">
                                 Selz/Seltz, Bahnhofsstrasse 357, hinter dem Haus
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

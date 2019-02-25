@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0050" notAfter="0100" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1905">Straßburg/Strasbourg, rue Brûlée 4<placeName ref="ph"/>
+                        <provenance type="found" when="1905">Straßburg/Strasbourg, rue Brûlée 4<placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1547">
                             <placeName ref="ph">
                                Gundelsheim, Böttingen, auf dem Michaelsberg vor der St. Michaels-Kapelle.
-                            </placeName>
+                            </placeName><geo>49.291 9.154</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

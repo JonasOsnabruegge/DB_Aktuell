@@ -61,7 +61,7 @@
                             <provenance type="found" when="1894">
                             <placeName ref="ph">
                                 Pforzheim, Altstadt, auf dem Krankenhausgelände, bei Bauarbeiten in Städtischen Bauhof an der Holzgartenstraße.
-                            </placeName>
+                            </placeName><geo>48.8889 8.7123</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                         <provenance type="found" when="1958">
                             <placeName ref="ph">
                                Jagsthausen, Bahnhofstraße 201, hinter dem Haus, bei der Anlage einer Garage.
-                            </placeName>
+                            </placeName><geo>49.305 9.464</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

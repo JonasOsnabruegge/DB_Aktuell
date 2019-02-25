@@ -61,7 +61,7 @@
                         <provenance type="found" when="1883">
                             <placeName ref="ph">
                                Worms, Oppenheim, im Chor der romanischen Kirche, nach dem Abbruch im Fundament eines Hauses verwendet.
-                            </placeName>
+                            </placeName><geo>49.6067 8.2975</geo>
                         </provenance>
                         <provenance type="observed">
                             Worms, Museum, Autopsie

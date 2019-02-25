@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1959"><placeName ref="ph">Sand (Bas-Rhin), Ehl</placeName>
+                        <provenance type="found" when="1959"><placeName ref="ph">Sand (Bas-Rhin), Ehl</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

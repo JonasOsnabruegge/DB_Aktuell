@@ -63,7 +63,7 @@
                         <provenance type="found" when="1893-06">
                             <placeName ref="ph">
                                 Kreimbach-Kaulbach, Heidenburg, sekundär verwendet
-                            </placeName>
+                            </placeName><geo>49.559 7.631</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

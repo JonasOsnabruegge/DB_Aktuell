@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -34,8 +33,8 @@
                                 <layout>
                                     <p>Die Inschrift befindet sich in einem vertieften Inschriftfeld auf der Vorderseite. Gleichmäßiges Schrifbtild. Die erste Zeile befindet sich auf dem oberen Rahmen.</p>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
@@ -52,15 +51,15 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Obernburg/Main</placeName>
-                            <origDate notBefore="0070" notAfter="0150"></origDate>
+                            <origDate notBefore="0070" notAfter="0150"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" notAfter="1750">
                             <placeName ref="ph">
                                Obernburg/Main, Römerstraße 234
-                            </placeName>
+                            </placeName><geo>49.84150 9.1472</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -94,7 +93,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

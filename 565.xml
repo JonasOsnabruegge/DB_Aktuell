@@ -63,7 +63,7 @@
                         <provenance type="found" when="1931">
                             <placeName ref="ph">
                                Rheinsheim, Sandgruben bei der Bahnlinie
-                            </placeName>
+                            </placeName><geo>49.2323 8.4236</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

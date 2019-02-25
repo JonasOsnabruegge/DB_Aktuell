@@ -61,7 +61,7 @@
                         <provenance type="found" when="1931">
                             <placeName ref="ph">
                                 Zabern/Saverne, Lycée Leclerc, spätantike Stadtmauer, sekundär verwendet.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

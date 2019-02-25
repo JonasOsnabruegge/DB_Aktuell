@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0300" cert="medium">In H D D</origDate>
                         </origin>
-                        <provenance type="found" notAfter="1825"><placeName ref="ph">Dannstatt, aus der Umfassungsmauer der Kirche</placeName>
+                        <provenance type="found" notAfter="1825"><placeName ref="ph">Dannstatt, aus der Umfassungsmauer der Kirche</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

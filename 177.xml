@@ -60,7 +60,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1927"><placeName ref="ph">Karlsruhe-Grünwinkel, rechtes Albufer, römische Gebäudereste</placeName>
+                        <provenance type="found" when="1927"><placeName ref="ph">Karlsruhe-Grünwinkel, rechtes Albufer, römische Gebäudereste</placeName><geo>49.003 8.352</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

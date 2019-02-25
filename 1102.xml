@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -34,8 +33,8 @@
                                 <layout>
                                     <p>Die Inschrift befindet sich auf dem Schaft, den sie komplett ausfüllte.</p>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
@@ -52,7 +51,7 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAurG" ref="ph">Civitas Aurelia G...?</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Welzheim</placeName> 
                             <origDate notBefore="0197" notAfter="0211">dominorum imperatorum</origDate>
                             </origPlace>
@@ -60,7 +59,7 @@
                             <provenance type="found" when="1894">
                             <placeName ref="ph">
                                Welzheim, Ost-Kastell, Badegebäude
-                            </placeName>
+                            </placeName><geo>48.8712 9.6427</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -95,7 +94,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

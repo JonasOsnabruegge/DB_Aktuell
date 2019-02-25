@@ -61,7 +61,7 @@
                         <provenance type="found" when="1865">
                             <placeName ref="ph">
                                 Straßburg/Strasbourg, Place Saint-Pierre-le-Jeune
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

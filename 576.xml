@@ -63,7 +63,7 @@
                         <provenance type="found" when="1931">
                             <placeName ref="ph">
                                Stuttgart, Bad Cannstatt, auf der Steig, Düsseldorfer Straße 8, in einem römischen Brunnen.
-                            </placeName>
+                            </placeName><geo>48.8166 9.2088</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

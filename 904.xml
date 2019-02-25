@@ -59,7 +59,7 @@
                             <provenance type="found" when="1841">
                             <placeName ref="ph">
                                 Oppenheim, bei Nierstein.
-                            </placeName>
+                            </placeName><geo>49.8519 8.3602</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

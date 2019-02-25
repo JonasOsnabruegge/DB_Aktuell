@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0001" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1922"><placeName ref="ph">Rottweil</placeName>
+                        <provenance type="found" when="1922"><placeName ref="ph">Rottweil</placeName><geo>48.168 8.627</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

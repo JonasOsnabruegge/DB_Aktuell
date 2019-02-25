@@ -61,7 +61,7 @@
                         <provenance type="found" when="1912">
                             <placeName ref="ph">
                                 Betschdorf, Oberbetschdorf, Wald, sog. Ziegelviertel
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

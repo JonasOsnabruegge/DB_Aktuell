@@ -63,7 +63,7 @@
                         <provenance type="found" when="1904">
                             <placeName ref="ph">
                                 Eisenberg, in der Hochstadt
-                            </placeName>
+                            </placeName><geo>49.554 8.078</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

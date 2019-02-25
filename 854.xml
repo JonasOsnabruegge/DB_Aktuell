@@ -59,7 +59,7 @@
                             <provenance type="found" when="1764">
                             <placeName ref="ph">
                                 Kichheim/Weinstraße
-                            </placeName>
+                            </placeName><geo>49.537 8.181</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

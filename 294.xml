@@ -61,7 +61,7 @@
                         <provenance type="found" when="1858">
                             <placeName ref="ph">
                                 Hagen/Haegen, Gross-Limmersberg, Wasserwald, Heiligtum
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

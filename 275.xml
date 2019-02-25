@@ -60,7 +60,7 @@
                         <provenance type="found" when="1800">
                             <placeName ref="ph">
                                 Brumath, Marktplatz/Place du Marche
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

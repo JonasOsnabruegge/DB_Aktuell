@@ -61,7 +61,7 @@
                         <provenance type="found" when="1899-08">
                             <placeName ref="ph">
                                 Osterburken, Annexkastell, Westtor
-                            </placeName>
+                            </placeName><geo>49.4267 9.42482</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

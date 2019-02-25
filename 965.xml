@@ -61,7 +61,7 @@
                             <provenance type="found" when="1846">
                             <placeName ref="ph">
                                 Hockenheim, auf der Rheinniederung gegenüber von Speyer.
-                            </placeName>
+                            </placeName><geo>49.319 8.519</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

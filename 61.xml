@@ -54,7 +54,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0250" cert="low">Deo/Dea</origDate>
                         </origin>
-                        <provenance type="found" when="1971"><placeName ref="ph">Ladenburg, Valentinianstraße, westlich von Hausnr. 21, südlicher Vicusgraben</placeName>
+                        <provenance type="found" when="1971"><placeName ref="ph">Ladenburg, Valentinianstraße, westlich von Hausnr. 21, südlicher Vicusgraben</placeName><geo>49.4664 8.611</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

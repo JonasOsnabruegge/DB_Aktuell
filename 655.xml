@@ -65,7 +65,7 @@
                         <provenance type="found" when="1868">
                             <placeName ref="ph">
                                Mettenheim, an der Römerstraße Mogontiacum-Borbetomagus, westlich der Trasse.
-                            </placeName>
+                            </placeName><geo>49.7383 8.3283 </geo>
                         </provenance>
                         <provenance type="observed">
                             Worms, Museum, Autopsie

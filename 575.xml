@@ -61,7 +61,7 @@
                         <provenance type="found" when="1930">
                             <placeName ref="ph">
                                Güglingen, Flur Steinäcker, römischer vicus.
-                            </placeName>
+                            </placeName><geo>49.062 9.005</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -61,7 +61,7 @@
                         <provenance type="found" when="1786">
                             <placeName ref="ph">
                                 Medard, Schwanderhof
-                            </placeName>
+                            </placeName><geo>49.668 7.613</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

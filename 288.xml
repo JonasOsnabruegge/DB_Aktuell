@@ -60,7 +60,7 @@
                         <provenance type="found" notAfter="1851">
                             <placeName ref="ph">
                                 Gumprechtshofen/Gumbrechtshoffen, Hardt, Merkurheiligtum?
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

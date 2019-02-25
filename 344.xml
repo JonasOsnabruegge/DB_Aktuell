@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="1742">
                             <placeName ref="ph">
                                 Reichshofen/Reichshoffen, bei der alten Kirche, zerstörte Kirche außerhalb der Stadt
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

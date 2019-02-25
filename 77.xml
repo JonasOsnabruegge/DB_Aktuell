@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0130" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1927"><placeName ref="ph">Ladenburg, Hauptstraße 24, beim Umbau des ehemaligen Kaufhauses Kaufmann</placeName>
+                        <provenance type="found" when="1927"><placeName ref="ph">Ladenburg, Hauptstraße 24, beim Umbau des ehemaligen Kaufhauses Kaufmann</placeName><geo>49.472 8.6096</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

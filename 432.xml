@@ -59,7 +59,7 @@
                         <provenance type="found" when="1859">
                             <placeName ref="ph">
                                 Hördt, Rothenbach, bei der Römerstraße
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

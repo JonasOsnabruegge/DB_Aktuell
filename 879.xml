@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1838">
                             <placeName ref="ph">
                                 Kefersheim, auf einer Anhöhe.
-                            </placeName>
+                            </placeName><geo>49.687 7.432</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

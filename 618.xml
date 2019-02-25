@@ -63,7 +63,7 @@
                         <provenance type="found" when="1952">
                             <placeName ref="ph">
                                Obernburg/Main, an der Bergstraße; Grundstück Nr. 2247, bei Bauarbeiten.
-                            </placeName>
+                            </placeName><geo>49.84355 9.1454</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

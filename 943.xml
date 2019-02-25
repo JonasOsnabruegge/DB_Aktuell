@@ -59,7 +59,7 @@
                             <provenance type="found" when="1521-06-12">
                             <placeName ref="ph">
                                  Rastatt, bei, untergegangener Ort Dünhausen, am rechten Ufer der Murg zwischen Rastatt und dem Rhein gelegen.
-                            </placeName>
+                            </placeName><geo>48.8892 8.1958</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

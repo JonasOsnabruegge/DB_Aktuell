@@ -63,7 +63,7 @@
                         <provenance type="found" notAfter="1960">
                             <placeName ref="ph">
                                Berwangen, nördlicher Ortsrand, bei Bauarbeiten.
-                            </placeName>
+                            </placeName><geo>49.184 8.980</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1757">
                             <placeName ref="ph">
                                Baden-Württemberg, genauer Fundort unbekannt. Seebronn?
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

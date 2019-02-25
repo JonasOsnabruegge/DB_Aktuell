@@ -49,7 +49,7 @@
                             </origPlace>
                             <origDate notBefore="0080" notAfter="0110" cert="medium"/>
                         </origin>
-                        <provenance type="found" when="1963"><placeName ref="ph">Heidelberg, Neuenheim, Berliner Straße, römisches Gräberfeld</placeName>
+                        <provenance type="found" when="1963"><placeName ref="ph">Heidelberg, Neuenheim, Berliner Straße, römisches Gräberfeld</placeName><geo>49.412 8.677</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

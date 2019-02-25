@@ -59,7 +59,7 @@
                         <provenance type="found" when="1931">
                             <placeName ref="ph">
                                Bad Friedrichshall, Hagenbach, Friedhofskapelle, an der Nordostecke des Chores in 1,30 m Höhe vermauert
-                            </placeName>
+                            </placeName><geo>49.243 9.226</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

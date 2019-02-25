@@ -59,7 +59,7 @@
                             <provenance type="found" notBefore="1871" notAfter="1872">
                             <placeName ref="ph">
                                 Alzey, Drommäcker, zwischen Schloss und spätantikem Kastell.
-                            </placeName>
+                            </placeName><geo>49.744 8.117</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

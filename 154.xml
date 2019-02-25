@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0213" notAfter="0215" cert="high">Caracalla</origDate>
                         </origin>
-                        <provenance type="found" when="1923"><placeName ref="ph">Osterburken, Grundstück des Schäfers K. Hofmann, im Bauschutt, Kastell, praetorium</placeName>
+                        <provenance type="found" when="1923"><placeName ref="ph">Osterburken, Grundstück des Schäfers K. Hofmann, im Bauschutt, Kastell, praetorium</placeName><geo>49.4268 9.4244</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

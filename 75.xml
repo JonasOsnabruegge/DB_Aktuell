@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0230" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1867"><placeName ref="ph">Ladenburg</placeName>
+                        <provenance type="found" when="1867"><placeName ref="ph">Ladenburg</placeName><geo>49.475 8.6</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

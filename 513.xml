@@ -63,7 +63,7 @@
                         <provenance type="found">
                             <placeName ref="ph">
                                 Speyer
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

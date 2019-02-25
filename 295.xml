@@ -60,7 +60,7 @@
                         <provenance type="found" when="1862" cert="medium">
                             <placeName ref="ph">
                                 Hagenau/Haguenau, Schwenheim, Flur Salzmatt
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

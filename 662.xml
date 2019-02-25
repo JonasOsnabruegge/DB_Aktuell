@@ -59,7 +59,7 @@
                         <provenance type="found" when="1885-07-27">
                             <placeName ref="ph">
                                Worms, südlich des ehemaligen Klosters Maria Münster
-                            </placeName>
+                            </placeName><geo>49.6227 8.3587</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

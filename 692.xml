@@ -61,7 +61,7 @@
                         <provenance type="found" when="1912-08">
                             <placeName ref="ph">
                                Amorbach, neben der Abteikirche bei Kanalbauarbeiten
-                            </placeName>
+                            </placeName><geo>49.643 9.219</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0130" notAfter="0200" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1970"><placeName ref="ph">Ladenburg, Merianweg 4</placeName>
+                        <provenance type="found" when="1970"><placeName ref="ph">Ladenburg, Merianweg 4</placeName><geo>49.468 8.6102</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

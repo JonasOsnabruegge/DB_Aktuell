@@ -59,7 +59,7 @@
                             <provenance type="found" when="1748">
                             <placeName ref="ph">
                                 Baden-Baden, Schlossberg.
-                            </placeName>
+                            </placeName><geo>48.78 8.28</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

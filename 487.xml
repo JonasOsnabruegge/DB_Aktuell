@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="1909">
                             <placeName ref="ph">
                                 Rheinzabern, Gewann 24 Morgen, südliches Urnengräberfeld bei den Töpfereien
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

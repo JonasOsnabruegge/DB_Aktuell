@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0130" notAfter="0230" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1982"><placeName ref="ph">Ladenburg, Kellereigasse, Westseite</placeName>
+                        <provenance type="found" when="1982"><placeName ref="ph">Ladenburg, Kellereigasse, Westseite</placeName><geo>49.4729 8.6083</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1924"><placeName ref="ph">Walldürn, Gasthaus 'Zum Klosterlehen', Kellergewölbe, sekundär verwendet</placeName>
+                        <provenance type="found" when="1924"><placeName ref="ph">Walldürn, Gasthaus 'Zum Klosterlehen', Kellergewölbe, sekundär verwendet</placeName><geo>49.583 9.3686</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

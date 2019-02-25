@@ -59,7 +59,7 @@
                         <provenance type="found" notAfter="1959">
                             <placeName ref="ph">
                                 Worms oder Umgeburg, aus dem Bereich des Domes?
-                            </placeName>
+                            </placeName><geo>49.6355 8.3597</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

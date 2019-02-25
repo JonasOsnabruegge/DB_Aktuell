@@ -61,7 +61,7 @@
                         <provenance type="found" when="1998">
                             <placeName ref="ph">
                                 Straßburg/Strasbourg, Königshofen/Koenigshoffen, Rue du Donon
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

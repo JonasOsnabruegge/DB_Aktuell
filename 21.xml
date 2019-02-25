@@ -49,7 +49,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found"><placeName ref="ph">Heidelberg, Heiligenberg, Michealskloster</placeName>
+                        <provenance type="found"><placeName ref="ph">Heidelberg, Heiligenberg, Michealskloster</placeName><geo>49.425775, 8.706312</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

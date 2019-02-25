@@ -63,7 +63,7 @@
                         <provenance type="found" when="1956">
                             <placeName ref="ph">
                                Mühlacker, Dürrmenz, Waldenserstraße 36.
-                            </placeName>
+                            </placeName><geo>48.9421 8.84103</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

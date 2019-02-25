@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate when-custom="0229" datingMethod="#julian" cert="high">Konsuln</origDate>
                         </origin>
-                        <provenance type="found" when="1923"><placeName ref="ph">Osterburken, Anwesen des Ludwig Walzenbach, Kastell, bei der porta principalis sinistra</placeName>
+                        <provenance type="found" when="1923"><placeName ref="ph">Osterburken, Anwesen des Ludwig Walzenbach, Kastell, bei der porta principalis sinistra</placeName><geo>46.43 9.424</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

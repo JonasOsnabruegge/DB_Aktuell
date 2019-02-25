@@ -63,7 +63,7 @@
                         <provenance type="found" when="1952-09-30">
                             <placeName ref="ph">
                                Bad Wimpfen, evangelische Stadtkirche, im Untergeschoss des romanischen Südturms
-                            </placeName>
+                            </placeName><geo>49.227 9.159</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

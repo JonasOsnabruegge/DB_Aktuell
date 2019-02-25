@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0050" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1903">Straßburg/Strasbourg, Rue des Hallebardes 32, bei Kanalarbeiten<placeName ref="ph"/>
+                        <provenance type="found" when="1903">Straßburg/Strasbourg, Rue des Hallebardes 32, bei Kanalarbeiten<placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -61,7 +61,7 @@
                         <provenance type="found" when="1884">
                             <placeName ref="ph">
                                 Ubstadt-Weiher, Stettfeld, beim sogenannten Schwedenbrunnen.
-                            </placeName>
+                            </placeName><geo>49.181 8.6458</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

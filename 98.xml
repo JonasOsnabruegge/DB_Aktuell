@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" notAfter="1832"><placeName ref="ph">Godramstein</placeName>
+                        <provenance type="found" notAfter="1832"><placeName ref="ph">Godramstein</placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

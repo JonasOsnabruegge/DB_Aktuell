@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0030" notAfter="0300" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1858">Straßburg/Strasbourg, Collège Saint-Etienne, Sakristei, Außenmauer, sekundär verwendet<placeName ref="ph"/>
+                        <provenance type="found" when="1858">Straßburg/Strasbourg, Collège Saint-Etienne, Sakristei, Außenmauer, sekundär verwendet<placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

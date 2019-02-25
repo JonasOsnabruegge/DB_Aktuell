@@ -63,7 +63,7 @@
                             <provenance type="found" when="1882-07-11">
                             <placeName ref="ph">
                                Köngen, zwischen dem Dorf und den sogenannten 'Burgäckern'
-                            </placeName>
+                            </placeName><geo>48.683 9.366</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

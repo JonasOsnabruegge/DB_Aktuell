@@ -61,7 +61,7 @@
                         <provenance type="found" when="1929">
                             <placeName ref="ph">
                                Mainhardt, südlich des Kastells in einer Schuttgrube
-                            </placeName>
+                            </placeName><geo>49.0817 9.5587</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

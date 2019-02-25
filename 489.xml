@@ -63,7 +63,7 @@
                         <provenance type="found" when="1820">
                             <placeName ref="ph">
                                 Zwischen Mechtersheim und Heiligenstein, Römerberg-Heiligenstein, an der Straße nach Mechtersheim
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

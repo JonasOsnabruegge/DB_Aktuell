@@ -61,7 +61,7 @@
                             <provenance type="found" notAfter="1679">
                             <placeName ref="ph">
                                 Baden-Baden, im Garten des Kapuzinerklosters.
-                            </placeName>
+                            </placeName><geo>48.765 8.236</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

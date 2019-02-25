@@ -61,7 +61,7 @@
                         <provenance type="found" when="1809">
                             <placeName ref="ph">
                                 Gumprechtshofen/Gumbrechtshoffen, Hardt, Merkurheiligtum, Cella
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

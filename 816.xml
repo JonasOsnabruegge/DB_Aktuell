@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1538">
                             <placeName ref="ph">
                                 Rottweil. Dort im 17. Jh. wieder entdeckt und als Baumaterial verwendet, ursprünglich wohl aus Speyer, von dort in Handschriften aus dem 16. Jh. überliefert.
-                            </placeName>
+                            </placeName><geo>48.168 8.627</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

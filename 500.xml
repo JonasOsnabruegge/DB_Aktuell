@@ -59,7 +59,7 @@
                         <provenance type="found" when="1600">
                             <placeName ref="ph">
                                 Speyer, vor dem Neuburger Tor, Sandgruben, südwestliches Gräberfeld.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

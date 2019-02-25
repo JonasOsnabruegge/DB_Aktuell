@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1602">
                             <placeName ref="ph">
                                 Breitenbach, Kirche, Fundament.
-                            </placeName>
+                            </placeName><geo>49.433 7.270</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

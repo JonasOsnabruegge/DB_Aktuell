@@ -59,7 +59,7 @@
                         <provenance type="found" when="1952">
                             <placeName ref="ph">
                                Osterburken, Ortsetter 'Hahnklinge', Kastell, Hypokaustanlage nördlich der porta praetoria, sekundär verwendet.
-                            </placeName>
+                            </placeName><geo>49.42819 9.42460</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

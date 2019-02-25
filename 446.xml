@@ -61,7 +61,7 @@
                         <provenance type="found" when="1828">
                             <placeName ref="ph">
                                 Dudenhofen, auf dem Pfarracker am damaligen Ortsausgang Richtung Speyer.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

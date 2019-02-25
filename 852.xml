@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1905">
                              <placeName ref="ph">
                                 Genauer Fundort unbekannt, bayerische Rheinpfalz (im CIL unter 'loca incerta Bavariae Rhenanae').
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

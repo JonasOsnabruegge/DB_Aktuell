@@ -61,7 +61,7 @@
                         <provenance type="found" when="1860">
                             <placeName ref="ph">
                                 Lauterburg/Lauterbourg, beim Abbruch des Turms des Château des Burgraves, sekundär verwendet als Baumaterial
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

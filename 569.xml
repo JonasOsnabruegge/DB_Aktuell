@@ -61,7 +61,7 @@
                         <provenance type="found" when="1931">
                             <placeName ref="ph">
                                Rottenburg/Neckar, Weggentalstraße 1, vor dem Haus
-                            </placeName>
+                            </placeName><geo>48.47937 8.93459</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate when-custom="0162" datingMethod="#julian" cert="high">Tribunicia potestas</origDate>
                         </origin>
-                        <provenance type="found" when="1921"><placeName ref="ph">Obernburg/Main, Einmündung der Schmiedegasse in die Hauptstraße</placeName>
+                        <provenance type="found" when="1921"><placeName ref="ph">Obernburg/Main, Einmündung der Schmiedegasse in die Hauptstraße</placeName><geo>49.8414 9.14605</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

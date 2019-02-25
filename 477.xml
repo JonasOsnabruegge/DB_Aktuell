@@ -63,7 +63,7 @@
                         <provenance type="found" when="1988">
                             <placeName ref="ph">
                                 Medard, protestantische Kirche, bei Renovierungsarbeiten
-                            </placeName>
+                            </placeName><geo>49.6689 7.6132</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

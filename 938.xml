@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1811">
                             <placeName ref="ph">
                                 Baden-Baden, Hauptquelle, Gewölbe.
-                            </placeName>
+                            </placeName><geo>48.75 8.25</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

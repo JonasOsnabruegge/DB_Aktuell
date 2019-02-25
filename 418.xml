@@ -61,7 +61,7 @@
                         <provenance type="found" when="1976">
                             <placeName ref="ph">
                                 Selz/Seltz, Rue des Fossés 25, bei Kanalarbeiten
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

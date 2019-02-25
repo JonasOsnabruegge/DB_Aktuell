@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0150" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" notBefore="1920" notAfter="1921"><placeName ref="ph">Offenau, Flur Mäurich</placeName>
+                        <provenance type="found" notBefore="1920" notAfter="1921"><placeName ref="ph">Offenau, Flur Mäurich</placeName><geo>49.2350 9.1771</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

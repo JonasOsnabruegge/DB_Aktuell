@@ -61,7 +61,7 @@
                         <provenance type="found" when="1863">
                             <placeName ref="ph">
                                  Hüffenhardt, Kälbertshausen, Kirchhof
-                            </placeName>
+                            </placeName><geo>49.318 9.063</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

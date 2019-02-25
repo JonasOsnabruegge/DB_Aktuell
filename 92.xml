@@ -55,9 +55,9 @@
                                 <placeName type="CaputCivitatis" key="Lopodunum" ref="ph">Lopodunum?</placeName>
                                 <placeName type="modern">Ladenburg?</placeName>
                             </origPlace>
-                            <origDate when="0239-09-22" cert="high" type="consulship"></origDate>
+                            <origDate when="0239-09-22" cert="high" type="consulship"/>
                         </origin>
-                        <provenance type="found" when="1835"><placeName ref="ph">Altrip, Garten der Witwe Hook; spätantiker Burgus, sekundär verwendet - aus Ladenburg verschleppt?</placeName>
+                        <provenance type="found" when="1835"><placeName ref="ph">Altrip, Garten der Witwe Hook; spätantiker Burgus, sekundär verwendet - aus Ladenburg verschleppt?</placeName><geo>49.433 8.5019</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

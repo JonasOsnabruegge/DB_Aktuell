@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="1928">
                             <placeName ref="ph">
                                Ebingen, verschleppt von unbekanntem Ort.
-                            </placeName>
+                            </placeName><geo>48.21 9.03</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

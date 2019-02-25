@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1589">
                             <placeName ref="ph">
                                 Bad Bergzabern, zwischen Blankenborn und Silz, 'Katzeneck'.
-                            </placeName>
+                            </placeName><geo/>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

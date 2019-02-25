@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de">
     <teiHeader>
         <fileDesc>
@@ -34,8 +33,8 @@
                                 <layout>
                                     <p>Z. 1 befindet sich zum Teil im Bildfeld, unterhalb des Korbsessels und auf dem rechten Pfosten der Kline. Textteil 2 befindet sich auf der linken Seite auf und unter dem Schild, Textteil 3 auf der rechten Nebenseite auf dem Schild. Die N durchgehend retrograd. Idiosynkratische Schriftgestaltung. Hedera als Worttrenner in Z. 2, sonst dreieckige Worttrenner.</p>
                                    <dimensions>
-                                        <height></height>
-                                        <width></width>
+                                        <height/>
+                                        <width/>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
@@ -52,15 +51,15 @@
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
                                 <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
-                                <placeName type="ancient" key="ph" ref="ph"></placeName>
+                                <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Obernburg/Main</placeName>
-                            <origDate notBefore="0110" notAfter="0200"></origDate>
+                            <origDate notBefore="0110" notAfter="0200"/>
                             </origPlace>
                         </origin>
                             <provenance type="found" when="1889-10">
                             <placeName ref="ph">
                                 Obernburg/Main, Kastell, Gräberfeld, 500m vor der linken Flanke.
-                            </placeName>
+                            </placeName><geo>49.84122 9.14663</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>
@@ -104,7 +103,7 @@
                 </div>
             </div>
             <div type="apparatus">
-                <p></p>
+                <p/>
             </div>
             <div type="translation">
                 <p/>

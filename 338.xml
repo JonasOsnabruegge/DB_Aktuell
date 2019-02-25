@@ -60,7 +60,7 @@
                         <provenance type="found" when="1899-05-30">
                             <placeName ref="ph">
                                 Bad Niederbronn/Niederbronn-les-Bains, Wasenbourg, Anhöhe, Mercurius-Heiligtum, bei
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

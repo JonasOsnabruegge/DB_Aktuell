@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate notBefore="0200" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1909-05">Straßburg/Strasbourg, St. Arbogast<placeName ref="ph"/>
+                        <provenance type="found" when="1909-05">Straßburg/Strasbourg, St. Arbogast<placeName ref="ph"/><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -59,7 +59,7 @@
                             <provenance type="found" when="1790">
                             <placeName ref="ph">
                                 Rehweiler, oberhalb des Ortes im Waldstück 'Brandenbosch'
-                            </placeName>
+                            </placeName><geo>49.4861 7.4398</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

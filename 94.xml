@@ -57,7 +57,7 @@
                             </origPlace>
                             <origDate notBefore="0200" notAfter="0260" cert="medium">Fundkontext: Abfallgrube mit Scherben aus der Mitte des 3. Jhs. n. Chr.</origDate>
                         </origin>
-                        <provenance type="found" when="1930"><placeName ref="ph">Eisenberg, in der Hochstadt</placeName>
+                        <provenance type="found" when="1930"><placeName ref="ph">Eisenberg, in der Hochstadt</placeName><geo>49.554 8.078</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

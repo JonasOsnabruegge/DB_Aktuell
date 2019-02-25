@@ -58,7 +58,7 @@
                             </origPlace>
                             <origDate when="0238" cert="medium">Kaiser, Regierungsantritt?</origDate>
                         </origin>
-                        <provenance type="found" when="1883"><placeName ref="ph">Heidelberg, Bergheim, Thibautstraße, römischer Keller </placeName>
+                        <provenance type="found" when="1883"><placeName ref="ph">Heidelberg, Bergheim, Thibautstraße, römischer Keller </placeName><geo>49.409861 8.686841</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

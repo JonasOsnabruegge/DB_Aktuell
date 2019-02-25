@@ -50,7 +50,7 @@
                             </origPlace>
                             <origDate notBefore="0170" notAfter="0230" cert="medium"/>
                         </origin>
-                        <provenance type="found" when="1973"><placeName ref="ph">Ladenburg, Trajanstraße 19a als Verfüllung in einem römischen Brunnen</placeName>
+                        <provenance type="found" when="1973"><placeName ref="ph">Ladenburg, Trajanstraße 19a als Verfüllung in einem römischen Brunnen</placeName><geo>49.4678 8.6097</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

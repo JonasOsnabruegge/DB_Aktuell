@@ -61,7 +61,7 @@
                         <provenance type="found" notAfter="2017">
                             <placeName ref="ph">
                                 Speyer, Fundort und -datum unbekannt.
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

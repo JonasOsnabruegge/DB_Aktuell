@@ -61,7 +61,7 @@
                         <provenance type="found" when="1860">
                             <placeName ref="ph">
                                 Zabern/Saverne, Schlosserhöhe, gallo-römische Nekropole
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

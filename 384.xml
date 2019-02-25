@@ -63,7 +63,7 @@
                         <provenance type="found" when="1929">
                             <placeName ref="ph">
                                 Zabern/Saverne, Rue Poincaré 8, Fundament von Turm F der spätantiken Stadtmauer, sekundär verwendet
-                            </placeName>
+                            </placeName><geo/>
                         </provenance>
                         <provenance type="observed">
                         </provenance>
