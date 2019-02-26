@@ -50,7 +50,7 @@
                             <origDate notBefore="0249" notAfter="0251" cert="high"/>
                         </origin>
                         <provenance type="found" when="1877"><placeName ref="ph">Heidelberg, Bergheim, Thibautstraße, römischer Keller an der Römerstraße</placeName>
-                            <geo>49.409861, 8.686841</geo>
+                            <geo>49.409861 8.686841</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

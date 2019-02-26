@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
+                                <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Trennfurt</placeName>
                             <origDate when="0212" datingMethod="#julian"/>
@@ -59,7 +59,7 @@
                             <provenance type="found" notAfter="1771">
                             <placeName ref="ph">
                                Trennfurt, St. Maria Magdalena, Kirchturm, vermauert
-                            </placeName><geo>49.7794 9.1746</geo>
+                            </placeName><geo>49.7757 9.176</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

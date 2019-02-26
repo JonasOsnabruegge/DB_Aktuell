@@ -51,7 +51,7 @@
                             <origDate notBefore="0150" notAfter="0250" cert="low"/>
                         </origin>
                         <provenance type="found" when="1876"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8666">Heidelberg, Neckar, Mitte des Flussbettes zwischen Bergheim und Neuenheim</placeName>
-                        <geo>49.4111493, 8.6868695</geo>
+                        <geo>49.4111493 8.6868695</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

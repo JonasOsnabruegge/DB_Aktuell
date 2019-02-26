@@ -13,7 +13,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Speer, Historisches Museum der Pfalz</repository>
+                        <repository>Speyer, Historisches Museum der Pfalz</repository>
                         <idno/>
                     </msIdentifier>
                     <physDesc>
@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CNem" ref="Civtas Nemetum"/>
+                                <placeName type="civitas" key="CNem" ref="Civtas Nemetum">Civitas Nemetum</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
                                 <placeName type="modern">Neustadt an der Weinstraße</placeName> 
                             </origPlace>
@@ -98,7 +98,7 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        HD075884b
+                        HD075884
                     </bibl>
                     <bibl>
                         <ptr target="Berhnhard1982"/>

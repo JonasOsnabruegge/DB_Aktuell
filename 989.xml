@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="municipium" key="munAraeFlaviae" ref="oh">Municipium Arae Flaviae</placeName>
+                                <placeName type="civitas" key="CSum" ref="oh">Civitas Sumelocennensis</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Tübingen</placeName> 
                             <origDate notBefore="0236" notAfter="0238"/>

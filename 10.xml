@@ -51,7 +51,7 @@
                             <origDate notBefore="0101" notAfter="0250" cert="low"/>
                         </origin>
                         <provenance type="found"><placeName ref="http://edh-www.adw.uni-heidelberg.de/geographie/8624">Meckesheim, in der Mauer des ehemaligen Friedhofs der Martinskapelle</placeName><geo>
-                            49.325212, 8.826790
+                            49.325212 8.826790
                         </geo>                        </provenance>
                         <provenance type="observed">
                         </provenance>

@@ -52,7 +52,7 @@
                             </origPlace>
                             <origDate notBefore="0100" notAfter="0250" cert="low"/>
                         </origin>
-                        <provenance type="found" when="1935"><placeName ref="ph">Neckargemünd, Rainbach, Buchwald</placeName><geo>49.3937 8.2844</geo>
+                        <provenance type="found" when="1935"><placeName ref="ph">Neckargemünd, Rainbach, Buchwald</placeName><geo>49.3937 8.82844</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

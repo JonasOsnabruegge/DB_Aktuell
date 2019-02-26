@@ -49,7 +49,7 @@
                             </origPlace>
                             <origDate notBefore="0151" notAfter="0250" cert="medium">Mitte 2. bis Mitte 3. Jh. n. Chr.</origDate>
                         </origin>
-                        <provenance type="found" when="1935"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8888">Sinsheim, Stiftskirche, sekundär verwendet.</placeName><geo>48.25568 8.8817</geo>
+                        <provenance type="found" when="1935"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8888">Sinsheim, Stiftskirche, sekundär verwendet.</placeName><geo>49.25568 8.8817</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

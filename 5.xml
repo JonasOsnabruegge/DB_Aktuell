@@ -51,7 +51,7 @@
                             <origDate notBefore="0100" notAfter="0250" cert="medium"/>
                         </origin>
                         <provenance type="found" when="1927"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8914">Heidelberg, Neuenheim, Ecke Uferstraße / Ernst-Walz-Brücke</placeName>
-                            <geo>49.4115769, 8.676977434</geo>
+                            <geo>49.4115769 8.676977434</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

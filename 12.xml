@@ -50,7 +50,7 @@
                             <origDate notBefore="0101" notAfter="0200" cert="medium"/>
                         </origin>
                         <provenance type="found" when="1763"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8461">Heidelberg, Heiligenberg, Michaelskloster</placeName>
-                            <geo>49.425775, 8.706312</geo>
+                            <geo>49.425775 8.706312</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

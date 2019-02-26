@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAurG" ref="ph">Civitas Aurelia G...?</placeName>
+                                <placeName type="civitas" key="CAurG" ref="ph">Civitas Port...</placeName>
                                 <placeName type="ancient" key="ph" ref="ph"/>
                                 <placeName type="modern">Güglingen</placeName> 
                             <origDate notBefore="0100" notAfter="0250"/>
@@ -59,7 +59,7 @@
                             <provenance type="found" notBefore="2010">
                             <placeName ref="ph">
                                 Güglingen
-                            </placeName><geo>49.069 8.994</geo>
+                            </placeName><geo>49.0666 8.999</geo>
                             </provenance>
                         <provenance type="observed">
                         </provenance>

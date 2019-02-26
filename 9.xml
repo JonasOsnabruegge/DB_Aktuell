@@ -51,7 +51,7 @@
                             <origDate notBefore="0220" notAfter="0260" cert="low"/>
                         </origin>
                         <provenance type="found" when="1830"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8658">Ladenburg, Mühlgasse 21</placeName>
-                            <geo>49.472732, 8.607499</geo>
+                            <geo>49.472732 8.607499</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

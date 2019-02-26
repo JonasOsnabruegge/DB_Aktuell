@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CIul" ref="ph">Civitas von Iuliomagus?</placeName>
+                                <placeName type="municipium" key="MAF" ref="Municipium Arae Flaviae">Municipium Arae Flaviae</placeName>
                                 <placeName type="ancient" key="Brigobannis" ref="https://pleiades.stoa.org/places/187326">Brigobannis</placeName>
                                 <placeName type="modern">Hüfingen</placeName>
                             <origDate notBefore="0100" notAfter="0250"/>

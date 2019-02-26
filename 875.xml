@@ -50,7 +50,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="C" ref="ph"/>
+                                <placeName type="civitas" key="CVan" ref="Civitas Vangionum">Civitas Vangionum?</placeName>
                                 <placeName type="ph" key="ph" ref="ph"/>
                                 <placeName type="modern">Schwarzerden</placeName> 
                             </origPlace>

@@ -51,7 +51,7 @@
                             <origDate notBefore="0101" notAfter="0200" cert="medium"/>
                         </origin>
                         <provenance type="found" when="1901"><placeName ref="http://edh-www.adw.uni-heidelberg.de/edh/geographie/8268">Heidelberg, Bergheim, Vangerowstraße</placeName>
-                            <geo>49.4089692, 8.67368550</geo>
+                            <geo>49.4089692 8.67368550</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

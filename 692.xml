@@ -52,7 +52,7 @@
                         <origin>
                             <origPlace>
                                 <placeName type="provinz" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName>
-                                <placeName type="civitas" key="CAud" ref="ph">Civitas Auderiensium</placeName>
+                                <placeName type="civitas" key="CAlis" ref="ph">Civitas Alisinensium</placeName>
                                 <placeName type="ancient" key="Seiopa" ref="https://pleiades.stoa.org/places/123117">Seiopa, bei</placeName>
                                 <placeName type="modern">Amorbach</placeName>
                             </origPlace>
@@ -61,7 +61,7 @@
                         <provenance type="found" when="1912-08">
                             <placeName ref="ph">
                                Amorbach, neben der Abteikirche bei Kanalbauarbeiten
-                            </placeName><geo>49.643 9.219</geo>
+                            </placeName><geo>49.64338 9.21956</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>

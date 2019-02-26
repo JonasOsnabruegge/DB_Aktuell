@@ -60,7 +60,7 @@
                         </origin>
                         <provenance type="found" when="1894">
                             <placeName ref="ph">Dieburg, Ritterstraße, in einem römischen Brunnen.</placeName>
-                            <geo>49.902899, 8.84168750</geo>
+                            <geo>49.902899 8.84168750</geo>
                         </provenance>
                         <provenance type="observed">
                         </provenance>
