@@ -107,6 +107,12 @@
                     <bibl>
                         AE 2003, 1267
                     </bibl>
+                    <bibl>
+                        <ptr target="BernhardStickl2003"/>
+                        <biblScope>
+                            
+                        </biblScope>
+                    </bibl>
                 </listBibl>
             </div>
         </body>
